@@ -1,0 +1,349 @@
+<!doctype html>
+<html lang="en">
+  <head>
+<base href="/dashboards/stunting-literacy/">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Childhood Stunting and Later Educational Outcomes</title>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v3.20.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css?v=41" />
+  </head>
+  <body id="top">
+    <nav class="factbook-nav" aria-label="Dashboard navigation">
+      <a class="factbook-brand" href="/" aria-label="Data Factbook home">
+        <span>DATA</span><strong>Factbook</strong>
+      </a>
+      <div>
+        <a href="#maps">Maps</a>
+        <a href="#relationship">Compare patterns</a>
+        <a href="#methodology">How to interpret</a>
+        <a href="#sources">About</a>
+      </div>
+    </nav>
+    <main class="dashboard">
+      <header class="dashboard-header">
+        <div class="hero-copy">
+          <div class="hero-meta">
+            <span class="paired-datasets-tag">Paired datasets</span>
+          </div>
+          <p class="paired-data-line">DOST–FNRI 2008 childhood stunting · PSA 2023 senior-high completion · PSA 2024 functional literacy</p>
+          <p class="eyebrow hero-comparison">Philippines regional comparison</p>
+          <h1>Childhood Stunting and Later Educational Outcomes</h1>
+        </div>
+        <div class="lede-wrap">
+          <p class="lede">
+            Childhood stunting* can have lasting consequences for health, learning, and educational
+            attainment. This dashboard explores whether Philippine regions with higher under-five
+            stunting prevalence in 2008 also tended to report lower senior-high completion in 2023
+            and lower functional literacy in 2024.
+          </p>
+          <p class="lede">
+            These outcomes are shaped by many interacting conditions—not stunting alone. Household
+            income, parental education, school access and quality, conflict, displacement,
+            healthcare, infrastructure, migration, language, and other social and economic factors
+            can all influence regional results.
+          </p>
+          <p class="lede lede-conclusion">
+            The results should be read as evidence of regional pattern persistence and as a starting
+            point for further investigation—not as proof of a causal or longitudinal relationship.
+          </p>
+          <p class="hero-footnote">*In this dashboard, childhood stunting refers to stunting among children under five years old (ages 0–59 months).</p>
+        </div>
+        <section class="context-card" aria-label="Interpretation note">
+          <h2>How to read this</h2>
+          <p>
+            This visualization compares regions—not individuals. It explores geographic patterns
+            rather than cause and effect. Darker shades indicate more concerning values: higher
+            stunting, lower completion, and lower literacy.
+          </p>
+        </section>
+      </header>
+
+      <section class="concern-control" aria-label="Independent concern level filter">
+        <div>
+          <p class="eyebrow">Concern filter</p>
+          <h2>Highlight regions at or above a concern level</h2>
+          <p id="concern-copy">
+            Move the slider to focus on regions at or above the selected concern level. Higher
+            stunting and lower completion or literacy indicate greater concern.
+          </p>
+        </div>
+        <div class="slider-shell">
+          <div class="slider-label-row">
+            <strong id="concern-label">All regions</strong>
+            <span id="concern-count">All comparable regions shown</span>
+          </div>
+          <input
+            id="concern-slider"
+            type="range"
+            min="1"
+            max="5"
+            step="1"
+            value="1"
+            list="concern-stops"
+            aria-label="Filter each map by concern level"
+          />
+          <datalist id="concern-stops">
+            <option value="1" label="All"></option>
+            <option value="2" label="Slight"></option>
+            <option value="3" label="Moderate"></option>
+            <option value="4" label="High"></option>
+            <option value="5" label="Highest"></option>
+          </datalist>
+          <div class="slider-ticks" aria-hidden="true">
+            <span>All</span>
+            <span>Slight</span>
+            <span>Moderate</span>
+            <span>High</span>
+            <span>Highest</span>
+          </div>
+          <button id="reset-maps" class="reset-maps" type="button">↺ Reset all maps</button>
+        </div>
+      </section>
+
+      <section class="maps-grid" id="maps" aria-label="Regional maps">
+        <article class="map-card" data-panel="stunting">
+          <div class="card-top">
+            <div>
+              <p class="eyebrow">2008</p>
+              <h2>Stunting prevalence*</h2>
+            </div>
+            <strong id="stunting-national" class="national-stat">32.4%</strong>
+          </div>
+          <div class="map-wrap">
+            <div id="map-stunting" class="map"></div>
+            <div class="loading">Loading map...</div>
+          </div>
+          <div id="legend-stunting" class="legend"></div>
+          <p id="rank-label-stunting" class="ranking-title"></p>
+          <ol id="rank-stunting" class="ranking"></ol>
+        </article>
+
+        <article class="map-card" data-panel="education">
+          <div class="card-top">
+            <div>
+              <p class="eyebrow">2023</p>
+              <h2>Senior high completion</h2>
+            </div>
+            <strong id="education-national" class="national-stat">73.3%</strong>
+          </div>
+          <div class="map-wrap">
+            <div id="map-education" class="map"></div>
+            <div class="loading">Loading map...</div>
+          </div>
+          <div id="legend-education" class="legend"></div>
+          <p id="rank-label-education" class="ranking-title"></p>
+          <ol id="rank-education" class="ranking"></ol>
+        </article>
+
+        <article class="map-card" data-panel="literacy">
+          <div class="card-top">
+            <div>
+              <p class="eyebrow">2024</p>
+              <h2>Functional literacy</h2>
+            </div>
+            <strong id="literacy-national" class="national-stat">70.8%</strong>
+          </div>
+          <div class="map-wrap">
+            <div id="map-literacy" class="map"></div>
+            <div class="loading">Loading map...</div>
+          </div>
+          <div id="legend-literacy" class="legend"></div>
+          <p id="rank-label-literacy" class="ranking-title"></p>
+          <ol id="rank-literacy" class="ranking"></ol>
+        </article>
+      </section>
+
+      <section class="concern-region-panel" aria-live="polite">
+        <div>
+          <p class="eyebrow">Filtered regions</p>
+          <h2 id="concern-region-label">Regions highlighted by slider</h2>
+        </div>
+        <div id="concern-region-list" class="region-chip-list"></div>
+      </section>
+
+      <section class="detail-band" aria-live="polite">
+        <div>
+          <p class="eyebrow">Selected region</p>
+          <h2 id="selected-title">Hover or click a region</h2>
+        </div>
+        <div id="selected-metrics" class="metric-row">
+          <span>Stunting</span>
+          <span>Senior high completion</span>
+          <span>Functional literacy</span>
+        </div>
+      </section>
+
+      <section class="relationship-panel" id="relationship" aria-label="Regional comparison of stunting and education outcomes">
+        <div class="relationship-heading">
+          <div>
+            <p class="eyebrow">Regional comparison</p>
+            <h2>See all three measures<br />across every region.</h2>
+          </div>
+          <p>
+            If the proposed regional pattern holds, lower stunting in 2008 would appear alongside
+            higher completion and literacy later, while higher stunting would appear alongside
+            lower educational outcomes. Several regions follow this pattern, but others do not.
+          </p>
+        </div>
+        <div class="regional-pattern-groups" aria-label="Regions grouped by their relationship to the proposed pattern">
+          <article class="pattern-aligned">
+            <span>01 · Pattern aligns</span>
+            <h3>Most regional results follow<br />the proposed pattern.</h3>
+            <p>11 of 17 comparable regions align in one of two directions:</p>
+            <div class="pattern-aligned-sets">
+              <div class="pattern-favorable">
+                <h4><i></i>Lower stunting, higher completion and literacy</h4>
+                <ul id="pattern-favorable-list"></ul>
+              </div>
+              <div class="pattern-concern">
+                <h4><i></i>Higher stunting, lower completion and literacy</h4>
+                <ul id="pattern-concern-list"></ul>
+              </div>
+            </div>
+          </article>
+          <article class="pattern-mixed">
+            <span>02 · Pattern differs</span>
+            <h3>Some regional results differ<br />from the proposed pattern.</h3>
+            <p>6 of 17 comparable regions have mixed results:</p>
+            <h4><i></i>Mixed results</h4>
+            <ul id="pattern-mixed-list"></ul>
+          </article>
+        </div>
+        <p class="regional-pattern-method">
+          Groups use the median among the 17 comparable regions: 37.2% stunting, 70.0%
+          senior-high completion, and 67.6% functional literacy. They are descriptive categories,
+          not statistical tests or evidence that stunting caused the later outcomes.
+        </p>
+        <p class="regional-name-note">
+          <b>Why “ARMM / BARMM”?</b> The 2008 stunting source reports the Autonomous Region in
+          Muslim Mindanao (ARMM), while the later education datasets report the Bangsamoro
+          Autonomous Region in Muslim Mindanao (BARMM). Because the administrative coverage also
+          changed, this should be read as an approximate regional comparison.
+        </p>
+        <div class="regional-profile-wrap">
+          <div class="regional-profile-toolbar">
+            <span class="regional-profile-toolbar-label">Chart controls</span>
+            <div class="regional-profile-controls">
+              <div aria-label="Regional pattern filter">
+                <b>Show</b>
+                <button type="button" data-profile-pattern="all" class="active">All regions</button>
+                <button type="button" data-profile-pattern="aligned">Pattern aligns</button>
+                <button type="button" data-profile-pattern="mixed">Pattern differs</button>
+              </div>
+              <div aria-label="Regional chart order">
+                <b>Order</b>
+                <button type="button" data-profile-order="sequence" class="active">Regional sequence</button>
+                <button type="button" data-profile-order="descending">Highest stunting</button>
+                <button type="button" data-profile-order="ascending">Lowest stunting</button>
+              </div>
+            </div>
+          </div>
+          <div class="regional-profile-scroll">
+            <div id="regional-profile-chart" class="regional-profile-chart"></div>
+          </div>
+          <div class="regional-profile-key" aria-label="Chart legend">
+            <span><i class="stunting"></i>Stunting · 2008</span>
+            <span><i class="completion"></i>Senior-high completion · 2023</span>
+            <span><i class="literacy"></i>Functional literacy · 2024</span>
+          </div>
+          <p class="regional-profile-note">All three measures use the same percentage scale. Connecting lines aid comparison across the ordered regions; they do not represent change over time.</p>
+          <div class="regional-profile-summary">
+            <div><span>Highest stunting prevalence</span><strong id="profile-high-stunting">—</strong></div>
+            <div><span>Lowest senior-high completion</span><strong id="profile-low-completion">—</strong></div>
+            <div><span>Lowest functional literacy</span><strong id="profile-low-literacy">—</strong></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="methodology" id="methodology">
+        <div class="methodology-heading">
+          <p class="eyebrow">Methodological interpretation</p>
+          <h2>How to interpret the comparison.</h2>
+        </div>
+        <div class="methodology-grid">
+          <article>
+            <span>01</span>
+            <h3>A regional—not individual—comparison</h3>
+            <p>Each point represents a region, not a person or group followed over time. A downward pattern means that regions with higher stunting in 2008 also tended to have lower educational outcomes later. It does not show that the children measured in 2008 experienced those outcomes individually.</p>
+          </article>
+          <article>
+            <span>02</span>
+            <h3>Association is not causation</h3>
+            <p>Stunting and educational outcomes may share underlying influences, including poverty, food insecurity, parental education, health services, school access and quality, conflict, disasters, rural isolation, and infrastructure. The dashboard does not separate the independent effect of any one factor.</p>
+          </article>
+          <article>
+            <span>03</span>
+            <h3>Different surveys and populations</h3>
+            <p>The indicators come from separate surveys and administrative sources. Stunting covers children under five in 2008; senior-high completion is a regional education-system measure for 2023; functional literacy covers people ages 10–64 in 2024. Regional boundaries also changed during this period, particularly with the creation of the Negros Island Region.</p>
+          </article>
+        </div>
+        <p class="methodology-conclusion">The comparison is a starting point for further investigation—not proof of a causal or longitudinal relationship.</p>
+      </section>
+
+      <section class="source-notes" id="sources">
+        <p class="eyebrow">About the data</p>
+        <h2>Sources and<br />interpretation.</h2>
+        <div class="source-grid">
+          <div class="source-directory">
+            <b>Official sources</b>
+            <a href="https://enutrition.fnri.dost.gov.ph/download.php?path=uploads/2008_FaF.pdf&amp;type=facts" target="_blank" rel="noreferrer"><span>DOST–FNRI Philippine Nutrition Facts and Figures 2008</span><em>PDF · Table A.2 ↗</em></a>
+            <a href="https://psa.gov.ph/system/files/sdsd/2024%20FLEMMS%20Statistical%20Tables.xlsx" target="_blank" rel="noreferrer"><span>PSA 2024 Functional Literacy, Education and Mass Media Survey</span><em>XLSX · Table 3 ↗</em></a>
+            <a href="https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3I__G04/?tablelist=true" target="_blank" rel="noreferrer"><span>PSA OpenSTAT SDG Indicator 4.1.2</span><em>Data table ↗</em></a>
+          </div>
+          <p><b>Measure note</b>Stunting prevalence refers to children under 5 years old. The dashboard compares regional estimates from different reference years and does not establish cause and effect.</p>
+          <p><b>Boundary note</b>The map uses current regional geometry. Where older tables predate Negros Island Region, Negros Occidental uses Western Visayas values while Negros Oriental and Siquijor use Central Visayas values.</p>
+        </div>
+        <div class="dashboard-history">
+          <p class="history-title">Dashboard history</p>
+          <div class="history-dates">
+            <div><span>Created</span><strong>3 July 2026</strong></div>
+            <div><span>Last review</span><strong>21 August 2026</strong></div>
+            <div><span>Last update</span><strong>21 August 2026</strong></div>
+          </div>
+          <button class="maintenance-log-button" type="button" aria-haspopup="dialog">View maintenance log</button>
+        </div>
+      </section>
+    </main>
+
+    <footer class="factbook-footer">
+      <a href="/">← Back to Factbook</a>
+      <span>Health</span>
+    </footer>
+
+    <a class="floating-top" href="#top" aria-label="Back to top">↑</a>
+
+    <dialog class="maintenance-dialog" aria-labelledby="maintenance-title">
+      <div class="maintenance-dialog-header">
+        <div>
+          <p class="eyebrow">Dashboard history</p>
+          <h2 id="maintenance-title">Maintenance log</h2>
+        </div>
+        <button class="maintenance-dialog-close" type="button" aria-label="Close maintenance log">×</button>
+      </div>
+      <div class="maintenance-summary">
+        <time datetime="2026-08-21">21 August 2026</time>
+        <h3>Dashboard review and Factbook update</h3>
+        <p>Completed a full review of the paired regional data, interpretation, visual presentation, interactions, sources, and Factbook integration.</p>
+      </div>
+      <ol class="maintenance-events">
+        <li><div><span>Methodology updated</span><strong>Data and interpretation reviewed</strong><p>Checked the regional comparison data, clarified the theoretical—not causal or longitudinal—interpretation, documented the different survey populations and years, and added cautions about other social and economic influences.</p></div></li>
+        <li><div><span>Visualization redesigned</span><strong>Regional comparison redesigned</strong><p>Replaced the scatterplot section with a three-series regional line chart, added pattern-alignment groupings, regional ordering controls, filters, clickable region labels, and value cards.</p></div></li>
+        <li><div><span>Interaction improved</span><strong>Map interactions improved</strong><p>Refined the concern-level filter, synchronized highlighted regions across the three maps, and added a reset control that restores both the slider and the original map framing.</p></div></li>
+        <li><div><span>Labels standardized</span><strong>Regional labels and comparability notes added</strong><p>Standardized numbered regional names across maps, lists, and charts; spelled out the National Capital Region; and explained the ARMM/BARMM and changing-boundary comparisons.</p></div></li>
+        <li><div><span>Factbook integration</span><strong>Design and documentation completed</strong><p>Applied the health-themed Factbook styling, improved desktop and mobile layouts, added paired-dataset identification, updated navigation and footer behavior, linked official sources, and introduced dashboard history and maintenance documentation.</p></div></li>
+      </ol>
+      <div class="maintenance-created">
+        <time datetime="2026-07-03">3 July 2026</time>
+        <h3>Dashboard created</h3>
+        <p>Created the first comparison of 2008 childhood stunting, 2023 senior-high completion, and 2024 functional literacy.</p>
+      </div>
+    </dialog>
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v3.20.0/mapbox-gl.js"></script>
+    <script src="./app.js?v=12"></script>
+  </body>
+</html>

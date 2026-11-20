@@ -1,0 +1,19 @@
+{
+  "referenceDate": "2020-05-01",
+  "geographyStandard": "PSGC as of March 2022",
+  "records": [
+    { "level": "region", "id": "CAR", "name": "Cordillera Administrative Region", "language": "Ilocano", "households": 181577, "share": 41.3, "source": "https://rssocar.psa.gov.ph/content/languagedialect-generally-spoken-home-cordillera-2020-census-population-and-housing", "table": "Table 1" },
+    { "level": "region", "id": "MIMAROPA", "name": "MIMAROPA", "language": "Tagalog", "households": 554409, "share": 69.9, "source": "https://rssomimaropa.psa.gov.ph/content/languages-dialects-spoken-home-mimaropa-region-2020-census-population-and-housing", "table": "Table 1" },
+    { "level": "province", "id": "ABRA", "name": "Abra", "language": "Ilocano", "households": null, "share": 75.5, "source": "https://rssocar.psa.gov.ph/content/languagedialect-generally-spoken-home-cordillera-2020-census-population-and-housing", "table": "Table 2" },
+    { "level": "province", "id": "APAYAO", "name": "Apayao", "language": "Ilocano", "households": 17673, "share": 61.2, "source": "https://rssocar.psa.gov.ph/content/languagedialect-generally-spoken-home-cordillera-2020-census-population-and-housing", "table": "Table 3" },
+    { "level": "province", "id": "BENGUET", "name": "Benguet", "language": "Kankanaey", "households": 42333, "share": 36.3, "source": "https://rssocar.psa.gov.ph/content/languagedialect-generally-spoken-home-cordillera-2020-census-population-and-housing", "table": "Table 4" },
+    { "level": "province", "id": "IFUGAO", "name": "Ifugao", "language": "Tuwali", "households": 15739, "share": 32.3, "source": "https://rssocar.psa.gov.ph/content/languagedialect-generally-spoken-home-cordillera-2020-census-population-and-housing", "table": "Table 6" },
+    { "level": "province", "id": "KALINGA", "name": "Kalinga", "language": "Kalinga", "households": 25178, "share": 52.4, "source": "https://rssocar.psa.gov.ph/content/languagedialect-generally-spoken-home-cordillera-2020-census-population-and-housing", "table": "Table 7" },
+    { "level": "province", "id": "MOUNTAIN PROVINCE", "name": "Mountain Province", "language": "Kankanaey", "households": 11777, "share": 31.3, "source": "https://rssocar.psa.gov.ph/content/languagedialect-generally-spoken-home-cordillera-2020-census-population-and-housing", "table": "Table 8" },
+    { "level": "province", "id": "MARINDUQUE", "name": "Marinduque", "language": "Tagalog", "households": null, "share": 99.8, "source": "https://rssomimaropa.psa.gov.ph/content/languages-dialects-spoken-home-mimaropa-region-2020-census-population-and-housing", "table": "Table 2" },
+    { "level": "province", "id": "OCCIDENTAL MINDORO", "name": "Occidental Mindoro", "language": "Tagalog", "households": null, "share": 86.6, "source": "https://rssomimaropa.psa.gov.ph/content/languages-dialects-spoken-home-mimaropa-region-2020-census-population-and-housing", "table": "Table 2" },
+    { "level": "province", "id": "ORIENTAL MINDORO", "name": "Oriental Mindoro", "language": "Tagalog", "households": null, "share": 86.6, "source": "https://rssomimaropa.psa.gov.ph/content/languages-dialects-spoken-home-mimaropa-region-2020-census-population-and-housing", "table": "Table 2" },
+    { "level": "province", "id": "PALAWAN", "name": "Palawan", "language": "Tagalog", "households": null, "share": 50.0, "source": "https://rssomimaropa.psa.gov.ph/content/languages-dialects-spoken-home-mimaropa-region-2020-census-population-and-housing", "table": "Table 2" },
+    { "level": "province", "id": "ROMBLON", "name": "Romblon", "language": "Romblomanon", "households": null, "share": 40.7, "source": "https://rssomimaropa.psa.gov.ph/content/languages-dialects-spoken-home-mimaropa-region-2020-census-population-and-housing", "table": "Table 2" }
+  ]
+}

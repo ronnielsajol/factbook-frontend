@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+    <title>Religious Affiliation in the Philippines</title>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v3.20.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css?v=factbook-20260821-9" />
+  </head>
+  <body>
+    <header class="factbook-bar">
+      <a class="factbook-brand" href="/"><span>DATA</span><strong>Factbook</strong></a>
+      <p>People &amp; Demography <span>·</span> 2020 Census</p>
+      <a class="factbook-back" href="/">All dashboards →</a>
+    </header>
+    <div class="mobile-hero panel">
+      <p class="eyebrow">People &amp; Demography · 2020 Census</p>
+      <h1>Religious Affiliation in the Philippines</h1>
+      <p class="lede">
+        Release Date: Wed, 02/22/2023
+      </p>
+      <p class="source-copy">
+        Source:
+        <a
+          href="https://psa.gov.ph/content/religious-affiliation-philippines-2020-census-population-and-housing"
+          target="_blank"
+          rel="noreferrer"
+          >Philippine Statistics Authority</a
+        >
+      </p>
+      <div class="header-note-box">
+        <div class="definition-header">
+          <p class="header-note-label">Definition of Terms</p>
+        </div>
+        <p>
+          <strong>Religious affiliation</strong> refers to how members of the household population identified their religion in the 2020 Census.
+        </p>
+        <p>
+          The PSA conducts data collection by household, meaning religious affiliation is reported using <strong>household population</strong> as the base.
+        </p>
+        <p>
+          This covers individuals living in regular households and excludes those in institutional or collective living arrangements.
+        </p>
+      </div>
+    </div>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="panel hero desktop-hero">
+          <p class="eyebrow">People &amp; Demography · 2020 Census</p>
+          <h1>Religious Affiliation in the Philippines</h1>
+          <p class="lede">
+            Release Date: Wed, 02/22/2023
+          </p>
+          <p class="source-copy">
+            Source:
+            <a
+              href="https://psa.gov.ph/content/religious-affiliation-philippines-2020-census-population-and-housing"
+              target="_blank"
+              rel="noreferrer"
+              >Philippine Statistics Authority</a
+            >
+          </p>
+          <div class="header-note-box">
+            <div class="definition-header">
+              <p class="header-note-label">Definition of Terms</p>
+            </div>
+            <p>
+              <strong>Religious affiliation</strong> refers to how members of the household population identified their religion in the 2020 Census.
+            </p>
+            <p>
+              The PSA conducts data collection by household, meaning religious affiliation is reported using <strong>household population</strong> as the base.
+            </p>
+            <p>
+              This covers individuals living in regular households and excludes those in institutional or collective living arrangements.
+            </p>
+          </div>
+        </div>
+
+        <div class="panel token-panel is-hidden-panel" aria-hidden="true">
+          <label class="label" for="token-input">Mapbox public token</label>
+          <input
+            id="token-input"
+            class="text-input"
+            type="text"
+            autocomplete="off"
+            placeholder="Paste your pk.ey... token here"
+          />
+          <div class="button-row">
+            <button id="load-map-btn" class="primary-btn" type="button">
+              Load map
+            </button>
+            <button id="copy-link-btn" class="secondary-btn" type="button">
+              Copy share link
+            </button>
+          </div>
+          <p class="hint">
+            Once this folder is hosted online, the copied link becomes your
+            shareable public URL.
+          </p>
+        </div>
+
+        <section class="panel section-panel filters-panel">
+          <div class="section-header">
+            <span class="section-icon" aria-hidden="true"><span class="section-icon-chevron"></span></span>
+            <h2 class="section-title">Select Filters</h2>
+          </div>
+          <div class="filters-note-box">
+            <p class="filters-note-text">
+              <strong>Note:</strong> When the map first loads, the default selection is Regional view, Iglesia ni Cristo, and Household Population Count.
+            </p>
+            <p class="filters-note-text">
+              <strong>Coverage:</strong> Municipal and city-level religious-affiliation data are not available nationwide. This view includes only the highly urbanized cities and NCR local government units reported separately in the PSA source table.
+            </p>
+            <p class="filters-note-text">
+              <strong>Geography:</strong> Geographic classifications follow the 2020 Census. Sulu is shown using the current map boundary while retaining its 2020 religious-affiliation data and BARMM classification.
+            </p>
+          </div>
+          <div class="controls">
+            <div>
+              <label class="label" for="geography-select">Geography level</label>
+              <select id="geography-select" class="select-input" disabled>
+                <option value="region">Regional</option>
+                <option value="province">Provincial</option>
+                <option value="municipality">Municipalities / Cities</option>
+              </select>
+            </div>
+
+            <div>
+              <label class="label" for="religion-select">Religious affiliation</label>
+              <select id="religion-select" class="select-input" disabled></select>
+            </div>
+
+            <div>
+              <span class="label">Map shading</span>
+              <p class="static-value">Household Population Count*</p>
+              <p class="control-footnote">
+                *Count of household population reporting the selected religious affiliation.
+              </p>
+            </div>
+          </div>
+
+          <div class="legend-panel nested-panel">
+            <div class="legend-header">
+              <span class="label">Legend</span>
+              <span id="legend-value-type" class="value-type"></span>
+            </div>
+            <div id="legend" class="legend"></div>
+            <p id="legend-note" class="legend-note"></p>
+          </div>
+        </section>
+
+        <section class="panel section-panel quick-panel">
+          <div class="section-header">
+            <span class="section-icon" aria-hidden="true"><span class="section-icon-chevron"></span></span>
+            <h2 class="section-title">Quick Numbers</h2>
+          </div>
+
+          <div class="accordion-shortcuts" aria-label="Overview navigation">
+            <button class="accordion-shortcut" type="button" data-accordion-target="national">
+              National Overview
+            </button>
+            <button class="accordion-shortcut is-active" type="button" data-accordion-target="filtered">
+              Filtered View
+            </button>
+          </div>
+          <section class="accordion" data-accordion="national">
+            <button class="accordion-toggle" type="button" aria-expanded="false">
+              <span>National Overview</span>
+              <span class="accordion-icon">▾</span>
+            </button>
+            <div class="accordion-content">
+              <p id="quick-narrative" class="quick-narrative"></p>
+              <div id="quick-kpis" class="quick-kpis national-kpis"></div>
+              <div class="quick-grid national-grid">
+                <section>
+                  <p class="mini-label">Top 5 Religious Affiliations, Nationwide</p>
+                  <div id="donut-chart" class="donut-chart"></div>
+                  <div id="donut-legend" class="donut-legend"></div>
+                </section>
+              </div>
+              <section>
+                <p class="mini-label">Rank and Distribution of Top 5 Religious Affiliations by Region</p>
+                <p id="top5-region-note" class="stacked-note"></p>
+                <div id="top5-region-chart" class="stacked-region-chart"></div>
+              </section>
+              <section class="national-rank-section">
+                <p class="mini-label">Top 12 Religious Affiliations by Household Population Count</p>
+                <p class="stacked-note">This section ranks the top 12 religious affiliation categories nationwide by household population count.</p>
+                <div id="top15-chart" class="rank-chart"></div>
+              </section>
+            </div>
+          </section>
+
+          <section class="accordion is-open" data-accordion="filtered">
+            <button class="accordion-toggle" type="button" aria-expanded="true">
+              <span>Filtered View</span>
+              <span class="accordion-icon">▾</span>
+            </button>
+            <div class="accordion-content">
+              <div id="filtered-current" class="filtered-current"></div>
+              <p id="filtered-narrative" class="quick-narrative"></p>
+              <div id="filtered-kpis" class="quick-kpis"></div>
+              <section id="filtered-share-block" class="filtered-share-block"></section>
+              <section class="filtered-rank-section">
+                <p id="filtered-chart-label" class="mini-label">Top areas by population</p>
+                <div id="filtered-rank-chart" class="rank-chart"></div>
+              </section>
+            </div>
+          </section>
+        </section>
+        <div class="panel is-hidden-panel" aria-hidden="true">
+          <p class="label">Map notes</p>
+          <div id="summary" class="summary"></div>
+        </div>
+      </aside>
+
+      <main class="map-frame">
+        <div id="status-banner" class="status-banner">
+          Loading atlas controls...
+        </div>
+        <div id="map"></div>
+      </main>
+    </div>
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v3.20.0/mapbox-gl.js"></script>
+    <script src="./app.js?v=factbook-20260821-8"></script>
+  </body>
+</html>

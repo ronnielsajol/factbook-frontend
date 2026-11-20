@@ -1,0 +1,5062 @@
+{
+  "title": "Data on the Number of Registered Voters by Single-Year Age and Sex",
+  "election": "May 12, 2025 National, Local and BARMM Parliamentary Elections",
+  "asOf": "Based on Data from EBAD as of January 23, 2025",
+  "source": "Records and Statistics Division, ERSD",
+  "regions": [
+    {
+      "name": "Philippines",
+      "total": 68431965,
+      "male": 33554859,
+      "female": 34877106,
+      "ages": [
+        {
+          "age": "18",
+          "total": 1201634,
+          "male": 586491,
+          "female": 615143
+        },
+        {
+          "age": "19",
+          "total": 1466826,
+          "male": 720295,
+          "female": 746531
+        },
+        {
+          "age": "20",
+          "total": 1585615,
+          "male": 782465,
+          "female": 803150
+        },
+        {
+          "age": "21",
+          "total": 1770629,
+          "male": 877298,
+          "female": 893331
+        },
+        {
+          "age": "22",
+          "total": 1796634,
+          "male": 893316,
+          "female": 903318
+        },
+        {
+          "age": "23",
+          "total": 1755892,
+          "male": 873256,
+          "female": 882636
+        },
+        {
+          "age": "24",
+          "total": 1845022,
+          "male": 921364,
+          "female": 923658
+        },
+        {
+          "age": "25",
+          "total": 1822504,
+          "male": 910276,
+          "female": 912228
+        },
+        {
+          "age": "26",
+          "total": 1672802,
+          "male": 831506,
+          "female": 841296
+        },
+        {
+          "age": "27",
+          "total": 1736584,
+          "male": 864101,
+          "female": 872483
+        },
+        {
+          "age": "28",
+          "total": 1670239,
+          "male": 830727,
+          "female": 839512
+        },
+        {
+          "age": "29",
+          "total": 1653541,
+          "male": 824111,
+          "female": 829430
+        },
+        {
+          "age": "30",
+          "total": 1671748,
+          "male": 839321,
+          "female": 832427
+        },
+        {
+          "age": "31",
+          "total": 1671397,
+          "male": 839220,
+          "female": 832177
+        },
+        {
+          "age": "32",
+          "total": 1630968,
+          "male": 818800,
+          "female": 812168
+        },
+        {
+          "age": "33",
+          "total": 1587408,
+          "male": 801670,
+          "female": 785738
+        },
+        {
+          "age": "34",
+          "total": 1568588,
+          "male": 794721,
+          "female": 773867
+        },
+        {
+          "age": "35",
+          "total": 1489108,
+          "male": 753228,
+          "female": 735880
+        },
+        {
+          "age": "36",
+          "total": 1437666,
+          "male": 731687,
+          "female": 705979
+        },
+        {
+          "age": "37",
+          "total": 1428253,
+          "male": 727451,
+          "female": 700802
+        },
+        {
+          "age": "38",
+          "total": 1355948,
+          "male": 689145,
+          "female": 666803
+        },
+        {
+          "age": "39",
+          "total": 1285575,
+          "male": 656170,
+          "female": 629405
+        },
+        {
+          "age": "40",
+          "total": 1285754,
+          "male": 655696,
+          "female": 630058
+        },
+        {
+          "age": "41",
+          "total": 1269236,
+          "male": 643756,
+          "female": 625480
+        },
+        {
+          "age": "42",
+          "total": 1277387,
+          "male": 649971,
+          "female": 627416
+        },
+        {
+          "age": "43",
+          "total": 1237720,
+          "male": 626452,
+          "female": 611268
+        },
+        {
+          "age": "44",
+          "total": 1237683,
+          "male": 622419,
+          "female": 615264
+        },
+        {
+          "age": "45",
+          "total": 1256375,
+          "male": 635802,
+          "female": 620573
+        },
+        {
+          "age": "46",
+          "total": 1204259,
+          "male": 606533,
+          "female": 597726
+        },
+        {
+          "age": "47",
+          "total": 1149647,
+          "male": 577273,
+          "female": 572374
+        },
+        {
+          "age": "48",
+          "total": 1113403,
+          "male": 556256,
+          "female": 557147
+        },
+        {
+          "age": "49",
+          "total": 1086282,
+          "male": 541817,
+          "female": 544465
+        },
+        {
+          "age": "50",
+          "total": 1047641,
+          "male": 521962,
+          "female": 525679
+        },
+        {
+          "age": "51",
+          "total": 1018399,
+          "male": 504043,
+          "female": 514356
+        },
+        {
+          "age": "52",
+          "total": 1046040,
+          "male": 518380,
+          "female": 527660
+        },
+        {
+          "age": "53",
+          "total": 993969,
+          "male": 489794,
+          "female": 504175
+        },
+        {
+          "age": "54",
+          "total": 996799,
+          "male": 487724,
+          "female": 509075
+        },
+        {
+          "age": "55",
+          "total": 1033892,
+          "male": 505782,
+          "female": 528110
+        },
+        {
+          "age": "56",
+          "total": 975208,
+          "male": 473497,
+          "female": 501711
+        },
+        {
+          "age": "57",
+          "total": 906862,
+          "male": 439352,
+          "female": 467510
+        },
+        {
+          "age": "58",
+          "total": 869337,
+          "male": 417240,
+          "female": 452097
+        },
+        {
+          "age": "59",
+          "total": 847745,
+          "male": 406206,
+          "female": 441539
+        },
+        {
+          "age": "60 & Above",
+          "total": 11473746,
+          "male": 5108285,
+          "female": 6365461
+        }
+      ]
+    },
+    {
+      "name": "NATIONAL CAPITAL REGION",
+      "total": 7563520,
+      "male": 3461391,
+      "female": 4102129,
+      "ages": [
+        {
+          "age": "18",
+          "total": 79262,
+          "male": 36926,
+          "female": 42336
+        },
+        {
+          "age": "19",
+          "total": 124903,
+          "male": 58004,
+          "female": 66899
+        },
+        {
+          "age": "20",
+          "total": 140188,
+          "male": 66189,
+          "female": 73999
+        },
+        {
+          "age": "21",
+          "total": 163499,
+          "male": 77121,
+          "female": 86378
+        },
+        {
+          "age": "22",
+          "total": 173655,
+          "male": 81725,
+          "female": 91930
+        },
+        {
+          "age": "23",
+          "total": 175506,
+          "male": 82175,
+          "female": 93331
+        },
+        {
+          "age": "24",
+          "total": 186933,
+          "male": 87735,
+          "female": 99198
+        },
+        {
+          "age": "25",
+          "total": 187255,
+          "male": 87194,
+          "female": 100061
+        },
+        {
+          "age": "26",
+          "total": 179715,
+          "male": 82959,
+          "female": 96756
+        },
+        {
+          "age": "27",
+          "total": 190546,
+          "male": 87869,
+          "female": 102677
+        },
+        {
+          "age": "28",
+          "total": 190516,
+          "male": 87943,
+          "female": 102573
+        },
+        {
+          "age": "29",
+          "total": 187928,
+          "male": 87476,
+          "female": 100452
+        },
+        {
+          "age": "30",
+          "total": 183114,
+          "male": 86011,
+          "female": 97103
+        },
+        {
+          "age": "31",
+          "total": 180802,
+          "male": 85098,
+          "female": 95704
+        },
+        {
+          "age": "32",
+          "total": 181765,
+          "male": 85476,
+          "female": 96289
+        },
+        {
+          "age": "33",
+          "total": 176600,
+          "male": 82936,
+          "female": 93664
+        },
+        {
+          "age": "34",
+          "total": 175994,
+          "male": 83162,
+          "female": 92832
+        },
+        {
+          "age": "35",
+          "total": 169362,
+          "male": 80305,
+          "female": 89057
+        },
+        {
+          "age": "36",
+          "total": 160945,
+          "male": 76347,
+          "female": 84598
+        },
+        {
+          "age": "37",
+          "total": 158709,
+          "male": 75538,
+          "female": 83171
+        },
+        {
+          "age": "38",
+          "total": 154594,
+          "male": 73608,
+          "female": 80986
+        },
+        {
+          "age": "39",
+          "total": 147124,
+          "male": 70122,
+          "female": 77002
+        },
+        {
+          "age": "40",
+          "total": 146929,
+          "male": 69655,
+          "female": 77274
+        },
+        {
+          "age": "41",
+          "total": 147678,
+          "male": 69568,
+          "female": 78110
+        },
+        {
+          "age": "42",
+          "total": 147028,
+          "male": 68896,
+          "female": 78132
+        },
+        {
+          "age": "43",
+          "total": 146409,
+          "male": 68543,
+          "female": 77866
+        },
+        {
+          "age": "44",
+          "total": 148504,
+          "male": 69279,
+          "female": 79225
+        },
+        {
+          "age": "45",
+          "total": 148149,
+          "male": 69497,
+          "female": 78652
+        },
+        {
+          "age": "46",
+          "total": 143503,
+          "male": 66801,
+          "female": 76702
+        },
+        {
+          "age": "47",
+          "total": 136696,
+          "male": 63664,
+          "female": 73032
+        },
+        {
+          "age": "48",
+          "total": 133014,
+          "male": 62075,
+          "female": 70939
+        },
+        {
+          "age": "49",
+          "total": 126755,
+          "male": 58975,
+          "female": 67780
+        },
+        {
+          "age": "50",
+          "total": 120484,
+          "male": 55771,
+          "female": 64713
+        },
+        {
+          "age": "51",
+          "total": 119346,
+          "male": 54921,
+          "female": 64425
+        },
+        {
+          "age": "52",
+          "total": 120982,
+          "male": 55552,
+          "female": 65430
+        },
+        {
+          "age": "53",
+          "total": 118671,
+          "male": 54643,
+          "female": 64028
+        },
+        {
+          "age": "54",
+          "total": 120594,
+          "male": 55266,
+          "female": 65328
+        },
+        {
+          "age": "55",
+          "total": 121947,
+          "male": 56045,
+          "female": 65902
+        },
+        {
+          "age": "56",
+          "total": 114006,
+          "male": 51373,
+          "female": 62633
+        },
+        {
+          "age": "57",
+          "total": 106641,
+          "male": 47931,
+          "female": 58710
+        },
+        {
+          "age": "58",
+          "total": 101534,
+          "male": 45126,
+          "female": 56408
+        },
+        {
+          "age": "59",
+          "total": 100972,
+          "male": 44636,
+          "female": 56336
+        },
+        {
+          "age": "60 & Above",
+          "total": 1324763,
+          "male": 551255,
+          "female": 773508
+        }
+      ]
+    },
+    {
+      "name": "CORDILLERA ADM. REGION",
+      "total": 1105063,
+      "male": 560254,
+      "female": 544809,
+      "ages": [
+        {
+          "age": "18",
+          "total": 19106,
+          "male": 9317,
+          "female": 9789
+        },
+        {
+          "age": "19",
+          "total": 21902,
+          "male": 10789,
+          "female": 11113
+        },
+        {
+          "age": "20",
+          "total": 23520,
+          "male": 11874,
+          "female": 11646
+        },
+        {
+          "age": "21",
+          "total": 27508,
+          "male": 13756,
+          "female": 13752
+        },
+        {
+          "age": "22",
+          "total": 28271,
+          "male": 14258,
+          "female": 14013
+        },
+        {
+          "age": "23",
+          "total": 27768,
+          "male": 13896,
+          "female": 13872
+        },
+        {
+          "age": "24",
+          "total": 29476,
+          "male": 14841,
+          "female": 14635
+        },
+        {
+          "age": "25",
+          "total": 28288,
+          "male": 14323,
+          "female": 13965
+        },
+        {
+          "age": "26",
+          "total": 27088,
+          "male": 13614,
+          "female": 13474
+        },
+        {
+          "age": "27",
+          "total": 27204,
+          "male": 13772,
+          "female": 13432
+        },
+        {
+          "age": "28",
+          "total": 25952,
+          "male": 13133,
+          "female": 12819
+        },
+        {
+          "age": "29",
+          "total": 26088,
+          "male": 13281,
+          "female": 12807
+        },
+        {
+          "age": "30",
+          "total": 26808,
+          "male": 13841,
+          "female": 12967
+        },
+        {
+          "age": "31",
+          "total": 26188,
+          "male": 13502,
+          "female": 12686
+        },
+        {
+          "age": "32",
+          "total": 26114,
+          "male": 13507,
+          "female": 12607
+        },
+        {
+          "age": "33",
+          "total": 26622,
+          "male": 14006,
+          "female": 12616
+        },
+        {
+          "age": "34",
+          "total": 26093,
+          "male": 13757,
+          "female": 12336
+        },
+        {
+          "age": "35",
+          "total": 25124,
+          "male": 13129,
+          "female": 11995
+        },
+        {
+          "age": "36",
+          "total": 24169,
+          "male": 12796,
+          "female": 11373
+        },
+        {
+          "age": "37",
+          "total": 24188,
+          "male": 13047,
+          "female": 11141
+        },
+        {
+          "age": "38",
+          "total": 22589,
+          "male": 11967,
+          "female": 10622
+        },
+        {
+          "age": "39",
+          "total": 21436,
+          "male": 11344,
+          "female": 10092
+        },
+        {
+          "age": "40",
+          "total": 21009,
+          "male": 11262,
+          "female": 9747
+        },
+        {
+          "age": "41",
+          "total": 21262,
+          "male": 11361,
+          "female": 9901
+        },
+        {
+          "age": "42",
+          "total": 21412,
+          "male": 11558,
+          "female": 9854
+        },
+        {
+          "age": "43",
+          "total": 20177,
+          "male": 10714,
+          "female": 9463
+        },
+        {
+          "age": "44",
+          "total": 19638,
+          "male": 10354,
+          "female": 9284
+        },
+        {
+          "age": "45",
+          "total": 20047,
+          "male": 10707,
+          "female": 9340
+        },
+        {
+          "age": "46",
+          "total": 19197,
+          "male": 10246,
+          "female": 8951
+        },
+        {
+          "age": "47",
+          "total": 18350,
+          "male": 9642,
+          "female": 8708
+        },
+        {
+          "age": "48",
+          "total": 17589,
+          "male": 9269,
+          "female": 8320
+        },
+        {
+          "age": "49",
+          "total": 16664,
+          "male": 8748,
+          "female": 7916
+        },
+        {
+          "age": "50",
+          "total": 15910,
+          "male": 8392,
+          "female": 7518
+        },
+        {
+          "age": "51",
+          "total": 15572,
+          "male": 8035,
+          "female": 7537
+        },
+        {
+          "age": "52",
+          "total": 16561,
+          "male": 8677,
+          "female": 7884
+        },
+        {
+          "age": "53",
+          "total": 15316,
+          "male": 7852,
+          "female": 7464
+        },
+        {
+          "age": "54",
+          "total": 14985,
+          "male": 7648,
+          "female": 7337
+        },
+        {
+          "age": "55",
+          "total": 16159,
+          "male": 8143,
+          "female": 8016
+        },
+        {
+          "age": "56",
+          "total": 15693,
+          "male": 7986,
+          "female": 7707
+        },
+        {
+          "age": "57",
+          "total": 14349,
+          "male": 7254,
+          "female": 7095
+        },
+        {
+          "age": "58",
+          "total": 14156,
+          "male": 7107,
+          "female": 7049
+        },
+        {
+          "age": "59",
+          "total": 13709,
+          "male": 6859,
+          "female": 6850
+        },
+        {
+          "age": "60 & Above",
+          "total": 195806,
+          "male": 90690,
+          "female": 105116
+        }
+      ]
+    },
+    {
+      "name": "REGION I",
+      "total": 3633900,
+      "male": 1825518,
+      "female": 1808382,
+      "ages": [
+        {
+          "age": "18",
+          "total": 74155,
+          "male": 37134,
+          "female": 37021
+        },
+        {
+          "age": "19",
+          "total": 82347,
+          "male": 41516,
+          "female": 40831
+        },
+        {
+          "age": "20",
+          "total": 87659,
+          "male": 44255,
+          "female": 43404
+        },
+        {
+          "age": "21",
+          "total": 94538,
+          "male": 48284,
+          "female": 46254
+        },
+        {
+          "age": "22",
+          "total": 94959,
+          "male": 48349,
+          "female": 46610
+        },
+        {
+          "age": "23",
+          "total": 92325,
+          "male": 47082,
+          "female": 45243
+        },
+        {
+          "age": "24",
+          "total": 97336,
+          "male": 49637,
+          "female": 47699
+        },
+        {
+          "age": "25",
+          "total": 93519,
+          "male": 47940,
+          "female": 45579
+        },
+        {
+          "age": "26",
+          "total": 86704,
+          "male": 44259,
+          "female": 42445
+        },
+        {
+          "age": "27",
+          "total": 88923,
+          "male": 45297,
+          "female": 43626
+        },
+        {
+          "age": "28",
+          "total": 85377,
+          "male": 43358,
+          "female": 42019
+        },
+        {
+          "age": "29",
+          "total": 82691,
+          "male": 42429,
+          "female": 40262
+        },
+        {
+          "age": "30",
+          "total": 83617,
+          "male": 43102,
+          "female": 40515
+        },
+        {
+          "age": "31",
+          "total": 82250,
+          "male": 42603,
+          "female": 39647
+        },
+        {
+          "age": "32",
+          "total": 81947,
+          "male": 42382,
+          "female": 39565
+        },
+        {
+          "age": "33",
+          "total": 79025,
+          "male": 41071,
+          "female": 37954
+        },
+        {
+          "age": "34",
+          "total": 77391,
+          "male": 40445,
+          "female": 36946
+        },
+        {
+          "age": "35",
+          "total": 74661,
+          "male": 39145,
+          "female": 35516
+        },
+        {
+          "age": "36",
+          "total": 70797,
+          "male": 37182,
+          "female": 33615
+        },
+        {
+          "age": "37",
+          "total": 71960,
+          "male": 37965,
+          "female": 33995
+        },
+        {
+          "age": "38",
+          "total": 69323,
+          "male": 36410,
+          "female": 32913
+        },
+        {
+          "age": "39",
+          "total": 66427,
+          "male": 35145,
+          "female": 31282
+        },
+        {
+          "age": "40",
+          "total": 65847,
+          "male": 34847,
+          "female": 31000
+        },
+        {
+          "age": "41",
+          "total": 66512,
+          "male": 35173,
+          "female": 31339
+        },
+        {
+          "age": "42",
+          "total": 66787,
+          "male": 35146,
+          "female": 31641
+        },
+        {
+          "age": "43",
+          "total": 65830,
+          "male": 34631,
+          "female": 31199
+        },
+        {
+          "age": "44",
+          "total": 65841,
+          "male": 34851,
+          "female": 30990
+        },
+        {
+          "age": "45",
+          "total": 65030,
+          "male": 34430,
+          "female": 30600
+        },
+        {
+          "age": "46",
+          "total": 63307,
+          "male": 33364,
+          "female": 29943
+        },
+        {
+          "age": "47",
+          "total": 59124,
+          "male": 31026,
+          "female": 28098
+        },
+        {
+          "age": "48",
+          "total": 57474,
+          "male": 30247,
+          "female": 27227
+        },
+        {
+          "age": "49",
+          "total": 54963,
+          "male": 28423,
+          "female": 26540
+        },
+        {
+          "age": "50",
+          "total": 52853,
+          "male": 27552,
+          "female": 25301
+        },
+        {
+          "age": "51",
+          "total": 52980,
+          "male": 27453,
+          "female": 25527
+        },
+        {
+          "age": "52",
+          "total": 54025,
+          "male": 27812,
+          "female": 26213
+        },
+        {
+          "age": "53",
+          "total": 53789,
+          "male": 27893,
+          "female": 25896
+        },
+        {
+          "age": "54",
+          "total": 52684,
+          "male": 26901,
+          "female": 25783
+        },
+        {
+          "age": "55",
+          "total": 54835,
+          "male": 28089,
+          "female": 26746
+        },
+        {
+          "age": "56",
+          "total": 52707,
+          "male": 26638,
+          "female": 26069
+        },
+        {
+          "age": "57",
+          "total": 48986,
+          "male": 24629,
+          "female": 24357
+        },
+        {
+          "age": "58",
+          "total": 47368,
+          "male": 23465,
+          "female": 23903
+        },
+        {
+          "age": "59",
+          "total": 46340,
+          "male": 23029,
+          "female": 23311
+        },
+        {
+          "age": "60 & Above",
+          "total": 668687,
+          "male": 294929,
+          "female": 373758
+        }
+      ]
+    },
+    {
+      "name": "REGION II",
+      "total": 2358587,
+      "male": 1193203,
+      "female": 1165384,
+      "ages": [
+        {
+          "age": "18",
+          "total": 43627,
+          "male": 21273,
+          "female": 22354
+        },
+        {
+          "age": "19",
+          "total": 49997,
+          "male": 24519,
+          "female": 25478
+        },
+        {
+          "age": "20",
+          "total": 53004,
+          "male": 26194,
+          "female": 26810
+        },
+        {
+          "age": "21",
+          "total": 59520,
+          "male": 29612,
+          "female": 29908
+        },
+        {
+          "age": "22",
+          "total": 60377,
+          "male": 30301,
+          "female": 30076
+        },
+        {
+          "age": "23",
+          "total": 59014,
+          "male": 29523,
+          "female": 29491
+        },
+        {
+          "age": "24",
+          "total": 60790,
+          "male": 30688,
+          "female": 30102
+        },
+        {
+          "age": "25",
+          "total": 59319,
+          "male": 29904,
+          "female": 29415
+        },
+        {
+          "age": "26",
+          "total": 55068,
+          "male": 27814,
+          "female": 27254
+        },
+        {
+          "age": "27",
+          "total": 56287,
+          "male": 28521,
+          "female": 27766
+        },
+        {
+          "age": "28",
+          "total": 55937,
+          "male": 28663,
+          "female": 27274
+        },
+        {
+          "age": "29",
+          "total": 55689,
+          "male": 28681,
+          "female": 27008
+        },
+        {
+          "age": "30",
+          "total": 54367,
+          "male": 28114,
+          "female": 26253
+        },
+        {
+          "age": "31",
+          "total": 53854,
+          "male": 27890,
+          "female": 25964
+        },
+        {
+          "age": "32",
+          "total": 53361,
+          "male": 28016,
+          "female": 25345
+        },
+        {
+          "age": "33",
+          "total": 52323,
+          "male": 27605,
+          "female": 24718
+        },
+        {
+          "age": "34",
+          "total": 51753,
+          "male": 27317,
+          "female": 24436
+        },
+        {
+          "age": "35",
+          "total": 49800,
+          "male": 26470,
+          "female": 23330
+        },
+        {
+          "age": "36",
+          "total": 46608,
+          "male": 24744,
+          "female": 21864
+        },
+        {
+          "age": "37",
+          "total": 46638,
+          "male": 25114,
+          "female": 21524
+        },
+        {
+          "age": "38",
+          "total": 45012,
+          "male": 24122,
+          "female": 20890
+        },
+        {
+          "age": "39",
+          "total": 43826,
+          "male": 23663,
+          "female": 20163
+        },
+        {
+          "age": "40",
+          "total": 42210,
+          "male": 22745,
+          "female": 19465
+        },
+        {
+          "age": "41",
+          "total": 42202,
+          "male": 22898,
+          "female": 19304
+        },
+        {
+          "age": "42",
+          "total": 43289,
+          "male": 23462,
+          "female": 19827
+        },
+        {
+          "age": "43",
+          "total": 41590,
+          "male": 22333,
+          "female": 19257
+        },
+        {
+          "age": "44",
+          "total": 41647,
+          "male": 22025,
+          "female": 19622
+        },
+        {
+          "age": "45",
+          "total": 43521,
+          "male": 23562,
+          "female": 19959
+        },
+        {
+          "age": "46",
+          "total": 41698,
+          "male": 22417,
+          "female": 19281
+        },
+        {
+          "age": "47",
+          "total": 40378,
+          "male": 21592,
+          "female": 18786
+        },
+        {
+          "age": "48",
+          "total": 38282,
+          "male": 20193,
+          "female": 18089
+        },
+        {
+          "age": "49",
+          "total": 37604,
+          "male": 19683,
+          "female": 17921
+        },
+        {
+          "age": "50",
+          "total": 36669,
+          "male": 19327,
+          "female": 17342
+        },
+        {
+          "age": "51",
+          "total": 35124,
+          "male": 18277,
+          "female": 16847
+        },
+        {
+          "age": "52",
+          "total": 38038,
+          "male": 19805,
+          "female": 18233
+        },
+        {
+          "age": "53",
+          "total": 35332,
+          "male": 18307,
+          "female": 17025
+        },
+        {
+          "age": "54",
+          "total": 35732,
+          "male": 18321,
+          "female": 17411
+        },
+        {
+          "age": "55",
+          "total": 36730,
+          "male": 18747,
+          "female": 17983
+        },
+        {
+          "age": "56",
+          "total": 35542,
+          "male": 17945,
+          "female": 17597
+        },
+        {
+          "age": "57",
+          "total": 32018,
+          "male": 16143,
+          "female": 15875
+        },
+        {
+          "age": "58",
+          "total": 31299,
+          "male": 15519,
+          "female": 15780
+        },
+        {
+          "age": "59",
+          "total": 30738,
+          "male": 15101,
+          "female": 15637
+        },
+        {
+          "age": "60 & Above",
+          "total": 432773,
+          "male": 196053,
+          "female": 236720
+        }
+      ]
+    },
+    {
+      "name": "REGION III",
+      "total": 7699404,
+      "male": 3740580,
+      "female": 3958824,
+      "ages": [
+        {
+          "age": "18",
+          "total": 120337,
+          "male": 58878,
+          "female": 61459
+        },
+        {
+          "age": "19",
+          "total": 151011,
+          "male": 73738,
+          "female": 77273
+        },
+        {
+          "age": "20",
+          "total": 166352,
+          "male": 81409,
+          "female": 84943
+        },
+        {
+          "age": "21",
+          "total": 189279,
+          "male": 93265,
+          "female": 96014
+        },
+        {
+          "age": "22",
+          "total": 197042,
+          "male": 97323,
+          "female": 99719
+        },
+        {
+          "age": "23",
+          "total": 195716,
+          "male": 97332,
+          "female": 98384
+        },
+        {
+          "age": "24",
+          "total": 204325,
+          "male": 101501,
+          "female": 102824
+        },
+        {
+          "age": "25",
+          "total": 198777,
+          "male": 98814,
+          "female": 99963
+        },
+        {
+          "age": "26",
+          "total": 187273,
+          "male": 92097,
+          "female": 95176
+        },
+        {
+          "age": "27",
+          "total": 195216,
+          "male": 96504,
+          "female": 98712
+        },
+        {
+          "age": "28",
+          "total": 191132,
+          "male": 94678,
+          "female": 96454
+        },
+        {
+          "age": "29",
+          "total": 186167,
+          "male": 92093,
+          "female": 94074
+        },
+        {
+          "age": "30",
+          "total": 184194,
+          "male": 91818,
+          "female": 92376
+        },
+        {
+          "age": "31",
+          "total": 179950,
+          "male": 89546,
+          "female": 90404
+        },
+        {
+          "age": "32",
+          "total": 178781,
+          "male": 89086,
+          "female": 89695
+        },
+        {
+          "age": "33",
+          "total": 175405,
+          "male": 87331,
+          "female": 88074
+        },
+        {
+          "age": "34",
+          "total": 175007,
+          "male": 87060,
+          "female": 87947
+        },
+        {
+          "age": "35",
+          "total": 166816,
+          "male": 82562,
+          "female": 84254
+        },
+        {
+          "age": "36",
+          "total": 157573,
+          "male": 78546,
+          "female": 79027
+        },
+        {
+          "age": "37",
+          "total": 159356,
+          "male": 79603,
+          "female": 79753
+        },
+        {
+          "age": "38",
+          "total": 152133,
+          "male": 75679,
+          "female": 76454
+        },
+        {
+          "age": "39",
+          "total": 145544,
+          "male": 72402,
+          "female": 73142
+        },
+        {
+          "age": "40",
+          "total": 144297,
+          "male": 71472,
+          "female": 72825
+        },
+        {
+          "age": "41",
+          "total": 144340,
+          "male": 71312,
+          "female": 73028
+        },
+        {
+          "age": "42",
+          "total": 145394,
+          "male": 72151,
+          "female": 73243
+        },
+        {
+          "age": "43",
+          "total": 143778,
+          "male": 70789,
+          "female": 72989
+        },
+        {
+          "age": "44",
+          "total": 145742,
+          "male": 71658,
+          "female": 74084
+        },
+        {
+          "age": "45",
+          "total": 145567,
+          "male": 72206,
+          "female": 73361
+        },
+        {
+          "age": "46",
+          "total": 141816,
+          "male": 70149,
+          "female": 71667
+        },
+        {
+          "age": "47",
+          "total": 134794,
+          "male": 66834,
+          "female": 67960
+        },
+        {
+          "age": "48",
+          "total": 129905,
+          "male": 63578,
+          "female": 66327
+        },
+        {
+          "age": "49",
+          "total": 127032,
+          "male": 62250,
+          "female": 64782
+        },
+        {
+          "age": "50",
+          "total": 119636,
+          "male": 58777,
+          "female": 60859
+        },
+        {
+          "age": "51",
+          "total": 117324,
+          "male": 57854,
+          "female": 59470
+        },
+        {
+          "age": "52",
+          "total": 122266,
+          "male": 59821,
+          "female": 62445
+        },
+        {
+          "age": "53",
+          "total": 118081,
+          "male": 57744,
+          "female": 60337
+        },
+        {
+          "age": "54",
+          "total": 119027,
+          "male": 57987,
+          "female": 61040
+        },
+        {
+          "age": "55",
+          "total": 122942,
+          "male": 59592,
+          "female": 63350
+        },
+        {
+          "age": "56",
+          "total": 117127,
+          "male": 56757,
+          "female": 60370
+        },
+        {
+          "age": "57",
+          "total": 108985,
+          "male": 52581,
+          "female": 56404
+        },
+        {
+          "age": "58",
+          "total": 103661,
+          "male": 49529,
+          "female": 54132
+        },
+        {
+          "age": "59",
+          "total": 101954,
+          "male": 48658,
+          "female": 53296
+        },
+        {
+          "age": "60 & Above",
+          "total": 1288350,
+          "male": 577616,
+          "female": 710734
+        }
+      ]
+    },
+    {
+      "name": "REGION IV-A",
+      "total": 9714079,
+      "male": 4620093,
+      "female": 5093986,
+      "ages": [
+        {
+          "age": "18",
+          "total": 138774,
+          "male": 66921,
+          "female": 71853
+        },
+        {
+          "age": "19",
+          "total": 187387,
+          "male": 90590,
+          "female": 96797
+        },
+        {
+          "age": "20",
+          "total": 208522,
+          "male": 101615,
+          "female": 106907
+        },
+        {
+          "age": "21",
+          "total": 235287,
+          "male": 114425,
+          "female": 120862
+        },
+        {
+          "age": "22",
+          "total": 245285,
+          "male": 119870,
+          "female": 125415
+        },
+        {
+          "age": "23",
+          "total": 243369,
+          "male": 118635,
+          "female": 124734
+        },
+        {
+          "age": "24",
+          "total": 255043,
+          "male": 125470,
+          "female": 129573
+        },
+        {
+          "age": "25",
+          "total": 252855,
+          "male": 123750,
+          "female": 129105
+        },
+        {
+          "age": "26",
+          "total": 239585,
+          "male": 116409,
+          "female": 123176
+        },
+        {
+          "age": "27",
+          "total": 250040,
+          "male": 121815,
+          "female": 128225
+        },
+        {
+          "age": "28",
+          "total": 243623,
+          "male": 118547,
+          "female": 125076
+        },
+        {
+          "age": "29",
+          "total": 240469,
+          "male": 116749,
+          "female": 123720
+        },
+        {
+          "age": "30",
+          "total": 235350,
+          "male": 114858,
+          "female": 120492
+        },
+        {
+          "age": "31",
+          "total": 233722,
+          "male": 113754,
+          "female": 119968
+        },
+        {
+          "age": "32",
+          "total": 233354,
+          "male": 113417,
+          "female": 119937
+        },
+        {
+          "age": "33",
+          "total": 225421,
+          "male": 109891,
+          "female": 115530
+        },
+        {
+          "age": "34",
+          "total": 221540,
+          "male": 107790,
+          "female": 113750
+        },
+        {
+          "age": "35",
+          "total": 212981,
+          "male": 103181,
+          "female": 109800
+        },
+        {
+          "age": "36",
+          "total": 201132,
+          "male": 98236,
+          "female": 102896
+        },
+        {
+          "age": "37",
+          "total": 207630,
+          "male": 100585,
+          "female": 107045
+        },
+        {
+          "age": "38",
+          "total": 198547,
+          "male": 96564,
+          "female": 101983
+        },
+        {
+          "age": "39",
+          "total": 190369,
+          "male": 92579,
+          "female": 97790
+        },
+        {
+          "age": "40",
+          "total": 188338,
+          "male": 91023,
+          "female": 97315
+        },
+        {
+          "age": "41",
+          "total": 189392,
+          "male": 91478,
+          "female": 97914
+        },
+        {
+          "age": "42",
+          "total": 191084,
+          "male": 92323,
+          "female": 98761
+        },
+        {
+          "age": "43",
+          "total": 190009,
+          "male": 91714,
+          "female": 98295
+        },
+        {
+          "age": "44",
+          "total": 192494,
+          "male": 92941,
+          "female": 99553
+        },
+        {
+          "age": "45",
+          "total": 191176,
+          "male": 92351,
+          "female": 98825
+        },
+        {
+          "age": "46",
+          "total": 184431,
+          "male": 88499,
+          "female": 95932
+        },
+        {
+          "age": "47",
+          "total": 175217,
+          "male": 84047,
+          "female": 91170
+        },
+        {
+          "age": "48",
+          "total": 169197,
+          "male": 80876,
+          "female": 88321
+        },
+        {
+          "age": "49",
+          "total": 163215,
+          "male": 78385,
+          "female": 84830
+        },
+        {
+          "age": "50",
+          "total": 154341,
+          "male": 74008,
+          "female": 80333
+        },
+        {
+          "age": "51",
+          "total": 151478,
+          "male": 72768,
+          "female": 78710
+        },
+        {
+          "age": "52",
+          "total": 150201,
+          "male": 72202,
+          "female": 77999
+        },
+        {
+          "age": "53",
+          "total": 144877,
+          "male": 69406,
+          "female": 75471
+        },
+        {
+          "age": "54",
+          "total": 144951,
+          "male": 68960,
+          "female": 75991
+        },
+        {
+          "age": "55",
+          "total": 149715,
+          "male": 71267,
+          "female": 78448
+        },
+        {
+          "age": "56",
+          "total": 139311,
+          "male": 65592,
+          "female": 73719
+        },
+        {
+          "age": "57",
+          "total": 130837,
+          "male": 61737,
+          "female": 69100
+        },
+        {
+          "age": "58",
+          "total": 126074,
+          "male": 58564,
+          "female": 67510
+        },
+        {
+          "age": "59",
+          "total": 122204,
+          "male": 56774,
+          "female": 65430
+        },
+        {
+          "age": "60 & Above",
+          "total": 1565252,
+          "male": 679527,
+          "female": 885725
+        }
+      ]
+    },
+    {
+      "name": "REGION IV-B",
+      "total": 2055827,
+      "male": 1026035,
+      "female": 1029792,
+      "ages": [
+        {
+          "age": "18",
+          "total": 39024,
+          "male": 19097,
+          "female": 19927
+        },
+        {
+          "age": "19",
+          "total": 44937,
+          "male": 22006,
+          "female": 22931
+        },
+        {
+          "age": "20",
+          "total": 49141,
+          "male": 24082,
+          "female": 25059
+        },
+        {
+          "age": "21",
+          "total": 57443,
+          "male": 28695,
+          "female": 28748
+        },
+        {
+          "age": "22",
+          "total": 58647,
+          "male": 29378,
+          "female": 29269
+        },
+        {
+          "age": "23",
+          "total": 57554,
+          "male": 28780,
+          "female": 28774
+        },
+        {
+          "age": "24",
+          "total": 60005,
+          "male": 30082,
+          "female": 29923
+        },
+        {
+          "age": "25",
+          "total": 57486,
+          "male": 29030,
+          "female": 28456
+        },
+        {
+          "age": "26",
+          "total": 51669,
+          "male": 25988,
+          "female": 25681
+        },
+        {
+          "age": "27",
+          "total": 54057,
+          "male": 27170,
+          "female": 26887
+        },
+        {
+          "age": "28",
+          "total": 50408,
+          "male": 25203,
+          "female": 25205
+        },
+        {
+          "age": "29",
+          "total": 49787,
+          "male": 25112,
+          "female": 24675
+        },
+        {
+          "age": "30",
+          "total": 50442,
+          "male": 25606,
+          "female": 24836
+        },
+        {
+          "age": "31",
+          "total": 49791,
+          "male": 25236,
+          "female": 24555
+        },
+        {
+          "age": "32",
+          "total": 48734,
+          "male": 24824,
+          "female": 23910
+        },
+        {
+          "age": "33",
+          "total": 47737,
+          "male": 24231,
+          "female": 23506
+        },
+        {
+          "age": "34",
+          "total": 46901,
+          "male": 23857,
+          "female": 23044
+        },
+        {
+          "age": "35",
+          "total": 43156,
+          "male": 21781,
+          "female": 21375
+        },
+        {
+          "age": "36",
+          "total": 42377,
+          "male": 21746,
+          "female": 20631
+        },
+        {
+          "age": "37",
+          "total": 42844,
+          "male": 21926,
+          "female": 20918
+        },
+        {
+          "age": "38",
+          "total": 40537,
+          "male": 20775,
+          "female": 19762
+        },
+        {
+          "age": "39",
+          "total": 38833,
+          "male": 19981,
+          "female": 18852
+        },
+        {
+          "age": "40",
+          "total": 39110,
+          "male": 20177,
+          "female": 18933
+        },
+        {
+          "age": "41",
+          "total": 38047,
+          "male": 19587,
+          "female": 18460
+        },
+        {
+          "age": "42",
+          "total": 38202,
+          "male": 19835,
+          "female": 18367
+        },
+        {
+          "age": "43",
+          "total": 36553,
+          "male": 18966,
+          "female": 17587
+        },
+        {
+          "age": "44",
+          "total": 36302,
+          "male": 18751,
+          "female": 17551
+        },
+        {
+          "age": "45",
+          "total": 36638,
+          "male": 19021,
+          "female": 17617
+        },
+        {
+          "age": "46",
+          "total": 35206,
+          "male": 18251,
+          "female": 16955
+        },
+        {
+          "age": "47",
+          "total": 33856,
+          "male": 17540,
+          "female": 16316
+        },
+        {
+          "age": "48",
+          "total": 32651,
+          "male": 16848,
+          "female": 15803
+        },
+        {
+          "age": "49",
+          "total": 32448,
+          "male": 16662,
+          "female": 15786
+        },
+        {
+          "age": "50",
+          "total": 32075,
+          "male": 16577,
+          "female": 15498
+        },
+        {
+          "age": "51",
+          "total": 30023,
+          "male": 15324,
+          "female": 14699
+        },
+        {
+          "age": "52",
+          "total": 31343,
+          "male": 16121,
+          "female": 15222
+        },
+        {
+          "age": "53",
+          "total": 29144,
+          "male": 14828,
+          "female": 14316
+        },
+        {
+          "age": "54",
+          "total": 28496,
+          "male": 14256,
+          "female": 14240
+        },
+        {
+          "age": "55",
+          "total": 30007,
+          "male": 15243,
+          "female": 14764
+        },
+        {
+          "age": "56",
+          "total": 28296,
+          "male": 14093,
+          "female": 14203
+        },
+        {
+          "age": "57",
+          "total": 25706,
+          "male": 12824,
+          "female": 12882
+        },
+        {
+          "age": "58",
+          "total": 25113,
+          "male": 12577,
+          "female": 12536
+        },
+        {
+          "age": "59",
+          "total": 24077,
+          "male": 11915,
+          "female": 12162
+        },
+        {
+          "age": "60 & Above",
+          "total": 331024,
+          "male": 152053,
+          "female": 178971
+        }
+      ]
+    },
+    {
+      "name": "REGION V",
+      "total": 4053977,
+      "male": 2004595,
+      "female": 2049382,
+      "ages": [
+        {
+          "age": "18",
+          "total": 96774,
+          "male": 47544,
+          "female": 49230
+        },
+        {
+          "age": "19",
+          "total": 107976,
+          "male": 53762,
+          "female": 54214
+        },
+        {
+          "age": "20",
+          "total": 115381,
+          "male": 57572,
+          "female": 57809
+        },
+        {
+          "age": "21",
+          "total": 125861,
+          "male": 63325,
+          "female": 62536
+        },
+        {
+          "age": "22",
+          "total": 124452,
+          "male": 62651,
+          "female": 61801
+        },
+        {
+          "age": "23",
+          "total": 116607,
+          "male": 58936,
+          "female": 57671
+        },
+        {
+          "age": "24",
+          "total": 121263,
+          "male": 61148,
+          "female": 60115
+        },
+        {
+          "age": "25",
+          "total": 115519,
+          "male": 58621,
+          "female": 56898
+        },
+        {
+          "age": "26",
+          "total": 106365,
+          "male": 53988,
+          "female": 52377
+        },
+        {
+          "age": "27",
+          "total": 106990,
+          "male": 54086,
+          "female": 52904
+        },
+        {
+          "age": "28",
+          "total": 97052,
+          "male": 48966,
+          "female": 48086
+        },
+        {
+          "age": "29",
+          "total": 98270,
+          "male": 49523,
+          "female": 48747
+        },
+        {
+          "age": "30",
+          "total": 95511,
+          "male": 48744,
+          "female": 46767
+        },
+        {
+          "age": "31",
+          "total": 95351,
+          "male": 48574,
+          "female": 46777
+        },
+        {
+          "age": "32",
+          "total": 92125,
+          "male": 46194,
+          "female": 45931
+        },
+        {
+          "age": "33",
+          "total": 91099,
+          "male": 46780,
+          "female": 44319
+        },
+        {
+          "age": "34",
+          "total": 87149,
+          "male": 44719,
+          "female": 42430
+        },
+        {
+          "age": "35",
+          "total": 80630,
+          "male": 41192,
+          "female": 39438
+        },
+        {
+          "age": "36",
+          "total": 79061,
+          "male": 40775,
+          "female": 38286
+        },
+        {
+          "age": "37",
+          "total": 80568,
+          "male": 41544,
+          "female": 39024
+        },
+        {
+          "age": "38",
+          "total": 75403,
+          "male": 38993,
+          "female": 36410
+        },
+        {
+          "age": "39",
+          "total": 73016,
+          "male": 37797,
+          "female": 35219
+        },
+        {
+          "age": "40",
+          "total": 69491,
+          "male": 36116,
+          "female": 33375
+        },
+        {
+          "age": "41",
+          "total": 68587,
+          "male": 35488,
+          "female": 33099
+        },
+        {
+          "age": "42",
+          "total": 69722,
+          "male": 35888,
+          "female": 33834
+        },
+        {
+          "age": "43",
+          "total": 67588,
+          "male": 34828,
+          "female": 32760
+        },
+        {
+          "age": "44",
+          "total": 68115,
+          "male": 34752,
+          "female": 33363
+        },
+        {
+          "age": "45",
+          "total": 69472,
+          "male": 35740,
+          "female": 33732
+        },
+        {
+          "age": "46",
+          "total": 65763,
+          "male": 33626,
+          "female": 32137
+        },
+        {
+          "age": "47",
+          "total": 62173,
+          "male": 31539,
+          "female": 30634
+        },
+        {
+          "age": "48",
+          "total": 62324,
+          "male": 31573,
+          "female": 30751
+        },
+        {
+          "age": "49",
+          "total": 60526,
+          "male": 30512,
+          "female": 30014
+        },
+        {
+          "age": "50",
+          "total": 58692,
+          "male": 29645,
+          "female": 29047
+        },
+        {
+          "age": "51",
+          "total": 55520,
+          "male": 27664,
+          "female": 27856
+        },
+        {
+          "age": "52",
+          "total": 58064,
+          "male": 28921,
+          "female": 29143
+        },
+        {
+          "age": "53",
+          "total": 53677,
+          "male": 26435,
+          "female": 27242
+        },
+        {
+          "age": "54",
+          "total": 55372,
+          "male": 27368,
+          "female": 28004
+        },
+        {
+          "age": "55",
+          "total": 57473,
+          "male": 28325,
+          "female": 29148
+        },
+        {
+          "age": "56",
+          "total": 54964,
+          "male": 26867,
+          "female": 28097
+        },
+        {
+          "age": "57",
+          "total": 50893,
+          "male": 24862,
+          "female": 26031
+        },
+        {
+          "age": "58",
+          "total": 51096,
+          "male": 24744,
+          "female": 26352
+        },
+        {
+          "age": "59",
+          "total": 48406,
+          "male": 23505,
+          "female": 24901
+        },
+        {
+          "age": "60 & Above",
+          "total": 663636,
+          "male": 290763,
+          "female": 372873
+        }
+      ]
+    },
+    {
+      "name": "REGION VI",
+      "total": 3128562,
+      "male": 1556581,
+      "female": 1571981,
+      "ages": [
+        {
+          "age": "18",
+          "total": 61586,
+          "male": 30199,
+          "female": 31387
+        },
+        {
+          "age": "19",
+          "total": 68304,
+          "male": 33830,
+          "female": 34474
+        },
+        {
+          "age": "20",
+          "total": 73634,
+          "male": 36697,
+          "female": 36937
+        },
+        {
+          "age": "21",
+          "total": 79301,
+          "male": 39846,
+          "female": 39455
+        },
+        {
+          "age": "22",
+          "total": 80316,
+          "male": 40569,
+          "female": 39747
+        },
+        {
+          "age": "23",
+          "total": 79281,
+          "male": 40179,
+          "female": 39102
+        },
+        {
+          "age": "24",
+          "total": 82490,
+          "male": 42029,
+          "female": 40461
+        },
+        {
+          "age": "25",
+          "total": 82221,
+          "male": 41850,
+          "female": 40371
+        },
+        {
+          "age": "26",
+          "total": 72051,
+          "male": 36526,
+          "female": 35525
+        },
+        {
+          "age": "27",
+          "total": 74146,
+          "male": 37386,
+          "female": 36760
+        },
+        {
+          "age": "28",
+          "total": 70273,
+          "male": 35622,
+          "female": 34651
+        },
+        {
+          "age": "29",
+          "total": 71100,
+          "male": 35991,
+          "female": 35109
+        },
+        {
+          "age": "30",
+          "total": 69323,
+          "male": 35519,
+          "female": 33804
+        },
+        {
+          "age": "31",
+          "total": 68925,
+          "male": 35551,
+          "female": 33374
+        },
+        {
+          "age": "32",
+          "total": 67244,
+          "male": 34554,
+          "female": 32690
+        },
+        {
+          "age": "33",
+          "total": 66971,
+          "male": 34650,
+          "female": 32321
+        },
+        {
+          "age": "34",
+          "total": 66444,
+          "male": 34568,
+          "female": 31876
+        },
+        {
+          "age": "35",
+          "total": 63956,
+          "male": 33173,
+          "female": 30783
+        },
+        {
+          "age": "36",
+          "total": 62739,
+          "male": 33075,
+          "female": 29664
+        },
+        {
+          "age": "37",
+          "total": 62754,
+          "male": 33181,
+          "female": 29573
+        },
+        {
+          "age": "38",
+          "total": 60407,
+          "male": 31723,
+          "female": 28684
+        },
+        {
+          "age": "39",
+          "total": 55805,
+          "male": 29451,
+          "female": 26354
+        },
+        {
+          "age": "40",
+          "total": 57067,
+          "male": 30201,
+          "female": 26866
+        },
+        {
+          "age": "41",
+          "total": 55611,
+          "male": 29144,
+          "female": 26467
+        },
+        {
+          "age": "42",
+          "total": 57614,
+          "male": 30609,
+          "female": 27005
+        },
+        {
+          "age": "43",
+          "total": 55014,
+          "male": 29185,
+          "female": 25829
+        },
+        {
+          "age": "44",
+          "total": 54682,
+          "male": 28721,
+          "female": 25961
+        },
+        {
+          "age": "45",
+          "total": 54792,
+          "male": 29098,
+          "female": 25694
+        },
+        {
+          "age": "46",
+          "total": 52174,
+          "male": 27530,
+          "female": 24644
+        },
+        {
+          "age": "47",
+          "total": 50706,
+          "male": 26686,
+          "female": 24020
+        },
+        {
+          "age": "48",
+          "total": 49720,
+          "male": 26003,
+          "female": 23717
+        },
+        {
+          "age": "49",
+          "total": 48185,
+          "male": 25084,
+          "female": 23101
+        },
+        {
+          "age": "50",
+          "total": 46548,
+          "male": 24163,
+          "female": 22385
+        },
+        {
+          "age": "51",
+          "total": 44701,
+          "male": 22888,
+          "female": 21813
+        },
+        {
+          "age": "52",
+          "total": 46898,
+          "male": 24157,
+          "female": 22741
+        },
+        {
+          "age": "53",
+          "total": 44073,
+          "male": 22349,
+          "female": 21724
+        },
+        {
+          "age": "54",
+          "total": 45128,
+          "male": 22664,
+          "female": 22464
+        },
+        {
+          "age": "55",
+          "total": 45723,
+          "male": 22727,
+          "female": 22996
+        },
+        {
+          "age": "56",
+          "total": 45038,
+          "male": 22365,
+          "female": 22673
+        },
+        {
+          "age": "57",
+          "total": 42470,
+          "male": 20950,
+          "female": 21520
+        },
+        {
+          "age": "58",
+          "total": 40959,
+          "male": 20073,
+          "female": 20886
+        },
+        {
+          "age": "59",
+          "total": 40548,
+          "male": 19866,
+          "female": 20682
+        },
+        {
+          "age": "60 & Above",
+          "total": 611640,
+          "male": 265949,
+          "female": 345691
+        }
+      ]
+    },
+    {
+      "name": "NEGROS ISLAND REGION",
+      "total": 3059321,
+      "male": 1504336,
+      "female": 1554985,
+      "ages": [
+        {
+          "age": "18",
+          "total": 52442,
+          "male": 25143,
+          "female": 27299
+        },
+        {
+          "age": "19",
+          "total": 63953,
+          "male": 30868,
+          "female": 33085
+        },
+        {
+          "age": "20",
+          "total": 69545,
+          "male": 33653,
+          "female": 35892
+        },
+        {
+          "age": "21",
+          "total": 75668,
+          "male": 37124,
+          "female": 38544
+        },
+        {
+          "age": "22",
+          "total": 77121,
+          "male": 37890,
+          "female": 39231
+        },
+        {
+          "age": "23",
+          "total": 77389,
+          "male": 38223,
+          "female": 39166
+        },
+        {
+          "age": "24",
+          "total": 80136,
+          "male": 39705,
+          "female": 40431
+        },
+        {
+          "age": "25",
+          "total": 79915,
+          "male": 39760,
+          "female": 40155
+        },
+        {
+          "age": "26",
+          "total": 69823,
+          "male": 34467,
+          "female": 35356
+        },
+        {
+          "age": "27",
+          "total": 72424,
+          "male": 35821,
+          "female": 36603
+        },
+        {
+          "age": "28",
+          "total": 69850,
+          "male": 34453,
+          "female": 35397
+        },
+        {
+          "age": "29",
+          "total": 72376,
+          "male": 36334,
+          "female": 36042
+        },
+        {
+          "age": "30",
+          "total": 71715,
+          "male": 36167,
+          "female": 35548
+        },
+        {
+          "age": "31",
+          "total": 70898,
+          "male": 35611,
+          "female": 35287
+        },
+        {
+          "age": "32",
+          "total": 71378,
+          "male": 35893,
+          "female": 35485
+        },
+        {
+          "age": "33",
+          "total": 68868,
+          "male": 35015,
+          "female": 33853
+        },
+        {
+          "age": "34",
+          "total": 70051,
+          "male": 35820,
+          "female": 34231
+        },
+        {
+          "age": "35",
+          "total": 65560,
+          "male": 33573,
+          "female": 31987
+        },
+        {
+          "age": "36",
+          "total": 65170,
+          "male": 33783,
+          "female": 31387
+        },
+        {
+          "age": "37",
+          "total": 62339,
+          "male": 32539,
+          "female": 29800
+        },
+        {
+          "age": "38",
+          "total": 59241,
+          "male": 30864,
+          "female": 28377
+        },
+        {
+          "age": "39",
+          "total": 52450,
+          "male": 27383,
+          "female": 25067
+        },
+        {
+          "age": "40",
+          "total": 55003,
+          "male": 28836,
+          "female": 26167
+        },
+        {
+          "age": "41",
+          "total": 54300,
+          "male": 28263,
+          "female": 26037
+        },
+        {
+          "age": "42",
+          "total": 55901,
+          "male": 29645,
+          "female": 26256
+        },
+        {
+          "age": "43",
+          "total": 53135,
+          "male": 27444,
+          "female": 25691
+        },
+        {
+          "age": "44",
+          "total": 51888,
+          "male": 26774,
+          "female": 25114
+        },
+        {
+          "age": "45",
+          "total": 51889,
+          "male": 26986,
+          "female": 24903
+        },
+        {
+          "age": "46",
+          "total": 50398,
+          "male": 25992,
+          "female": 24406
+        },
+        {
+          "age": "47",
+          "total": 49196,
+          "male": 25224,
+          "female": 23972
+        },
+        {
+          "age": "48",
+          "total": 48208,
+          "male": 24405,
+          "female": 23803
+        },
+        {
+          "age": "49",
+          "total": 48320,
+          "male": 24465,
+          "female": 23855
+        },
+        {
+          "age": "50",
+          "total": 45356,
+          "male": 22986,
+          "female": 22370
+        },
+        {
+          "age": "51",
+          "total": 46933,
+          "male": 23120,
+          "female": 23813
+        },
+        {
+          "age": "52",
+          "total": 46530,
+          "male": 23095,
+          "female": 23435
+        },
+        {
+          "age": "53",
+          "total": 44906,
+          "male": 22080,
+          "female": 22826
+        },
+        {
+          "age": "54",
+          "total": 46498,
+          "male": 22803,
+          "female": 23695
+        },
+        {
+          "age": "55",
+          "total": 46378,
+          "male": 22926,
+          "female": 23452
+        },
+        {
+          "age": "56",
+          "total": 44701,
+          "male": 21661,
+          "female": 23040
+        },
+        {
+          "age": "57",
+          "total": 43129,
+          "male": 20912,
+          "female": 22217
+        },
+        {
+          "age": "58",
+          "total": 40617,
+          "male": 19628,
+          "female": 20989
+        },
+        {
+          "age": "59",
+          "total": 40799,
+          "male": 19721,
+          "female": 21078
+        },
+        {
+          "age": "60 & Above",
+          "total": 576924,
+          "male": 257281,
+          "female": 319643
+        }
+      ]
+    },
+    {
+      "name": "REGION VII",
+      "total": 4389344,
+      "male": 2147025,
+      "female": 2242319,
+      "ages": [
+        {
+          "age": "18",
+          "total": 82525,
+          "male": 40466,
+          "female": 42059
+        },
+        {
+          "age": "19",
+          "total": 99360,
+          "male": 48905,
+          "female": 50455
+        },
+        {
+          "age": "20",
+          "total": 108431,
+          "male": 53901,
+          "female": 54530
+        },
+        {
+          "age": "21",
+          "total": 115435,
+          "male": 57773,
+          "female": 57662
+        },
+        {
+          "age": "22",
+          "total": 115103,
+          "male": 57709,
+          "female": 57394
+        },
+        {
+          "age": "23",
+          "total": 114147,
+          "male": 57305,
+          "female": 56842
+        },
+        {
+          "age": "24",
+          "total": 118929,
+          "male": 59885,
+          "female": 59044
+        },
+        {
+          "age": "25",
+          "total": 118206,
+          "male": 59316,
+          "female": 58890
+        },
+        {
+          "age": "26",
+          "total": 106862,
+          "male": 53382,
+          "female": 53480
+        },
+        {
+          "age": "27",
+          "total": 111499,
+          "male": 55754,
+          "female": 55745
+        },
+        {
+          "age": "28",
+          "total": 106108,
+          "male": 52880,
+          "female": 53228
+        },
+        {
+          "age": "29",
+          "total": 107711,
+          "male": 53031,
+          "female": 54680
+        },
+        {
+          "age": "30",
+          "total": 107033,
+          "male": 53171,
+          "female": 53862
+        },
+        {
+          "age": "31",
+          "total": 106493,
+          "male": 53048,
+          "female": 53445
+        },
+        {
+          "age": "32",
+          "total": 104543,
+          "male": 51783,
+          "female": 52760
+        },
+        {
+          "age": "33",
+          "total": 103298,
+          "male": 51505,
+          "female": 51793
+        },
+        {
+          "age": "34",
+          "total": 103338,
+          "male": 52040,
+          "female": 51298
+        },
+        {
+          "age": "35",
+          "total": 99382,
+          "male": 49698,
+          "female": 49684
+        },
+        {
+          "age": "36",
+          "total": 98078,
+          "male": 49594,
+          "female": 48484
+        },
+        {
+          "age": "37",
+          "total": 93074,
+          "male": 46730,
+          "female": 46344
+        },
+        {
+          "age": "38",
+          "total": 89050,
+          "male": 44864,
+          "female": 44186
+        },
+        {
+          "age": "39",
+          "total": 80549,
+          "male": 40588,
+          "female": 39961
+        },
+        {
+          "age": "40",
+          "total": 82074,
+          "male": 41690,
+          "female": 40384
+        },
+        {
+          "age": "41",
+          "total": 81772,
+          "male": 41018,
+          "female": 40754
+        },
+        {
+          "age": "42",
+          "total": 83391,
+          "male": 42012,
+          "female": 41379
+        },
+        {
+          "age": "43",
+          "total": 80157,
+          "male": 40529,
+          "female": 39628
+        },
+        {
+          "age": "44",
+          "total": 80200,
+          "male": 40257,
+          "female": 39943
+        },
+        {
+          "age": "45",
+          "total": 78412,
+          "male": 39236,
+          "female": 39176
+        },
+        {
+          "age": "46",
+          "total": 74888,
+          "male": 37499,
+          "female": 37389
+        },
+        {
+          "age": "47",
+          "total": 72935,
+          "male": 36176,
+          "female": 36759
+        },
+        {
+          "age": "48",
+          "total": 69614,
+          "male": 34344,
+          "female": 35270
+        },
+        {
+          "age": "49",
+          "total": 68357,
+          "male": 34003,
+          "female": 34354
+        },
+        {
+          "age": "50",
+          "total": 65631,
+          "male": 32291,
+          "female": 33340
+        },
+        {
+          "age": "51",
+          "total": 64093,
+          "male": 31292,
+          "female": 32801
+        },
+        {
+          "age": "52",
+          "total": 63928,
+          "male": 31436,
+          "female": 32492
+        },
+        {
+          "age": "53",
+          "total": 62080,
+          "male": 30471,
+          "female": 31609
+        },
+        {
+          "age": "54",
+          "total": 63054,
+          "male": 30745,
+          "female": 32309
+        },
+        {
+          "age": "55",
+          "total": 62332,
+          "male": 30453,
+          "female": 31879
+        },
+        {
+          "age": "56",
+          "total": 58803,
+          "male": 28590,
+          "female": 30213
+        },
+        {
+          "age": "57",
+          "total": 55853,
+          "male": 26983,
+          "female": 28870
+        },
+        {
+          "age": "58",
+          "total": 53546,
+          "male": 25686,
+          "female": 27860
+        },
+        {
+          "age": "59",
+          "total": 52044,
+          "male": 24987,
+          "female": 27057
+        },
+        {
+          "age": "60 & Above",
+          "total": 727026,
+          "male": 323999,
+          "female": 403027
+        }
+      ]
+    },
+    {
+      "name": "REGION VIII",
+      "total": 3259554,
+      "male": 1652497,
+      "female": 1607057,
+      "ages": [
+        {
+          "age": "18",
+          "total": 77895,
+          "male": 39028,
+          "female": 38867
+        },
+        {
+          "age": "19",
+          "total": 84599,
+          "male": 42899,
+          "female": 41700
+        },
+        {
+          "age": "20",
+          "total": 88947,
+          "male": 44846,
+          "female": 44101
+        },
+        {
+          "age": "21",
+          "total": 94348,
+          "male": 48053,
+          "female": 46295
+        },
+        {
+          "age": "22",
+          "total": 92279,
+          "male": 47145,
+          "female": 45134
+        },
+        {
+          "age": "23",
+          "total": 87631,
+          "male": 45019,
+          "female": 42612
+        },
+        {
+          "age": "24",
+          "total": 91711,
+          "male": 47233,
+          "female": 44478
+        },
+        {
+          "age": "25",
+          "total": 90225,
+          "male": 46532,
+          "female": 43693
+        },
+        {
+          "age": "26",
+          "total": 83565,
+          "male": 42978,
+          "female": 40587
+        },
+        {
+          "age": "27",
+          "total": 86460,
+          "male": 44409,
+          "female": 42051
+        },
+        {
+          "age": "28",
+          "total": 79430,
+          "male": 40915,
+          "female": 38515
+        },
+        {
+          "age": "29",
+          "total": 79242,
+          "male": 40461,
+          "female": 38781
+        },
+        {
+          "age": "30",
+          "total": 78541,
+          "male": 40703,
+          "female": 37838
+        },
+        {
+          "age": "31",
+          "total": 76738,
+          "male": 39900,
+          "female": 36838
+        },
+        {
+          "age": "32",
+          "total": 73813,
+          "male": 38339,
+          "female": 35474
+        },
+        {
+          "age": "33",
+          "total": 72805,
+          "male": 38215,
+          "female": 34590
+        },
+        {
+          "age": "34",
+          "total": 73178,
+          "male": 38204,
+          "female": 34974
+        },
+        {
+          "age": "35",
+          "total": 63643,
+          "male": 33295,
+          "female": 30348
+        },
+        {
+          "age": "36",
+          "total": 65256,
+          "male": 34196,
+          "female": 31060
+        },
+        {
+          "age": "37",
+          "total": 64577,
+          "male": 34096,
+          "female": 30481
+        },
+        {
+          "age": "38",
+          "total": 60274,
+          "male": 31433,
+          "female": 28841
+        },
+        {
+          "age": "39",
+          "total": 55823,
+          "male": 29742,
+          "female": 26081
+        },
+        {
+          "age": "40",
+          "total": 55033,
+          "male": 29203,
+          "female": 25830
+        },
+        {
+          "age": "41",
+          "total": 54429,
+          "male": 28746,
+          "female": 25683
+        },
+        {
+          "age": "42",
+          "total": 55658,
+          "male": 29662,
+          "female": 25996
+        },
+        {
+          "age": "43",
+          "total": 53571,
+          "male": 28455,
+          "female": 25116
+        },
+        {
+          "age": "44",
+          "total": 52282,
+          "male": 27250,
+          "female": 25032
+        },
+        {
+          "age": "45",
+          "total": 53998,
+          "male": 28224,
+          "female": 25774
+        },
+        {
+          "age": "46",
+          "total": 51763,
+          "male": 27328,
+          "female": 24435
+        },
+        {
+          "age": "47",
+          "total": 50393,
+          "male": 26357,
+          "female": 24036
+        },
+        {
+          "age": "48",
+          "total": 49145,
+          "male": 25594,
+          "female": 23551
+        },
+        {
+          "age": "49",
+          "total": 48884,
+          "male": 25378,
+          "female": 23506
+        },
+        {
+          "age": "50",
+          "total": 47756,
+          "male": 24758,
+          "female": 22998
+        },
+        {
+          "age": "51",
+          "total": 46822,
+          "male": 24076,
+          "female": 22746
+        },
+        {
+          "age": "52",
+          "total": 47218,
+          "male": 24434,
+          "female": 22784
+        },
+        {
+          "age": "53",
+          "total": 44213,
+          "male": 22772,
+          "female": 21441
+        },
+        {
+          "age": "54",
+          "total": 44744,
+          "male": 22546,
+          "female": 22198
+        },
+        {
+          "age": "55",
+          "total": 46284,
+          "male": 23410,
+          "female": 22874
+        },
+        {
+          "age": "56",
+          "total": 44390,
+          "male": 22324,
+          "female": 22066
+        },
+        {
+          "age": "57",
+          "total": 41175,
+          "male": 20763,
+          "female": 20412
+        },
+        {
+          "age": "58",
+          "total": 40686,
+          "male": 20411,
+          "female": 20275
+        },
+        {
+          "age": "59",
+          "total": 39623,
+          "male": 19906,
+          "female": 19717
+        },
+        {
+          "age": "60 & Above",
+          "total": 570507,
+          "male": 263259,
+          "female": 307248
+        }
+      ]
+    },
+    {
+      "name": "REGION IX",
+      "total": 2869368,
+      "male": 1434698,
+      "female": 1434670,
+      "ages": [
+        {
+          "age": "18",
+          "total": 61193,
+          "male": 30222,
+          "female": 30971
+        },
+        {
+          "age": "19",
+          "total": 72122,
+          "male": 36055,
+          "female": 36067
+        },
+        {
+          "age": "20",
+          "total": 75075,
+          "male": 37775,
+          "female": 37300
+        },
+        {
+          "age": "21",
+          "total": 80528,
+          "male": 40512,
+          "female": 40016
+        },
+        {
+          "age": "22",
+          "total": 78742,
+          "male": 39723,
+          "female": 39019
+        },
+        {
+          "age": "23",
+          "total": 74320,
+          "male": 37319,
+          "female": 37001
+        },
+        {
+          "age": "24",
+          "total": 80249,
+          "male": 40408,
+          "female": 39841
+        },
+        {
+          "age": "25",
+          "total": 81109,
+          "male": 40956,
+          "female": 40153
+        },
+        {
+          "age": "26",
+          "total": 71911,
+          "male": 36353,
+          "female": 35558
+        },
+        {
+          "age": "27",
+          "total": 73940,
+          "male": 37363,
+          "female": 36577
+        },
+        {
+          "age": "28",
+          "total": 71118,
+          "male": 36151,
+          "female": 34967
+        },
+        {
+          "age": "29",
+          "total": 69282,
+          "male": 35134,
+          "female": 34148
+        },
+        {
+          "age": "30",
+          "total": 75031,
+          "male": 38201,
+          "female": 36830
+        },
+        {
+          "age": "31",
+          "total": 78560,
+          "male": 39957,
+          "female": 38603
+        },
+        {
+          "age": "32",
+          "total": 73358,
+          "male": 37664,
+          "female": 35694
+        },
+        {
+          "age": "33",
+          "total": 69893,
+          "male": 36062,
+          "female": 33831
+        },
+        {
+          "age": "34",
+          "total": 67024,
+          "male": 34873,
+          "female": 32151
+        },
+        {
+          "age": "35",
+          "total": 62642,
+          "male": 32264,
+          "female": 30378
+        },
+        {
+          "age": "36",
+          "total": 61355,
+          "male": 31976,
+          "female": 29379
+        },
+        {
+          "age": "37",
+          "total": 58695,
+          "male": 30762,
+          "female": 27933
+        },
+        {
+          "age": "38",
+          "total": 53728,
+          "male": 27810,
+          "female": 25918
+        },
+        {
+          "age": "39",
+          "total": 52095,
+          "male": 27135,
+          "female": 24960
+        },
+        {
+          "age": "40",
+          "total": 53066,
+          "male": 27540,
+          "female": 25526
+        },
+        {
+          "age": "41",
+          "total": 50488,
+          "male": 26255,
+          "female": 24233
+        },
+        {
+          "age": "42",
+          "total": 52091,
+          "male": 27231,
+          "female": 24860
+        },
+        {
+          "age": "43",
+          "total": 48474,
+          "male": 25141,
+          "female": 23333
+        },
+        {
+          "age": "44",
+          "total": 47533,
+          "male": 24338,
+          "female": 23195
+        },
+        {
+          "age": "45",
+          "total": 50375,
+          "male": 26041,
+          "female": 24334
+        },
+        {
+          "age": "46",
+          "total": 47616,
+          "male": 24398,
+          "female": 23218
+        },
+        {
+          "age": "47",
+          "total": 45840,
+          "male": 23243,
+          "female": 22597
+        },
+        {
+          "age": "48",
+          "total": 44391,
+          "male": 22490,
+          "female": 21901
+        },
+        {
+          "age": "49",
+          "total": 42976,
+          "male": 21860,
+          "female": 21116
+        },
+        {
+          "age": "50",
+          "total": 44264,
+          "male": 22228,
+          "female": 22036
+        },
+        {
+          "age": "51",
+          "total": 41435,
+          "male": 20715,
+          "female": 20720
+        },
+        {
+          "age": "52",
+          "total": 44239,
+          "male": 21873,
+          "female": 22366
+        },
+        {
+          "age": "53",
+          "total": 40455,
+          "male": 19831,
+          "female": 20624
+        },
+        {
+          "age": "54",
+          "total": 39661,
+          "male": 19339,
+          "female": 20322
+        },
+        {
+          "age": "55",
+          "total": 42570,
+          "male": 20992,
+          "female": 21578
+        },
+        {
+          "age": "56",
+          "total": 38701,
+          "male": 19091,
+          "female": 19610
+        },
+        {
+          "age": "57",
+          "total": 36449,
+          "male": 17843,
+          "female": 18606
+        },
+        {
+          "age": "58",
+          "total": 33800,
+          "male": 16493,
+          "female": 17307
+        },
+        {
+          "age": "59",
+          "total": 32908,
+          "male": 15899,
+          "female": 17009
+        },
+        {
+          "age": "60 & Above",
+          "total": 450066,
+          "male": 207182,
+          "female": 242884
+        }
+      ]
+    },
+    {
+      "name": "REGION X",
+      "total": 3179252,
+      "male": 1589855,
+      "female": 1589397,
+      "ages": [
+        {
+          "age": "18",
+          "total": 65766,
+          "male": 32018,
+          "female": 33748
+        },
+        {
+          "age": "19",
+          "total": 76042,
+          "male": 37545,
+          "female": 38497
+        },
+        {
+          "age": "20",
+          "total": 83979,
+          "male": 41519,
+          "female": 42460
+        },
+        {
+          "age": "21",
+          "total": 88937,
+          "male": 44105,
+          "female": 44832
+        },
+        {
+          "age": "22",
+          "total": 86573,
+          "male": 43679,
+          "female": 42894
+        },
+        {
+          "age": "23",
+          "total": 84553,
+          "male": 42272,
+          "female": 42281
+        },
+        {
+          "age": "24",
+          "total": 85761,
+          "male": 42892,
+          "female": 42869
+        },
+        {
+          "age": "25",
+          "total": 85756,
+          "male": 42715,
+          "female": 43041
+        },
+        {
+          "age": "26",
+          "total": 78030,
+          "male": 39210,
+          "female": 38820
+        },
+        {
+          "age": "27",
+          "total": 80255,
+          "male": 40492,
+          "female": 39763
+        },
+        {
+          "age": "28",
+          "total": 76931,
+          "male": 38623,
+          "female": 38308
+        },
+        {
+          "age": "29",
+          "total": 76363,
+          "male": 38629,
+          "female": 37734
+        },
+        {
+          "age": "30",
+          "total": 77713,
+          "male": 39536,
+          "female": 38177
+        },
+        {
+          "age": "31",
+          "total": 77428,
+          "male": 39660,
+          "female": 37768
+        },
+        {
+          "age": "32",
+          "total": 75053,
+          "male": 38328,
+          "female": 36725
+        },
+        {
+          "age": "33",
+          "total": 75971,
+          "male": 38925,
+          "female": 37046
+        },
+        {
+          "age": "34",
+          "total": 75701,
+          "male": 39091,
+          "female": 36610
+        },
+        {
+          "age": "35",
+          "total": 71264,
+          "male": 37044,
+          "female": 34220
+        },
+        {
+          "age": "36",
+          "total": 71773,
+          "male": 37358,
+          "female": 34415
+        },
+        {
+          "age": "37",
+          "total": 68616,
+          "male": 35845,
+          "female": 32771
+        },
+        {
+          "age": "38",
+          "total": 62882,
+          "male": 32680,
+          "female": 30202
+        },
+        {
+          "age": "39",
+          "total": 59276,
+          "male": 31148,
+          "female": 28128
+        },
+        {
+          "age": "40",
+          "total": 59716,
+          "male": 31377,
+          "female": 28339
+        },
+        {
+          "age": "41",
+          "total": 58030,
+          "male": 30251,
+          "female": 27779
+        },
+        {
+          "age": "42",
+          "total": 57041,
+          "male": 30101,
+          "female": 26940
+        },
+        {
+          "age": "43",
+          "total": 53989,
+          "male": 28155,
+          "female": 25834
+        },
+        {
+          "age": "44",
+          "total": 53980,
+          "male": 27785,
+          "female": 26195
+        },
+        {
+          "age": "45",
+          "total": 57061,
+          "male": 29788,
+          "female": 27273
+        },
+        {
+          "age": "46",
+          "total": 55291,
+          "male": 28585,
+          "female": 26706
+        },
+        {
+          "age": "47",
+          "total": 52104,
+          "male": 26757,
+          "female": 25347
+        },
+        {
+          "age": "48",
+          "total": 49242,
+          "male": 25222,
+          "female": 24020
+        },
+        {
+          "age": "49",
+          "total": 48778,
+          "male": 24719,
+          "female": 24059
+        },
+        {
+          "age": "50",
+          "total": 47600,
+          "male": 24105,
+          "female": 23495
+        },
+        {
+          "age": "51",
+          "total": 45594,
+          "male": 23194,
+          "female": 22400
+        },
+        {
+          "age": "52",
+          "total": 47331,
+          "male": 23963,
+          "female": 23368
+        },
+        {
+          "age": "53",
+          "total": 44697,
+          "male": 22182,
+          "female": 22515
+        },
+        {
+          "age": "54",
+          "total": 44967,
+          "male": 22470,
+          "female": 22497
+        },
+        {
+          "age": "55",
+          "total": 46821,
+          "male": 23310,
+          "female": 23511
+        },
+        {
+          "age": "56",
+          "total": 44147,
+          "male": 21810,
+          "female": 22337
+        },
+        {
+          "age": "57",
+          "total": 40639,
+          "male": 19957,
+          "female": 20682
+        },
+        {
+          "age": "58",
+          "total": 39346,
+          "male": 19293,
+          "female": 20053
+        },
+        {
+          "age": "59",
+          "total": 38323,
+          "male": 18669,
+          "female": 19654
+        },
+        {
+          "age": "60 & Above",
+          "total": 509932,
+          "male": 234848,
+          "female": 275084
+        }
+      ]
+    },
+    {
+      "name": "REGION XI",
+      "total": 3376470,
+      "male": 1696700,
+      "female": 1679770,
+      "ages": [
+        {
+          "age": "18",
+          "total": 57682,
+          "male": 27767,
+          "female": 29915
+        },
+        {
+          "age": "19",
+          "total": 72053,
+          "male": 35386,
+          "female": 36667
+        },
+        {
+          "age": "20",
+          "total": 76066,
+          "male": 37411,
+          "female": 38655
+        },
+        {
+          "age": "21",
+          "total": 84127,
+          "male": 41413,
+          "female": 42714
+        },
+        {
+          "age": "22",
+          "total": 83529,
+          "male": 41349,
+          "female": 42180
+        },
+        {
+          "age": "23",
+          "total": 82466,
+          "male": 40589,
+          "female": 41877
+        },
+        {
+          "age": "24",
+          "total": 86269,
+          "male": 42887,
+          "female": 43382
+        },
+        {
+          "age": "25",
+          "total": 86440,
+          "male": 42668,
+          "female": 43772
+        },
+        {
+          "age": "26",
+          "total": 80219,
+          "male": 39656,
+          "female": 40563
+        },
+        {
+          "age": "27",
+          "total": 83963,
+          "male": 41928,
+          "female": 42035
+        },
+        {
+          "age": "28",
+          "total": 81010,
+          "male": 40446,
+          "female": 40564
+        },
+        {
+          "age": "29",
+          "total": 81479,
+          "male": 41009,
+          "female": 40470
+        },
+        {
+          "age": "30",
+          "total": 83348,
+          "male": 42486,
+          "female": 40862
+        },
+        {
+          "age": "31",
+          "total": 81570,
+          "male": 41319,
+          "female": 40251
+        },
+        {
+          "age": "32",
+          "total": 80865,
+          "male": 41200,
+          "female": 39665
+        },
+        {
+          "age": "33",
+          "total": 81817,
+          "male": 41874,
+          "female": 39943
+        },
+        {
+          "age": "34",
+          "total": 81129,
+          "male": 42181,
+          "female": 38948
+        },
+        {
+          "age": "35",
+          "total": 79124,
+          "male": 41093,
+          "female": 38031
+        },
+        {
+          "age": "36",
+          "total": 77813,
+          "male": 40637,
+          "female": 37176
+        },
+        {
+          "age": "37",
+          "total": 77882,
+          "male": 40904,
+          "female": 36978
+        },
+        {
+          "age": "38",
+          "total": 72485,
+          "male": 38217,
+          "female": 34268
+        },
+        {
+          "age": "39",
+          "total": 68057,
+          "male": 36303,
+          "female": 31754
+        },
+        {
+          "age": "40",
+          "total": 68122,
+          "male": 36163,
+          "female": 31959
+        },
+        {
+          "age": "41",
+          "total": 66079,
+          "male": 34844,
+          "female": 31235
+        },
+        {
+          "age": "42",
+          "total": 64927,
+          "male": 34283,
+          "female": 30644
+        },
+        {
+          "age": "43",
+          "total": 62498,
+          "male": 33053,
+          "female": 29445
+        },
+        {
+          "age": "44",
+          "total": 61231,
+          "male": 32231,
+          "female": 29000
+        },
+        {
+          "age": "45",
+          "total": 63360,
+          "male": 33525,
+          "female": 29835
+        },
+        {
+          "age": "46",
+          "total": 60174,
+          "male": 31487,
+          "female": 28687
+        },
+        {
+          "age": "47",
+          "total": 58169,
+          "male": 30614,
+          "female": 27555
+        },
+        {
+          "age": "48",
+          "total": 56056,
+          "male": 29122,
+          "female": 26934
+        },
+        {
+          "age": "49",
+          "total": 55506,
+          "male": 28677,
+          "female": 26829
+        },
+        {
+          "age": "50",
+          "total": 53875,
+          "male": 27700,
+          "female": 26175
+        },
+        {
+          "age": "51",
+          "total": 52038,
+          "male": 26507,
+          "female": 25531
+        },
+        {
+          "age": "52",
+          "total": 53190,
+          "male": 27256,
+          "female": 25934
+        },
+        {
+          "age": "53",
+          "total": 49041,
+          "male": 24843,
+          "female": 24198
+        },
+        {
+          "age": "54",
+          "total": 49010,
+          "male": 24645,
+          "female": 24365
+        },
+        {
+          "age": "55",
+          "total": 51218,
+          "male": 25393,
+          "female": 25825
+        },
+        {
+          "age": "56",
+          "total": 48205,
+          "male": 23891,
+          "female": 24314
+        },
+        {
+          "age": "57",
+          "total": 44314,
+          "male": 22143,
+          "female": 22171
+        },
+        {
+          "age": "58",
+          "total": 42153,
+          "male": 20699,
+          "female": 21454
+        },
+        {
+          "age": "59",
+          "total": 40886,
+          "male": 20097,
+          "female": 20789
+        },
+        {
+          "age": "60 & Above",
+          "total": 537025,
+          "male": 250804,
+          "female": 286221
+        }
+      ]
+    },
+    {
+      "name": "REGION XII",
+      "total": 2701992,
+      "male": 1366431,
+      "female": 1335561,
+      "ages": [
+        {
+          "age": "18",
+          "total": 44370,
+          "male": 21208,
+          "female": 23162
+        },
+        {
+          "age": "19",
+          "total": 57332,
+          "male": 27491,
+          "female": 29841
+        },
+        {
+          "age": "20",
+          "total": 61724,
+          "male": 30084,
+          "female": 31640
+        },
+        {
+          "age": "21",
+          "total": 70789,
+          "male": 34692,
+          "female": 36097
+        },
+        {
+          "age": "22",
+          "total": 73145,
+          "male": 36336,
+          "female": 36809
+        },
+        {
+          "age": "23",
+          "total": 71125,
+          "male": 35450,
+          "female": 35675
+        },
+        {
+          "age": "24",
+          "total": 73554,
+          "male": 36732,
+          "female": 36822
+        },
+        {
+          "age": "25",
+          "total": 74508,
+          "male": 37483,
+          "female": 37025
+        },
+        {
+          "age": "26",
+          "total": 65757,
+          "male": 33220,
+          "female": 32537
+        },
+        {
+          "age": "27",
+          "total": 68900,
+          "male": 35043,
+          "female": 33857
+        },
+        {
+          "age": "28",
+          "total": 67359,
+          "male": 34142,
+          "female": 33217
+        },
+        {
+          "age": "29",
+          "total": 66067,
+          "male": 33765,
+          "female": 32302
+        },
+        {
+          "age": "30",
+          "total": 66921,
+          "male": 34530,
+          "female": 32391
+        },
+        {
+          "age": "31",
+          "total": 68330,
+          "male": 35131,
+          "female": 33199
+        },
+        {
+          "age": "32",
+          "total": 64109,
+          "male": 33129,
+          "female": 30980
+        },
+        {
+          "age": "33",
+          "total": 64400,
+          "male": 33480,
+          "female": 30920
+        },
+        {
+          "age": "34",
+          "total": 65371,
+          "male": 34145,
+          "female": 31226
+        },
+        {
+          "age": "35",
+          "total": 62150,
+          "male": 32759,
+          "female": 29391
+        },
+        {
+          "age": "36",
+          "total": 60505,
+          "male": 32034,
+          "female": 28471
+        },
+        {
+          "age": "37",
+          "total": 59021,
+          "male": 31268,
+          "female": 27753
+        },
+        {
+          "age": "38",
+          "total": 56041,
+          "male": 29577,
+          "female": 26464
+        },
+        {
+          "age": "39",
+          "total": 54888,
+          "male": 29275,
+          "female": 25613
+        },
+        {
+          "age": "40",
+          "total": 55624,
+          "male": 29844,
+          "female": 25780
+        },
+        {
+          "age": "41",
+          "total": 52124,
+          "male": 27668,
+          "female": 24456
+        },
+        {
+          "age": "42",
+          "total": 51685,
+          "male": 27633,
+          "female": 24052
+        },
+        {
+          "age": "43",
+          "total": 48676,
+          "male": 25868,
+          "female": 22808
+        },
+        {
+          "age": "44",
+          "total": 47744,
+          "male": 25107,
+          "female": 22637
+        },
+        {
+          "age": "45",
+          "total": 50736,
+          "male": 26799,
+          "female": 23937
+        },
+        {
+          "age": "46",
+          "total": 49609,
+          "male": 26311,
+          "female": 23298
+        },
+        {
+          "age": "47",
+          "total": 46077,
+          "male": 24267,
+          "female": 21810
+        },
+        {
+          "age": "48",
+          "total": 45119,
+          "male": 23560,
+          "female": 21559
+        },
+        {
+          "age": "49",
+          "total": 44071,
+          "male": 22931,
+          "female": 21140
+        },
+        {
+          "age": "50",
+          "total": 43720,
+          "male": 22683,
+          "female": 21037
+        },
+        {
+          "age": "51",
+          "total": 40811,
+          "male": 20957,
+          "female": 19854
+        },
+        {
+          "age": "52",
+          "total": 43030,
+          "male": 22151,
+          "female": 20879
+        },
+        {
+          "age": "53",
+          "total": 38792,
+          "male": 19805,
+          "female": 18987
+        },
+        {
+          "age": "54",
+          "total": 38402,
+          "male": 19496,
+          "female": 18906
+        },
+        {
+          "age": "55",
+          "total": 41069,
+          "male": 20926,
+          "female": 20143
+        },
+        {
+          "age": "56",
+          "total": 38811,
+          "male": 19500,
+          "female": 19311
+        },
+        {
+          "age": "57",
+          "total": 35693,
+          "male": 17897,
+          "female": 17796
+        },
+        {
+          "age": "58",
+          "total": 32902,
+          "male": 16457,
+          "female": 16445
+        },
+        {
+          "age": "59",
+          "total": 31713,
+          "male": 15807,
+          "female": 15906
+        },
+        {
+          "age": "60 & Above",
+          "total": 409218,
+          "male": 189790,
+          "female": 219428
+        }
+      ]
+    },
+    {
+      "name": "CARAGA",
+      "total": 1904917,
+      "male": 972998,
+      "female": 931919,
+      "ages": [
+        {
+          "age": "18",
+          "total": 42718,
+          "male": 21346,
+          "female": 21372
+        },
+        {
+          "age": "19",
+          "total": 47075,
+          "male": 23877,
+          "female": 23198
+        },
+        {
+          "age": "20",
+          "total": 50885,
+          "male": 25774,
+          "female": 25111
+        },
+        {
+          "age": "21",
+          "total": 53932,
+          "male": 27365,
+          "female": 26567
+        },
+        {
+          "age": "22",
+          "total": 52958,
+          "male": 27000,
+          "female": 25958
+        },
+        {
+          "age": "23",
+          "total": 52536,
+          "male": 26822,
+          "female": 25714
+        },
+        {
+          "age": "24",
+          "total": 53669,
+          "male": 27644,
+          "female": 26025
+        },
+        {
+          "age": "25",
+          "total": 52822,
+          "male": 27183,
+          "female": 25639
+        },
+        {
+          "age": "26",
+          "total": 48112,
+          "male": 24671,
+          "female": 23441
+        },
+        {
+          "age": "27",
+          "total": 48894,
+          "male": 25195,
+          "female": 23699
+        },
+        {
+          "age": "28",
+          "total": 45368,
+          "male": 23335,
+          "female": 22033
+        },
+        {
+          "age": "29",
+          "total": 46168,
+          "male": 24064,
+          "female": 22104
+        },
+        {
+          "age": "30",
+          "total": 45881,
+          "male": 24274,
+          "female": 21607
+        },
+        {
+          "age": "31",
+          "total": 44853,
+          "male": 23569,
+          "female": 21284
+        },
+        {
+          "age": "32",
+          "total": 45660,
+          "male": 23755,
+          "female": 21905
+        },
+        {
+          "age": "33",
+          "total": 44631,
+          "male": 23567,
+          "female": 21064
+        },
+        {
+          "age": "34",
+          "total": 45408,
+          "male": 24121,
+          "female": 21287
+        },
+        {
+          "age": "35",
+          "total": 41737,
+          "male": 22134,
+          "female": 19603
+        },
+        {
+          "age": "36",
+          "total": 42317,
+          "male": 22640,
+          "female": 19677
+        },
+        {
+          "age": "37",
+          "total": 41345,
+          "male": 22187,
+          "female": 19158
+        },
+        {
+          "age": "38",
+          "total": 37805,
+          "male": 20325,
+          "female": 17480
+        },
+        {
+          "age": "39",
+          "total": 35016,
+          "male": 18801,
+          "female": 16215
+        },
+        {
+          "age": "40",
+          "total": 34868,
+          "male": 18890,
+          "female": 15978
+        },
+        {
+          "age": "41",
+          "total": 34629,
+          "male": 18673,
+          "female": 15956
+        },
+        {
+          "age": "42",
+          "total": 34050,
+          "male": 18483,
+          "female": 15567
+        },
+        {
+          "age": "43",
+          "total": 31694,
+          "male": 17117,
+          "female": 14577
+        },
+        {
+          "age": "44",
+          "total": 31274,
+          "male": 16536,
+          "female": 14738
+        },
+        {
+          "age": "45",
+          "total": 32152,
+          "male": 17010,
+          "female": 15142
+        },
+        {
+          "age": "46",
+          "total": 30296,
+          "male": 16078,
+          "female": 14218
+        },
+        {
+          "age": "47",
+          "total": 29890,
+          "male": 15767,
+          "female": 14123
+        },
+        {
+          "age": "48",
+          "total": 28694,
+          "male": 15005,
+          "female": 13689
+        },
+        {
+          "age": "49",
+          "total": 28204,
+          "male": 14684,
+          "female": 13520
+        },
+        {
+          "age": "50",
+          "total": 27538,
+          "male": 14143,
+          "female": 13395
+        },
+        {
+          "age": "51",
+          "total": 27573,
+          "male": 13949,
+          "female": 13624
+        },
+        {
+          "age": "52",
+          "total": 28358,
+          "male": 14621,
+          "female": 13737
+        },
+        {
+          "age": "53",
+          "total": 25957,
+          "male": 13338,
+          "female": 12619
+        },
+        {
+          "age": "54",
+          "total": 25551,
+          "male": 12945,
+          "female": 12606
+        },
+        {
+          "age": "55",
+          "total": 27458,
+          "male": 13923,
+          "female": 13535
+        },
+        {
+          "age": "56",
+          "total": 26570,
+          "male": 13233,
+          "female": 13337
+        },
+        {
+          "age": "57",
+          "total": 23597,
+          "male": 11807,
+          "female": 11790
+        },
+        {
+          "age": "58",
+          "total": 23624,
+          "male": 11756,
+          "female": 11868
+        },
+        {
+          "age": "59",
+          "total": 22135,
+          "male": 11012,
+          "female": 11123
+        },
+        {
+          "age": "60 & Above",
+          "total": 311015,
+          "male": 144379,
+          "female": 166636
+        }
+      ]
+    },
+    {
+      "name": "B A R M M",
+      "total": 2378828,
+      "male": 1202069,
+      "female": 1176759,
+      "ages": [
+        {
+          "age": "18",
+          "total": 44398,
+          "male": 22004,
+          "female": 22394
+        },
+        {
+          "age": "19",
+          "total": 55526,
+          "male": 28515,
+          "female": 27011
+        },
+        {
+          "age": "20",
+          "total": 53562,
+          "male": 27615,
+          "female": 25947
+        },
+        {
+          "age": "21",
+          "total": 74629,
+          "male": 37932,
+          "female": 36697
+        },
+        {
+          "age": "22",
+          "total": 74180,
+          "male": 38061,
+          "female": 36119
+        },
+        {
+          "age": "23",
+          "total": 64585,
+          "male": 33719,
+          "female": 30866
+        },
+        {
+          "age": "24",
+          "total": 77083,
+          "male": 40847,
+          "female": 36236
+        },
+        {
+          "age": "25",
+          "total": 78284,
+          "male": 42237,
+          "female": 36047
+        },
+        {
+          "age": "26",
+          "total": 63005,
+          "male": 33915,
+          "female": 29090
+        },
+        {
+          "age": "27",
+          "total": 66840,
+          "male": 35676,
+          "female": 31164
+        },
+        {
+          "age": "28",
+          "total": 62795,
+          "male": 33669,
+          "female": 29126
+        },
+        {
+          "age": "29",
+          "total": 56664,
+          "male": 30349,
+          "female": 26315
+        },
+        {
+          "age": "30",
+          "total": 82839,
+          "male": 42640,
+          "female": 40199
+        },
+        {
+          "age": "31",
+          "total": 95694,
+          "male": 49271,
+          "female": 46423
+        },
+        {
+          "age": "32",
+          "total": 78764,
+          "male": 41253,
+          "female": 37511
+        },
+        {
+          "age": "33",
+          "total": 64522,
+          "male": 34526,
+          "female": 29996
+        },
+        {
+          "age": "34",
+          "total": 59116,
+          "male": 31571,
+          "female": 27545
+        },
+        {
+          "age": "35",
+          "total": 57120,
+          "male": 30430,
+          "female": 26690
+        },
+        {
+          "age": "36",
+          "total": 49998,
+          "male": 26022,
+          "female": 23976
+        },
+        {
+          "age": "37",
+          "total": 48057,
+          "male": 24617,
+          "female": 23440
+        },
+        {
+          "age": "38",
+          "total": 45897,
+          "male": 23534,
+          "female": 22363
+        },
+        {
+          "age": "39",
+          "total": 45041,
+          "male": 23311,
+          "female": 21730
+        },
+        {
+          "age": "40",
+          "total": 47950,
+          "male": 24655,
+          "female": 23295
+        },
+        {
+          "age": "41",
+          "total": 43754,
+          "male": 22029,
+          "female": 21725
+        },
+        {
+          "age": "42",
+          "total": 42111,
+          "male": 21053,
+          "female": 21058
+        },
+        {
+          "age": "43",
+          "total": 38578,
+          "male": 18987,
+          "female": 19591
+        },
+        {
+          "age": "44",
+          "total": 38586,
+          "male": 18809,
+          "female": 19777
+        },
+        {
+          "age": "45",
+          "total": 44000,
+          "male": 21581,
+          "female": 22419
+        },
+        {
+          "age": "46",
+          "total": 37129,
+          "male": 17972,
+          "female": 19157
+        },
+        {
+          "age": "47",
+          "total": 33749,
+          "male": 16298,
+          "female": 17451
+        },
+        {
+          "age": "48",
+          "total": 32778,
+          "male": 15852,
+          "female": 16926
+        },
+        {
+          "age": "49",
+          "total": 33794,
+          "male": 16378,
+          "female": 17416
+        },
+        {
+          "age": "50",
+          "total": 34693,
+          "male": 16856,
+          "female": 17837
+        },
+        {
+          "age": "51",
+          "total": 31032,
+          "male": 15049,
+          "female": 15983
+        },
+        {
+          "age": "52",
+          "total": 33838,
+          "male": 16483,
+          "female": 17355
+        },
+        {
+          "age": "53",
+          "total": 30868,
+          "male": 15015,
+          "female": 15853
+        },
+        {
+          "age": "54",
+          "total": 27943,
+          "male": 13364,
+          "female": 14579
+        },
+        {
+          "age": "55",
+          "total": 34231,
+          "male": 16271,
+          "female": 17960
+        },
+        {
+          "age": "56",
+          "total": 28196,
+          "male": 13781,
+          "female": 14415
+        },
+        {
+          "age": "57",
+          "total": 25128,
+          "male": 12136,
+          "female": 12992
+        },
+        {
+          "age": "58",
+          "total": 21403,
+          "male": 10113,
+          "female": 11290
+        },
+        {
+          "age": "59",
+          "total": 20366,
+          "male": 9765,
+          "female": 10601
+        },
+        {
+          "age": "60 & Above",
+          "total": 300102,
+          "male": 137908,
+          "female": 162194
+        }
+      ]
+    }
+  ]
+}

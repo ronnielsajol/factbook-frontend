@@ -1,0 +1,1094 @@
+{
+  "metadata": {
+    "reviewed": 45,
+    "reviewedOn": "2026-08-21",
+    "summary": {
+      "administrative_corrected": 15,
+      "coordinate_corrected": 12,
+      "verified_boundary_exception": 6,
+      "withheld_unverified": 12
+    }
+  },
+  "records": [
+    {
+      "id": 72,
+      "institution": "Pangasinan State University-Sta. Maria",
+      "status": "withheld_unverified",
+      "before": {
+        "psgc": "102926000",
+        "region": "Region 1",
+        "province": "Ilocos Sur",
+        "locality": "Santa Maria",
+        "latitude": 15.8949055,
+        "longitude": 120.2863183
+      },
+      "after": {
+        "psgc": "0105539000",
+        "region": "Region 1",
+        "province": "Pangasinan",
+        "locality": "Santa Maria",
+        "latitude": null,
+        "longitude": null
+      },
+      "evidence": "https://stamaria.psu.edu.ph/contact/",
+      "note": "Official campus address is Santa Maria, Pangasinan; the source pin was in San Carlos City and was withheld pending a confirmed campus coordinate.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 194,
+      "institution": "Bulacan State University-Bustos",
+      "status": "administrative_corrected",
+      "before": {
+        "psgc": "301410000",
+        "region": "Region 3",
+        "province": "Bulacan",
+        "locality": "City of Malolos",
+        "latitude": 14.9523905,
+        "longitude": 120.917351
+      },
+      "after": {
+        "psgc": "0301406000",
+        "region": "Region 3",
+        "province": "Bulacan",
+        "locality": "Bustos",
+        "latitude": 14.9523905,
+        "longitude": 120.917351
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=14.959&mlon=120.914#map=18/14.959/120.914",
+      "note": "The source pin matches the Bustos campus; the listed locality was Malolos.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 195,
+      "institution": "Bulacan State University-San Jose Del Monte",
+      "status": "coordinate_corrected",
+      "before": {
+        "psgc": "301420000",
+        "region": "Region 3",
+        "province": "Bulacan",
+        "locality": "City of San Jose Del Monte",
+        "latitude": 14.7844351,
+        "longitude": 120.9906297
+      },
+      "after": {
+        "psgc": "0301420000",
+        "region": "Region 3",
+        "province": "Bulacan",
+        "locality": "City of San Jose del Monte",
+        "latitude": 14.8137008,
+        "longitude": 121.0573739
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=14.8137008&mlon=121.0573739#map=18/14.8137008/121.0573739",
+      "note": "Moved to the mapped Bulacan State University Sarmiento campus in San Jose del Monte.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 202,
+      "institution": "Nueva Ecija University of Science and Technology-Main",
+      "status": "coordinate_corrected",
+      "before": {
+        "psgc": "304903000",
+        "region": "Region 3",
+        "province": "Nueva Ecija",
+        "locality": "City of Cabanatuan",
+        "latitude": 16.3525764267047,
+        "longitude": 121.14034389863
+      },
+      "after": {
+        "psgc": "304903000",
+        "region": "Region 3",
+        "province": "Nueva Ecija",
+        "locality": "City of Cabanatuan",
+        "latitude": 15.48867,
+        "longitude": 120.97146
+      },
+      "evidence": "https://cms-cdn.e.gov.ph/DICT/pdf/PICS-PP_R3.pdf",
+      "note": "Government connectivity inventory identifies the NEUST Main campus coordinate in Cabanatuan City.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 258,
+      "institution": "Nueva Ecija University of Science and Technology-Sebani Estate Agricultural College",
+      "status": "coordinate_corrected",
+      "before": {
+        "psgc": "304903000",
+        "region": "Region 3",
+        "province": "Nueva Ecija",
+        "locality": "City of Cabanatuan",
+        "latitude": 15.4992211410695,
+        "longitude": 121.391542203223
+      },
+      "after": {
+        "psgc": "0304907000",
+        "region": "Region 3",
+        "province": "Nueva Ecija",
+        "locality": "Gabaldon",
+        "latitude": 15.44891,
+        "longitude": 120.94017
+      },
+      "evidence": "https://cms-cdn.e.gov.ph/DICT/pdf/PICS-PP_R3.pdf",
+      "note": "Government inventory places Sebani Estate in Gabaldon, Nueva Ecija.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 270,
+      "institution": "St. Paul University at San Miguel",
+      "status": "administrative_corrected",
+      "before": {
+        "psgc": "301405000",
+        "region": "Region 3",
+        "province": "Bulacan",
+        "locality": "Bulacan",
+        "latitude": 15.1315644,
+        "longitude": 120.963131
+      },
+      "after": {
+        "psgc": "0301421000",
+        "region": "Region 3",
+        "province": "Bulacan",
+        "locality": "San Miguel",
+        "latitude": 15.1315644,
+        "longitude": 120.963131
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=15.1297&mlon=120.963#map=18/15.1297/120.963",
+      "note": "The pin matches the San Miguel campus; the locality field contained only the province name.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 346,
+      "institution": "Bulacan Agricultural State College-Doña Remedios Trinidad",
+      "status": "withheld_unverified",
+      "before": {
+        "psgc": "301424000",
+        "region": "Region 3",
+        "province": "Bulacan",
+        "locality": "Doña Remedios Trinidad",
+        "latitude": 15.0731489,
+        "longitude": 120.9569995
+      },
+      "after": {
+        "psgc": "301424000",
+        "region": "Region 3",
+        "province": "Bulacan",
+        "locality": "Doña Remedios Trinidad",
+        "latitude": null,
+        "longitude": null
+      },
+      "evidence": "https://basc.edu.ph/about/institutional-profile/",
+      "note": "Official address is Sapang Bulac, DRT; the source pin was in San Ildefonso and was withheld pending a confirmed campus coordinate.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 381,
+      "institution": "Bestlink College of the Philippines-Bulacan",
+      "status": "administrative_corrected",
+      "before": {
+        "psgc": "301405000",
+        "region": "Region 3",
+        "province": "Bulacan",
+        "locality": "Bulacan",
+        "latitude": 14.8468576,
+        "longitude": 121.080496
+      },
+      "after": {
+        "psgc": "0301420000",
+        "region": "Region 3",
+        "province": "Bulacan",
+        "locality": "City of San Jose del Monte",
+        "latitude": 14.8468576,
+        "longitude": 121.080496
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=14.8468576&mlon=121.080496#map=18/14.8468576/121.080496",
+      "note": "The pin matches the Bestlink Bulacan campus in San Jose del Monte.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 384,
+      "institution": "Golden Valley Colleges",
+      "status": "administrative_corrected",
+      "before": {
+        "psgc": "301405000",
+        "region": "Region 3",
+        "province": "Bulacan",
+        "locality": "Bulacan",
+        "latitude": 14.7804877,
+        "longitude": 121.0524159
+      },
+      "after": {
+        "psgc": "1380100000",
+        "region": "NCR",
+        "province": "Metro Manila",
+        "locality": "City of Caloocan",
+        "latitude": 14.7804877,
+        "longitude": 121.0524159
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=14.7804877&mlon=121.0524159#map=18/14.7804877/121.0524159",
+      "note": "The mapped campus is in Bagong Silang, Caloocan; the source record classified it under Bulacan.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 407,
+      "institution": "Don Honorio Ventura Technological State University-Lubao",
+      "status": "withheld_unverified",
+      "before": {
+        "psgc": "305408000",
+        "region": "Region 3",
+        "province": "Pampanga",
+        "locality": "Lubao",
+        "latitude": 14.9447794100626,
+        "longitude": 120.661728545714
+      },
+      "after": {
+        "psgc": "305408000",
+        "region": "Region 3",
+        "province": "Pampanga",
+        "locality": "Lubao",
+        "latitude": null,
+        "longitude": null
+      },
+      "evidence": "https://oldsite.dhvsu.edu.ph/academics-menu/lubao-campus",
+      "note": "Official sources place the campus in Lubao; the source pin was outside Lubao and was withheld.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 408,
+      "institution": "Nueva Ecija University of Science and Technology-Papaya",
+      "status": "administrative_corrected",
+      "before": {
+        "psgc": "304903000",
+        "region": "Region 3",
+        "province": "Nueva Ecija",
+        "locality": "City of Cabanatuan",
+        "latitude": 15.3572492082302,
+        "longitude": 121.056396931038
+      },
+      "after": {
+        "psgc": "0304910000",
+        "region": "Region 3",
+        "province": "Nueva Ecija",
+        "locality": "General Tinio",
+        "latitude": 15.3572492082302,
+        "longitude": 121.056396931038
+      },
+      "evidence": "https://www.neust-ebalitaangret.com/views/contact.php",
+      "note": "Papaya is the former name of General Tinio; the source locality incorrectly said Cabanatuan.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 432,
+      "institution": "University of the Philippines-Diliman (Olongapo City)",
+      "status": "verified_boundary_exception",
+      "before": {
+        "psgc": "331400000",
+        "region": "Region 3",
+        "province": "Zambales",
+        "locality": "City of Olongapo",
+        "latitude": 14.8873883,
+        "longitude": 120.3666099
+      },
+      "after": {
+        "psgc": "331400000",
+        "region": "Region 3",
+        "province": "Zambales",
+        "locality": "City of Olongapo",
+        "latitude": 14.8873883,
+        "longitude": 120.3666099
+      },
+      "evidence": "https://upepp.upd.edu.ph/contact-us/",
+      "note": "UP confirms the extension program in the Subic Bay Freeport Zone, Olongapo; retained despite the simplified boundary mismatch.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 490,
+      "institution": "Polytechnic University of the Philippines-Unisan",
+      "status": "coordinate_corrected",
+      "before": {
+        "psgc": "405649000",
+        "region": "Region 4A",
+        "province": "Quezon",
+        "locality": "Unisan",
+        "latitude": 13.8457835,
+        "longitude": 121.051224140479
+      },
+      "after": {
+        "psgc": "405649000",
+        "region": "Region 4A",
+        "province": "Quezon",
+        "locality": "Unisan",
+        "latitude": 13.8457641,
+        "longitude": 121.9695775
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=13.8457641&mlon=121.9695775#map=18/13.8457641/121.9695775",
+      "note": "Moved from Batangas to the mapped PUP Unisan campus in Quezon.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 596,
+      "institution": "LPU-St. Cabrini School of Health Sciences",
+      "status": "administrative_corrected",
+      "before": {
+        "psgc": "403405000",
+        "region": "Region 4A",
+        "province": "Laguna",
+        "locality": "City of Calamba",
+        "latitude": 14.1087266,
+        "longitude": 121.1447449
+      },
+      "after": {
+        "psgc": "0401028000",
+        "region": "Region 4A",
+        "province": "Batangas",
+        "locality": "City of Santo Tomas",
+        "latitude": 14.1087266,
+        "longitude": 121.1447449
+      },
+      "evidence": "https://www.waze.com/live-map/directions/ph/calabarzon/santo-tomas/lpu-st.-cabrini-school-of-health-science%2C-inc.?to=place.ChIJueUZ_FNlvTMR5t5JSl24G-8",
+      "note": "The source pin is at the Santo Tomas campus; the locality was listed as Calamba.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 632,
+      "institution": "Philippine Women's University-Career Development and Continuing Education Center-Sta. Cruz",
+      "status": "withheld_unverified",
+      "before": {
+        "psgc": "403426000",
+        "region": "Region 4A",
+        "province": "Laguna",
+        "locality": "Santa Cruz",
+        "latitude": 14.1592618,
+        "longitude": 121.2414878
+      },
+      "after": {
+        "psgc": "403426000",
+        "region": "Region 4A",
+        "province": "Laguna",
+        "locality": "Santa Cruz",
+        "latitude": null,
+        "longitude": null
+      },
+      "evidence": "https://www.deped.gov.ph/wp-content/uploads/2021/06/SY-2020-2021-Masterlist-of-Schools-Address-only-1-1.pdf",
+      "note": "DepEd lists M.H. del Pilar St., Santa Cruz; the source pin was in Los Baños and was withheld.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 717,
+      "institution": "St. Augustine School of Nursing-Lipa",
+      "status": "coordinate_corrected",
+      "before": {
+        "psgc": "401014000",
+        "region": "Region 4A",
+        "province": "Batangas",
+        "locality": "City of Lipa",
+        "latitude": 13.7572095,
+        "longitude": 121.0581
+      },
+      "after": {
+        "psgc": "401014000",
+        "region": "Region 4A",
+        "province": "Batangas",
+        "locality": "City of Lipa",
+        "latitude": 13.942182,
+        "longitude": 121.1539291
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=13.942182&mlon=121.1539291#map=18/13.942182/121.1539291",
+      "note": "Moved from Batangas City to the mapped campus in Lipa City.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 740,
+      "institution": "St. Ignatius Technical Institute of Business and Arts",
+      "status": "coordinate_corrected",
+      "before": {
+        "psgc": "403428000",
+        "region": "Region 4A",
+        "province": "Laguna",
+        "locality": "City of Santa Rosa",
+        "latitude": 14.2204017,
+        "longitude": 121.1394361
+      },
+      "after": {
+        "psgc": "0403404000",
+        "region": "Region 4A",
+        "province": "Laguna",
+        "locality": "City of Cabuyao",
+        "latitude": 14.2501618,
+        "longitude": 121.1293813
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=14.2501618&mlon=121.1293813#map=18/14.2501618/121.1293813",
+      "note": "Moved to the mapped institution on the national highway in Cabuyao; the source locality said Santa Rosa.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 824,
+      "institution": "Felix O. Alfelor Sr. Foundation College",
+      "status": "withheld_unverified",
+      "before": {
+        "psgc": "501734000",
+        "region": "Region 5",
+        "province": "Camarines Sur",
+        "locality": "Sipocot",
+        "latitude": 13.624821,
+        "longitude": 123.193168
+      },
+      "after": {
+        "psgc": "501734000",
+        "region": "Region 5",
+        "province": "Camarines Sur",
+        "locality": "Sipocot",
+        "latitude": null,
+        "longitude": null
+      },
+      "evidence": "https://www.google.com/search?q=Felix+O.+Alfelor+Sr.+Foundation+College+Sipocot",
+      "note": "The institution is documented in Sipocot, but the source pin was in Naga City and no reliable campus coordinate was found.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 869,
+      "institution": "Camarines Norte State College-Mercedes Campus",
+      "status": "withheld_unverified",
+      "before": {
+        "psgc": "501607000",
+        "region": "Region 5",
+        "province": "Camarines Norte",
+        "locality": "Mercedes",
+        "latitude": 14.1390265,
+        "longitude": 122.7633036
+      },
+      "after": {
+        "psgc": "501607000",
+        "region": "Region 5",
+        "province": "Camarines Norte",
+        "locality": "Mercedes",
+        "latitude": null,
+        "longitude": null
+      },
+      "evidence": "https://cnsc.edu.ph/UCN/category/announcements/page/3/",
+      "note": "Official address is Purok 1-A, San Roque, Mercedes; the source pin was in Labo and was withheld.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 938,
+      "institution": "SPJ International Technology Institute",
+      "status": "withheld_unverified",
+      "before": {
+        "psgc": "501737000",
+        "region": "Region 5",
+        "province": "Camarines Sur",
+        "locality": "Tinambac",
+        "latitude": 13.7064866,
+        "longitude": 123.2042352
+      },
+      "after": {
+        "psgc": "501737000",
+        "region": "Region 5",
+        "province": "Camarines Sur",
+        "locality": "Tinambac",
+        "latitude": null,
+        "longitude": null
+      },
+      "evidence": "https://www.tesda.gov.ph/tvi/Result?page=621",
+      "note": "TESDA lists San Isidro, Poblacion, Tinambac; the source pin was in Calabanga and was withheld.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 965,
+      "institution": "Dr. Emilio B. Espinosa Sr. Memorial State College of Agriculture and Technology-Cawayan Campus",
+      "status": "withheld_unverified",
+      "before": {
+        "psgc": "504106000",
+        "region": "Region 5",
+        "province": "Masbate",
+        "locality": "Cawayan",
+        "latitude": 12.2818400372075,
+        "longitude": 123.359227637185
+      },
+      "after": {
+        "psgc": "504106000",
+        "region": "Region 5",
+        "province": "Masbate",
+        "locality": "Cawayan",
+        "latitude": null,
+        "longitude": null
+      },
+      "evidence": "https://debesmscat.edu.ph/state-college-news/debesmscat-cawayan-campus-launches-new-institutional-statement",
+      "note": "The source pin was outside Cawayan and no reliable campus coordinate was found.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 1044,
+      "institution": "ABE International Business College-Iloilo",
+      "status": "withheld_unverified",
+      "before": {
+        "psgc": "631000000",
+        "region": "Region 6",
+        "province": "Iloilo",
+        "locality": "City of Iloilo",
+        "latitude": 10.6671244930416,
+        "longitude": 122.951101919526
+      },
+      "after": {
+        "psgc": "631000000",
+        "region": "Region 6",
+        "province": "Iloilo",
+        "locality": "City of Iloilo",
+        "latitude": null,
+        "longitude": null
+      },
+      "evidence": "https://heida.ched.gov.ph/hei-directory",
+      "note": "The source pin was in Bacolod rather than Iloilo City and was withheld pending confirmation.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 1051,
+      "institution": "Capiz State University-Poblacion Mambusao",
+      "status": "coordinate_corrected",
+      "before": {
+        "psgc": "601908000",
+        "region": "Region 6",
+        "province": "Capiz",
+        "locality": "Mambusao",
+        "latitude": 11.4963355,
+        "longitude": 122.5994817
+      },
+      "after": {
+        "psgc": "601908000",
+        "region": "Region 6",
+        "province": "Capiz",
+        "locality": "Mambusao",
+        "latitude": 11.4308663,
+        "longitude": 122.5953379
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=11.4308663&mlon=122.5953379#map=18/11.4308663/122.5953379",
+      "note": "Moved to the mapped Capiz State University Poblacion campus in Mambusao.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 1077,
+      "institution": "Bohol Institute of Technology-Jagna",
+      "status": "coordinate_corrected",
+      "before": {
+        "psgc": "701225000",
+        "region": "Region 7",
+        "province": "Bohol",
+        "locality": "Jagna",
+        "latitude": 9.78721949999999,
+        "longitude": 124.3002605
+      },
+      "after": {
+        "psgc": "701225000",
+        "region": "Region 7",
+        "province": "Bohol",
+        "locality": "Jagna",
+        "latitude": 9.6532554,
+        "longitude": 124.3684373
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=9.6532554&mlon=124.3684373#map=18/9.6532554/124.3684373",
+      "note": "Moved to the mapped Bohol Institute of Technology campus in Jagna.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 1130,
+      "institution": "Batuan Colleges",
+      "status": "administrative_corrected",
+      "before": {
+        "psgc": "730600000",
+        "region": "Region 7",
+        "province": "Cebu",
+        "locality": "City of Cebu",
+        "latitude": 9.78074248817104,
+        "longitude": 124.147489337123
+      },
+      "after": {
+        "psgc": "0701207000",
+        "region": "Region 7",
+        "province": "Bohol",
+        "locality": "Batuan",
+        "latitude": 9.78074248817104,
+        "longitude": 124.147489337123
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=9.7807425&mlon=124.1474893#map=18/9.7807425/124.1474893",
+      "note": "The pin is in Batuan, Bohol; the source record incorrectly listed Cebu City.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 1145,
+      "institution": "BIT International College-Carmen",
+      "status": "withheld_unverified",
+      "before": {
+        "psgc": "701212000",
+        "region": "Region 7",
+        "province": "Bohol",
+        "locality": "Carmen",
+        "latitude": 10.3276549346584,
+        "longitude": 123.923722205775
+      },
+      "after": {
+        "psgc": "0701212000",
+        "region": "Region 7",
+        "province": "Bohol",
+        "locality": "Carmen",
+        "latitude": null,
+        "longitude": null
+      },
+      "evidence": "https://heida.ched.gov.ph/hei-directory",
+      "note": "The source pin was in Metro Cebu rather than Carmen, Bohol and was withheld pending confirmation.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 1183,
+      "institution": "Rizwoods Colleges",
+      "status": "coordinate_corrected",
+      "before": {
+        "psgc": "730600000",
+        "region": "Region 7",
+        "province": "Cebu",
+        "locality": "City of Cebu",
+        "latitude": 10.2959582240251,
+        "longitude": 124.027500960775
+      },
+      "after": {
+        "psgc": "730600000",
+        "region": "Region 7",
+        "province": "Cebu",
+        "locality": "City of Cebu",
+        "latitude": 10.2840821,
+        "longitude": 123.8722768
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=10.2840821&mlon=123.8722768#map=18/10.2840821/123.8722768",
+      "note": "Moved to the mapped Rizwoods Colleges campus in Cebu City.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 1355,
+      "institution": "Southern Mindanao College-Agro Tech",
+      "status": "verified_boundary_exception",
+      "before": {
+        "psgc": "907322000",
+        "region": "Region 9",
+        "province": "Zamboanga del Sur",
+        "locality": "City of Pagadian",
+        "latitude": 7.81813959999999,
+        "longitude": 123.3655414
+      },
+      "after": {
+        "psgc": "907322000",
+        "region": "Region 9",
+        "province": "Zamboanga del Sur",
+        "locality": "City of Pagadian",
+        "latitude": 7.81813959999999,
+        "longitude": 123.3655414
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=7.8181396&mlon=123.3655414#map=18/7.8181396/123.3655414",
+      "note": "The source pin is near the Pagadian–Dumalinao boundary and was retained.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 1356,
+      "institution": "Southern Mindanao Colleges",
+      "status": "administrative_corrected",
+      "before": {
+        "psgc": "907307000",
+        "region": "Region 9",
+        "province": "Zamboanga del Sur",
+        "locality": "Dumalinao",
+        "latitude": 7.82254849999999,
+        "longitude": 123.4374046
+      },
+      "after": {
+        "psgc": "0907322000",
+        "region": "Region 9",
+        "province": "Zamboanga del Sur",
+        "locality": "City of Pagadian",
+        "latitude": 7.82254849999999,
+        "longitude": 123.4374046
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=7.8225485&mlon=123.4374046#map=18/7.8225485/123.4374046",
+      "note": "The pin matches Southern Mindanao Colleges in Pagadian; the source locality said Dumalinao.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 1397,
+      "institution": "Bukidnon State University-Impasugong",
+      "status": "coordinate_corrected",
+      "before": {
+        "psgc": "1001305000",
+        "region": "Region 10",
+        "province": "Bukidnon",
+        "locality": "Impasug-ong",
+        "latitude": 8.15780784133106,
+        "longitude": 125.126508565698
+      },
+      "after": {
+        "psgc": "1001305000",
+        "region": "Region 10",
+        "province": "Bukidnon",
+        "locality": "Impasug-ong",
+        "latitude": 8.3010501,
+        "longitude": 125.0091039
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=8.3010501&mlon=125.0091039#map=18/8.3010501/125.0091039",
+      "note": "Moved to the mapped Bukidnon State University site in Impasug-ong.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 1507,
+      "institution": "Davao Oriental State University-Cateel Extension Campus",
+      "status": "administrative_corrected",
+      "before": {
+        "psgc": "1102509000",
+        "region": "Region 11",
+        "province": "Davao Oriental",
+        "locality": "City of Mati",
+        "latitude": 7.80919948365946,
+        "longitude": 126.419734748995
+      },
+      "after": {
+        "psgc": "1102505000",
+        "region": "Region 11",
+        "province": "Davao Oriental",
+        "locality": "Cateel",
+        "latitude": 7.80919948365946,
+        "longitude": 126.419734748995
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=7.8091995&mlon=126.4197347#map=18/7.8091995/126.4197347",
+      "note": "The pin matches the Cateel Extension Campus; the source locality said Mati.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 1508,
+      "institution": "Davao Oriental State University-San Isidro Campus",
+      "status": "administrative_corrected",
+      "before": {
+        "psgc": "1102509000",
+        "region": "Region 11",
+        "province": "Davao Oriental",
+        "locality": "City of Mati",
+        "latitude": 6.8581461,
+        "longitude": 126.1007535
+      },
+      "after": {
+        "psgc": "1102510000",
+        "region": "Region 11",
+        "province": "Davao Oriental",
+        "locality": "San Isidro",
+        "latitude": 6.8581461,
+        "longitude": 126.1007535
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=6.8581461&mlon=126.1007535#map=18/6.8581461/126.1007535",
+      "note": "The pin matches the San Isidro campus; the source locality said Mati.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 1509,
+      "institution": "Davao Oriental State University-Banaybanay Campus",
+      "status": "administrative_corrected",
+      "before": {
+        "psgc": "1102509000",
+        "region": "Region 11",
+        "province": "Davao Oriental",
+        "locality": "City of Mati",
+        "latitude": 6.98779849999999,
+        "longitude": 126.0127749
+      },
+      "after": {
+        "psgc": "1102502000",
+        "region": "Region 11",
+        "province": "Davao Oriental",
+        "locality": "Banaybanay",
+        "latitude": 6.98779849999999,
+        "longitude": 126.0127749
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=6.9877985&mlon=126.0127749#map=18/6.9877985/126.0127749",
+      "note": "The pin matches the Banaybanay campus; the source locality said Mati.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 1541,
+      "institution": "University of Southeastern Philippines-College of Agriculture-Tagum Mabini",
+      "status": "withheld_unverified",
+      "before": {
+        "psgc": "1130700000",
+        "region": "Region 11",
+        "province": "Davao del Sur",
+        "locality": "City of Davao",
+        "latitude": 7.57027824269948,
+        "longitude": 125.669077637528
+      },
+      "after": {
+        "psgc": "1108203000",
+        "region": "Region 11",
+        "province": "Davao de Oro",
+        "locality": "Mabini",
+        "latitude": null,
+        "longitude": null
+      },
+      "evidence": "https://www.usep.edu.ph/usep-profile/",
+      "note": "USeP confirms a Mabini unit in Davao de Oro; the source pin was in Kapalong and was withheld.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 1619,
+      "institution": "Cotabato Foundation College of Science and Technology-Antipas Campus",
+      "status": "withheld_unverified",
+      "before": {
+        "psgc": "1204715000",
+        "region": "Region 12",
+        "province": "Cotabato",
+        "locality": "Antipas",
+        "latitude": 7.34854607359557,
+        "longitude": 125.09106897896
+      },
+      "after": {
+        "psgc": "1204715000",
+        "region": "Region 12",
+        "province": "Cotabato",
+        "locality": "Antipas",
+        "latitude": null,
+        "longitude": null
+      },
+      "evidence": "https://cfcst.edu.ph/location-map/",
+      "note": "CFCST confirms its Antipas extension; the source pin was in Davao del Norte and was withheld.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 1638,
+      "institution": "Sultan Kudarat State University",
+      "status": "verified_boundary_exception",
+      "before": {
+        "psgc": "1206511000",
+        "region": "Region 12",
+        "province": "Sultan Kudarat",
+        "locality": "City of Tacurong",
+        "latitude": 6.64246319987512,
+        "longitude": 124.60752188434
+      },
+      "after": {
+        "psgc": "1206511000",
+        "region": "Region 12",
+        "province": "Sultan Kudarat",
+        "locality": "City of Tacurong",
+        "latitude": 6.64246319987512,
+        "longitude": 124.60752188434
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=6.6424632&mlon=124.6075219#map=18/6.6424632/124.6075219",
+      "note": "The source pin is close to Tacurong and was retained as a boundary-tolerance case.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 1658,
+      "institution": "ACLC College of Marbel",
+      "status": "verified_boundary_exception",
+      "before": {
+        "psgc": "1206306000",
+        "region": "Region 12",
+        "province": "South Cotabato",
+        "locality": "City of Koronadal",
+        "latitude": 6.3357565,
+        "longitude": 124.7740793
+      },
+      "after": {
+        "psgc": "1206306000",
+        "region": "Region 12",
+        "province": "South Cotabato",
+        "locality": "City of Koronadal",
+        "latitude": 6.3357565,
+        "longitude": 124.7740793
+      },
+      "evidence": "https://aclcmbl.wixsite.com/aclcmarbel/contact-us",
+      "note": "The official address is Koronadal City and the source pin is in the city; retained.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 1693,
+      "institution": "VMC Asian College of President Quirino",
+      "status": "verified_boundary_exception",
+      "before": {
+        "psgc": "1206510000",
+        "region": "Region 12",
+        "province": "Sultan Kudarat",
+        "locality": "President Quirino",
+        "latitude": 6.6859052,
+        "longitude": 124.6741554
+      },
+      "after": {
+        "psgc": "1206510000",
+        "region": "Region 12",
+        "province": "Sultan Kudarat",
+        "locality": "President Quirino",
+        "latitude": 6.6859052,
+        "longitude": 124.6741554
+      },
+      "evidence": "https://peac.org.ph/shsvp/",
+      "note": "PEAC lists the institution in President Quirino; the nearby source pin was retained.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 1877,
+      "institution": "Children of Mary Immaculate College",
+      "status": "administrative_corrected",
+      "before": {
+        "psgc": "1380100000",
+        "region": "NCR",
+        "province": "Metro Manila",
+        "locality": "City of Caloocan",
+        "latitude": 14.693962,
+        "longitude": 120.967662
+      },
+      "after": {
+        "psgc": "1381600000",
+        "region": "NCR",
+        "province": "Metro Manila",
+        "locality": "City of Valenzuela",
+        "latitude": 14.693962,
+        "longitude": 120.967662
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=14.693962&mlon=120.967662#map=18/14.693962/120.967662",
+      "note": "The pin matches the Valenzuela campus; the source locality said Caloocan.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 1909,
+      "institution": "ABE International College of Business and Economics-Las Piñas",
+      "status": "coordinate_corrected",
+      "before": {
+        "psgc": "1380200000",
+        "region": "NCR",
+        "province": "Metro Manila",
+        "locality": "City of Las Piñas",
+        "latitude": 14.364696,
+        "longitude": 121.0555341
+      },
+      "after": {
+        "psgc": "1380200000",
+        "region": "NCR",
+        "province": "Metro Manila",
+        "locality": "City of Las Piñas",
+        "latitude": 14.4505205,
+        "longitude": 120.9802404
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=14.4505205&mlon=120.9802404#map=18/14.4505205/120.9802404",
+      "note": "Moved to the mapped ABE campus on Alabang–Zapote Road, Las Piñas.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 2141,
+      "institution": "Western Philippines University-El Nido",
+      "status": "verified_boundary_exception",
+      "before": {
+        "psgc": "1705312000",
+        "region": "Region 4B",
+        "province": "Palawan",
+        "locality": "El Nido",
+        "latitude": 10.9558268,
+        "longitude": 119.4852199
+      },
+      "after": {
+        "psgc": "1705312000",
+        "region": "Region 4B",
+        "province": "Palawan",
+        "locality": "El Nido",
+        "latitude": 10.9558268,
+        "longitude": 119.4852199
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=10.9558268&mlon=119.4852199#map=18/10.9558268/119.4852199",
+      "note": "The source pin is in El Nido; retained despite the simplified boundary mismatch.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 2212,
+      "institution": "Polytechnic University of the Philippines-Bansud",
+      "status": "administrative_corrected",
+      "before": {
+        "psgc": "1731500000",
+        "region": "Region 4B",
+        "province": "Palawan",
+        "locality": "City of Puerto Princesa",
+        "latitude": 12.8626634797592,
+        "longitude": 121.457062286491
+      },
+      "after": {
+        "psgc": "1705202000",
+        "region": "Region 4B",
+        "province": "Oriental Mindoro",
+        "locality": "Bansud",
+        "latitude": 12.8626634797592,
+        "longitude": 121.457062286491
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=12.8626635&mlon=121.4570623#map=18/12.8626635/121.4570623",
+      "note": "The pin matches PUP Bansud; the source record incorrectly listed Puerto Princesa, Palawan.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 2213,
+      "institution": "Polytechnic University of the Philippines-Sablayan",
+      "status": "coordinate_corrected",
+      "before": {
+        "psgc": "1705202000",
+        "region": "Region 4B",
+        "province": "Oriental Mindoro",
+        "locality": "Bansud",
+        "latitude": 12.8873583685698,
+        "longitude": 120.7949794634
+      },
+      "after": {
+        "psgc": "1705109000",
+        "region": "Region 4B",
+        "province": "Occidental Mindoro",
+        "locality": "Sablayan",
+        "latitude": 12.8474995,
+        "longitude": 120.7849518
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=12.8474995&mlon=120.7849518#map=18/12.8474995/120.7849518",
+      "note": "Moved to the mapped PUP Sablayan campus and corrected the province from Oriental to Occidental Mindoro.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 2229,
+      "institution": "Carlos Hilado Memorial State University-Bacolod Campus",
+      "status": "administrative_corrected",
+      "before": {
+        "psgc": "1804528000",
+        "region": "NIR",
+        "province": "Negros Occidental",
+        "locality": "City of Talisay",
+        "latitude": 10.6708097165289,
+        "longitude": 122.986875970572
+      },
+      "after": {
+        "psgc": "1830200000",
+        "region": "NIR",
+        "province": "Negros Occidental",
+        "locality": "City of Bacolod",
+        "latitude": 10.6708097165289,
+        "longitude": 122.986875970572
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=10.6708097&mlon=122.986876#map=18/10.6708097/122.986876",
+      "note": "The pin and campus name indicate Bacolod; the source locality said Talisay.",
+      "reviewedOn": "2026-08-21"
+    },
+    {
+      "id": 2237,
+      "institution": "Central Philippines State University-Hinigaran Campus",
+      "status": "administrative_corrected",
+      "before": {
+        "psgc": "1804515000",
+        "region": "NIR",
+        "province": "Negros Occidental",
+        "locality": "City of Kabankalan",
+        "latitude": 10.2915432455723,
+        "longitude": 122.857092703128
+      },
+      "after": {
+        "psgc": "1804511000",
+        "region": "NIR",
+        "province": "Negros Occidental",
+        "locality": "Hinigaran",
+        "latitude": 10.2915432455723,
+        "longitude": 122.857092703128
+      },
+      "evidence": "https://www.openstreetmap.org/?mlat=10.2915432&mlon=122.8570927#map=18/10.2915432/122.8570927",
+      "note": "The pin matches the Hinigaran campus; the source locality said Kabankalan.",
+      "reviewedOn": "2026-08-21"
+    }
+  ]
+}

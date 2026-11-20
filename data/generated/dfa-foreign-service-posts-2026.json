@@ -1,0 +1,3704 @@
+{
+  "metadata": {
+    "title": "Philippine Foreign Service Posts",
+    "asOf": "2026-07-20",
+    "source": "Department of Foreign Affairs, Foreign Service Post Directory as of July 20, 2026",
+    "coordinateSource": "Natural Earth populated places, 1:10m",
+    "coordinatePrecision": "City-level representative coordinates"
+  },
+  "posts": [
+    {
+      "id": "fsp-001",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "longitude": -58.4325,
+      "latitude": -34.6107,
+      "type": "Embassy",
+      "directoryTitle": "ARGENTINA EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, BUENOS AIRES",
+      "directoryLines": [
+        "H.E. (Ms.) Grace T. Cruz-Fabella",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "11 de Septiembre de 1888, N° 1011, Palermo, C1426 BKG,",
+        "Buenos Aires, Argentina",
+        "Phone No.: (5411) 4772-7758",
+        "Duty Officer No.: (+54-911) 6700-2333",
+        "Consular Mobile Hotline No.: (+54-911) 6700-5111",
+        "Email: buenosaires.pe@dfa.gov.ph",
+        "buenosairespe.consular@dfa.gov.ph",
+        "Website: http://buenosairespe.dfa.gov.ph",
+        "Facebook: @PHinArgentina"
+      ],
+      "headOfPost": "H.E. (Ms.) Grace T. Cruz-Fabella",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "11 de Septiembre de 1888, N° 1011, Palermo, C1426 BKG,",
+        "Buenos Aires, Argentina"
+      ],
+      "contactLines": [
+        "Phone No.: (5411) 4772-7758",
+        "Duty Officer No.: (+54-911) 6700-2333",
+        "Consular Mobile Hotline No.: (+54-911) 6700-5111",
+        "Email: buenosaires.pe@dfa.gov.ph",
+        "buenosairespe.consular@dfa.gov.ph",
+        "Website: http://buenosairespe.dfa.gov.ph",
+        "Facebook: @PHinArgentina"
+      ]
+    },
+    {
+      "id": "fsp-002",
+      "city": "Canberra",
+      "country": "Australia",
+      "longitude": 149.129,
+      "latitude": -35.283,
+      "type": "Embassy",
+      "directoryTitle": "AUSTRALIA EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, CANBERRA",
+      "directoryLines": [
+        "H.E. (Mr.) Antonio A. Morales",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "1 Moonah Place, Yarralumla, Canberra, A.C.T. 2600",
+        "P.O. Box 3297, Manuka, A.C.T. 2603",
+        "Tel. Nos.: (+61-2) 6273-2535",
+        "Fax No.: (+61-2) 6273-3984",
+        "Duty Officer No.: (+61) 408-735-383",
+        "Email: canberra.pe@dfa.gov.ph / cbrpe@philembassy.org.au",
+        "Website: www.philembassy.org.au",
+        "Facebook: @PHinAustralia"
+      ],
+      "headOfPost": "H.E. (Mr.) Antonio A. Morales",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "1 Moonah Place, Yarralumla, Canberra, A.C.T. 2600",
+        "P.O. Box 3297, Manuka, A.C.T. 2603"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+61-2) 6273-2535",
+        "Fax No.: (+61-2) 6273-3984",
+        "Duty Officer No.: (+61) 408-735-383",
+        "Email: canberra.pe@dfa.gov.ph / cbrpe@philembassy.org.au",
+        "Website: www.philembassy.org.au",
+        "Facebook: @PHinAustralia"
+      ]
+    },
+    {
+      "id": "fsp-003",
+      "city": "Vienna",
+      "country": "Austria",
+      "longitude": 16.3647,
+      "latitude": 48.202,
+      "type": "Embassy",
+      "directoryTitle": "AUSTRIA EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, VIENNA",
+      "directoryLines": [
+        "H.E. (Ms.) Evangelina Lourdes A. Bernas",
+        "Ambassador Extraordinary and Plenipotentiary and Permanent",
+        "Representative to the United Nations and other International",
+        "Organizations in Vienna",
+        "20th and 21st Floor, ARES Tower",
+        "Donau-City-Strasse 11, 1220",
+        "Vienna, Austria",
+        "Tel. No.: (+43-1) 533-2401",
+        "Emergency No.: (+43-676) 442-2474",
+        "ATN: (+43-676) 442-2694",
+        "Email: vienna.pe@dfa.gov.ph / office@philippine-embassy.at",
+        "Website: https://viennape.dfa.gov.ph",
+        "Facebook: @PHinAustria"
+      ],
+      "headOfPost": "H.E. (Ms.) Evangelina Lourdes A. Bernas",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary and Permanent Representative to the United Nations and other International Organizations in Vienna",
+      "addressLines": [
+        "20th and 21st Floor, ARES Tower",
+        "Donau-City-Strasse 11, 1220",
+        "Vienna, Austria"
+      ],
+      "contactLines": [
+        "Tel. No.: (+43-1) 533-2401",
+        "Emergency No.: (+43-676) 442-2474",
+        "ATN: (+43-676) 442-2694",
+        "Email: vienna.pe@dfa.gov.ph / office@philippine-embassy.at",
+        "Website: https://viennape.dfa.gov.ph",
+        "Facebook: @PHinAustria"
+      ]
+    },
+    {
+      "id": "fsp-004",
+      "city": "Manama",
+      "country": "Bahrain",
+      "longitude": 50.5831,
+      "latitude": 26.2361,
+      "type": "Embassy",
+      "directoryTitle": "BAHRAIN EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, MANAMA",
+      "directoryLines": [
+        "H.E. (Mr.) Gines Jaime Ricardo D. Gallaga",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Building 2186, Road 2755, Block 327, Adliya",
+        "Manama, Kingdom of Bahrain",
+        "P.O. Box 26681, Manama , Kingdom of Bahrain",
+        "Tel. Nos.: (+973) 1772-1234 (4 lines)",
+        "Office of Ambassador: +973 1782-0507",
+        "Fax No.: (+973) 1772-0827",
+        "Duty Officer No.: (+973) 3995-3235",
+        "Email: manama.pe@dfa.gov.ph / manamape.consular@dfa.gov.ph",
+        "Website: www.manamape.dfa.gov.ph",
+        "Facebook: @PHLinBahrain"
+      ],
+      "headOfPost": "H.E. (Mr.) Gines Jaime Ricardo D. Gallaga",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Building 2186, Road 2755, Block 327, Adliya",
+        "Manama, Kingdom of Bahrain",
+        "P.O. Box 26681, Manama , Kingdom of Bahrain"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+973) 1772-1234 (4 lines)",
+        "Office of Ambassador: +973 1782-0507",
+        "Fax No.: (+973) 1772-0827",
+        "Duty Officer No.: (+973) 3995-3235",
+        "Email: manama.pe@dfa.gov.ph / manamape.consular@dfa.gov.ph",
+        "Website: www.manamape.dfa.gov.ph",
+        "Facebook: @PHLinBahrain"
+      ]
+    },
+    {
+      "id": "fsp-005",
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "longitude": 90.4066,
+      "latitude": 23.725,
+      "type": "Embassy",
+      "directoryTitle": "BANGLADESH EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, DHAKA",
+      "directoryLines": [
+        "H.E. (Ms.) Nina P. Cainglet",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Road No. 14, House No. 10, Baridhara Diplomatic Zone,",
+        "Dhaka, Bangladesh",
+        "Tel. Nos.: (+8802) 41080901 to 06",
+        "Mobile no. (+880) 1915477731 (Duty Phone)",
+        "Email: dhaka.pe@dfa.gov.ph",
+        "Website:https://dhakape.dfa.gov.ph",
+        "Facebook: @PHinBangladesh"
+      ],
+      "headOfPost": "H.E. (Ms.) Nina P. Cainglet",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Road No. 14, House No. 10, Baridhara Diplomatic Zone,",
+        "Dhaka, Bangladesh"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+8802) 41080901 to 06",
+        "Mobile no. (+880) 1915477731 (Duty Phone)",
+        "Email: dhaka.pe@dfa.gov.ph",
+        "Website:https://dhakape.dfa.gov.ph",
+        "Facebook: @PHinBangladesh"
+      ]
+    },
+    {
+      "id": "fsp-006",
+      "city": "Brussels",
+      "country": "Belgium",
+      "longitude": 4.3314,
+      "latitude": 50.8353,
+      "type": "Embassy",
+      "directoryTitle": "BELGIUM EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, BRUSSELS",
+      "directoryLines": [
+        "H.E. (Mr.) Jaime Victor B. Ledda",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "297 Avenue Molière, 1050",
+        "Brussels, Belgium",
+        "Tel Nos.: (+32-2) 34033-77 to 78",
+        "Duty Officer No.: (+32-4) 8860-9177",
+        "Email: brussels.pe@dfa.gov.ph; brusselspe@gmail.com",
+        "Website: www.brusselspe.dfa.gov.ph",
+        "Facebook: @PHinBelgium"
+      ],
+      "headOfPost": "H.E. (Mr.) Jaime Victor B. Ledda",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "297 Avenue Molière, 1050",
+        "Brussels, Belgium"
+      ],
+      "contactLines": [
+        "Tel Nos.: (+32-2) 34033-77 to 78",
+        "Duty Officer No.: (+32-4) 8860-9177",
+        "Email: brussels.pe@dfa.gov.ph; brusselspe@gmail.com",
+        "Website: www.brusselspe.dfa.gov.ph",
+        "Facebook: @PHinBelgium"
+      ]
+    },
+    {
+      "id": "fsp-007",
+      "city": "Brasília",
+      "country": "Brazil",
+      "longitude": -47.918,
+      "latitude": -15.7814,
+      "type": "Embassy",
+      "directoryTitle": "BRAZIL EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, BRASILIA",
+      "directoryLines": [
+        "H.E. (Mr.) Patrick John U. Hilado",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "SEN 801 - Asa Norte, Brasilia",
+        "DF CEP: 70800-910-Brazil",
+        "Tel. Nos.: (+55-61) 3224-8694 / 3321-9476",
+        "Hotline No.: (+55-61) 9 9389-3042",
+        "Email: brasilia.pe@dfa.gov.ph",
+        "Website: www.philembassybrasilia.org",
+        "Facebook: PHinBrazil"
+      ],
+      "headOfPost": "H.E. (Mr.) Patrick John U. Hilado",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "SEN 801 - Asa Norte, Brasilia",
+        "DF CEP: 70800-910-Brazil"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+55-61) 3224-8694 / 3321-9476",
+        "Hotline No.: (+55-61) 9 9389-3042",
+        "Email: brasilia.pe@dfa.gov.ph",
+        "Website: www.philembassybrasilia.org",
+        "Facebook: PHinBrazil"
+      ]
+    },
+    {
+      "id": "fsp-008",
+      "city": "Bandar Seri Begawan",
+      "country": "Brunei",
+      "longitude": 114.9333,
+      "latitude": 4.8833,
+      "type": "Embassy",
+      "directoryTitle": "BRUNEI EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, BRUNEI",
+      "directoryLines": [
+        "(Ms.) Bernadette A. Mendoza",
+        "Chargé d’Affaires, a.i.",
+        "Simpang 336, Diplomatic Enclave, Jalan Kebangsaan,",
+        "Bandar Seri Begawan, BA 2312, Brunei Darussalam",
+        "Tel. Nos.: (+673) 224-1465; 224-1466",
+        "Fax No.: (+673) 223-7707",
+        "Consular Affairs Office.: (+673) 223-8845 / (+673) 222-0781",
+        "ATN Hotline: (+673) 871-4881",
+        "OWWA 24-hour Hotline No.: (+673) 729-1315",
+        "POLO 24-hour Hotline No.: (+673) 729-1316",
+        "Email: brunei.pe@dfa.gov.ph",
+        "Website: www.bruneipe.dfa.gov.ph",
+        "Facebook: @PHinBrunei",
+        "Instagram: https://www.instagram.com/phinBrunei",
+        "Twitter: https://twitter.com/PHinBrunei"
+      ],
+      "headOfPost": "(Ms.) Bernadette A. Mendoza",
+      "headTitle": "Chargé d’Affaires, a.i.",
+      "addressLines": [
+        "Simpang 336, Diplomatic Enclave, Jalan Kebangsaan,",
+        "Bandar Seri Begawan, BA 2312, Brunei Darussalam"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+673) 224-1465; 224-1466",
+        "Fax No.: (+673) 223-7707",
+        "Consular Affairs Office.: (+673) 223-8845 / (+673) 222-0781",
+        "ATN Hotline: (+673) 871-4881",
+        "OWWA 24-hour Hotline No.: (+673) 729-1315",
+        "POLO 24-hour Hotline No.: (+673) 729-1316",
+        "Email: brunei.pe@dfa.gov.ph",
+        "Website: www.bruneipe.dfa.gov.ph",
+        "Facebook: @PHinBrunei",
+        "Instagram: https://www.instagram.com/phinBrunei",
+        "Twitter: https://twitter.com/PHinBrunei"
+      ]
+    },
+    {
+      "id": "fsp-009",
+      "city": "Phnom Penh",
+      "country": "Cambodia",
+      "longitude": 104.9147,
+      "latitude": 11.552,
+      "type": "Embassy",
+      "directoryTitle": "CAMBODIA EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, PHNOM PENH",
+      "directoryLines": [
+        "(Ms.) Genina Marion T. Rafal",
+        "Chargé d’Affaires, a.i.",
+        "No. 182 Norodom Blvd.",
+        "Sangkat Tonle Bassac, Khan Chamkarmon",
+        "Phnom Penh, Kingdom of Cambodia",
+        "P.O. Box 2018",
+        "Tel. Nos.: (+855-23) 222-303; 222-304",
+        "Fax No.: (+855-23) 215-143",
+        "ATN Emergency No.: (+855) 98-888-771",
+        "Consular Emergency No.: (+855) 98-888-529",
+        "Email: phnompenh.pe@dfa.gov.ph",
+        "Website: www.phnompenhpe.dfa.gov.ph",
+        "Facebook: @PHLinCambodia"
+      ],
+      "headOfPost": "(Ms.) Genina Marion T. Rafal",
+      "headTitle": "Chargé d’Affaires, a.i.",
+      "addressLines": [
+        "No. 182 Norodom Blvd.",
+        "Sangkat Tonle Bassac, Khan Chamkarmon",
+        "Phnom Penh, Kingdom of Cambodia",
+        "P.O. Box 2018"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+855-23) 222-303; 222-304",
+        "Fax No.: (+855-23) 215-143",
+        "ATN Emergency No.: (+855) 98-888-771",
+        "Consular Emergency No.: (+855) 98-888-529",
+        "Email: phnompenh.pe@dfa.gov.ph",
+        "Website: www.phnompenhpe.dfa.gov.ph",
+        "Facebook: @PHLinCambodia"
+      ]
+    },
+    {
+      "id": "fsp-010",
+      "city": "Ottawa",
+      "country": "Canada",
+      "longitude": -75.702,
+      "latitude": 45.4186,
+      "type": "Embassy",
+      "directoryTitle": "CANADA EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, OTTAWA",
+      "directoryLines": [
+        "H.E. (Mr.) Jose Victor V. Chan-Gonzaga",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "30 Murray Street",
+        "Ottawa, Ontario, K1N 5M4, Canada",
+        "Tel. No.: (+1-613) 233-1121",
+        "Fax No.: (+1-613) 233-4165",
+        "Duty Officer No.: (+1-613) 614-2846",
+        "Email: ottawa.pe@dfa.gov.ph / embassyofphilippines@rogers.com",
+        "ottawape.consular@dfa.gov.ph",
+        "Website: www.ottawape.dfa.gov.ph",
+        "Facebook: @PHinCanada",
+        "Twitter: @PHinCanada"
+      ],
+      "headOfPost": "H.E. (Mr.) Jose Victor V. Chan-Gonzaga",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "30 Murray Street",
+        "Ottawa, Ontario, K1N 5M4, Canada"
+      ],
+      "contactLines": [
+        "Tel. No.: (+1-613) 233-1121",
+        "Fax No.: (+1-613) 233-4165",
+        "Duty Officer No.: (+1-613) 614-2846",
+        "Email: ottawa.pe@dfa.gov.ph / embassyofphilippines@rogers.com",
+        "ottawape.consular@dfa.gov.ph",
+        "Website: www.ottawape.dfa.gov.ph",
+        "Facebook: @PHinCanada",
+        "Twitter: @PHinCanada"
+      ]
+    },
+    {
+      "id": "fsp-011",
+      "city": "Santiago",
+      "country": "Chile",
+      "longitude": -70.6505,
+      "latitude": -33.4402,
+      "type": "Embassy",
+      "directoryTitle": "CHILE EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, SANTIAGO",
+      "directoryLines": [
+        "H.E. (Ms.) Celeste Vinzon-Balatbat",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Del Inca 4622, Las Condes",
+        "Santiago, 7580155",
+        "Chile",
+        "Tel. Nos.: +56 2 23659 165",
+        "+56 2 23659 166",
+        "+56 2 23659 167",
+        "Emergency No.: (+569) 4272-0320",
+        "Landline: (+562) 2228-1670",
+        "Email: santiago.pe@dfa.gov.ph / embassyfilipinas@gmail.com",
+        "Consular Email: consularsantiagope@gmail.com",
+        "Facebook: @PHinChile"
+      ],
+      "headOfPost": "H.E. (Ms.) Celeste Vinzon-Balatbat",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Del Inca 4622, Las Condes",
+        "Santiago, 7580155",
+        "Chile"
+      ],
+      "contactLines": [
+        "Tel. Nos.: +56 2 23659 165",
+        "+56 2 23659 166",
+        "+56 2 23659 167",
+        "Emergency No.: (+569) 4272-0320",
+        "Landline: (+562) 2228-1670",
+        "Email: santiago.pe@dfa.gov.ph / embassyfilipinas@gmail.com",
+        "Consular Email: consularsantiagope@gmail.com",
+        "Facebook: @PHinChile"
+      ]
+    },
+    {
+      "id": "fsp-012",
+      "city": "Beijing",
+      "country": "China",
+      "longitude": 116.3942,
+      "latitude": 39.9017,
+      "type": "Embassy",
+      "directoryTitle": "CHINA EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, BEIJING",
+      "directoryLines": [
+        "H.E. (Mr.) Jaime A. Florcruz",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "23 Xiu Shui Bei Jie, Jianguomenwai, Beijing, 100600",
+        "People’s Republic of China",
+        "Tel. Nos.: (+86-10) 65322451; 65321872; 65322518",
+        "Fax Nos.: (+86-10) 6532-3761; 6532-1921 (Consular Section)",
+        "Hotline Nos.: (+86) 1391-1180-495 (ATN mobile phone);",
+        "Email: beijing.pe@dfa.gov.ph ; beijing.pe@protonmail.com; (alternate);",
+        "beijingpe.consular@dfa.gov.ph",
+        "Website: www.beijingpe.dfa.gov.ph"
+      ],
+      "headOfPost": "H.E. (Mr.) Jaime A. Florcruz",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "23 Xiu Shui Bei Jie, Jianguomenwai, Beijing, 100600",
+        "People’s Republic of China"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+86-10) 65322451; 65321872; 65322518",
+        "Fax Nos.: (+86-10) 6532-3761; 6532-1921 (Consular Section)",
+        "Hotline Nos.: (+86) 1391-1180-495 (ATN mobile phone);",
+        "Email: beijing.pe@dfa.gov.ph ; beijing.pe@protonmail.com; (alternate);",
+        "beijingpe.consular@dfa.gov.ph",
+        "Website: www.beijingpe.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-013",
+      "city": "Bogotá",
+      "country": "Colombia",
+      "longitude": -74.0853,
+      "latitude": 4.5984,
+      "type": "Embassy",
+      "directoryTitle": "COLOMBIA EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, BOGOTA",
+      "directoryLines": [
+        "H.E. (Mr.) Adrian Bernie C. Candolada",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "The Embassy of the Republic of the Philippines",
+        "Torre El Nogal, 8th Floor, Calle 76 #11-35 110011",
+        "Bogota D.C., Colombia",
+        "Tel. No. +57 3142998808"
+      ],
+      "headOfPost": "H.E. (Mr.) Adrian Bernie C. Candolada",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "The Embassy of the Republic of the Philippines",
+        "Torre El Nogal, 8th Floor, Calle 76 #11-35 110011",
+        "Bogota D.C., Colombia"
+      ],
+      "contactLines": [
+        "Tel. No. +57 3142998808"
+      ]
+    },
+    {
+      "id": "fsp-014",
+      "city": "Prague",
+      "country": "Czech Republic",
+      "longitude": 14.4229,
+      "latitude": 50.087,
+      "type": "Embassy",
+      "directoryTitle": "CZECH REPUBLIC EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, PRAGUE",
+      "directoryLines": [
+        "H.E. (Mr.) Eduardo Martin R. Meñez",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Senovazne Namesti 992/8, 110 00, Prague 1,",
+        "Czech Republic",
+        "Tel. Nos.: (+420) 224-216397; 224-216400; 224-216385",
+        "Fax No.: (+420) 224-216390",
+        "Duty Officer No.: (+420) 607-850-764",
+        "Email: praguepe@dfa.gov.ph",
+        "Website: www.praguepe.dfa.gov.ph",
+        "Facebook: @PHinCzechRepublic"
+      ],
+      "headOfPost": "H.E. (Mr.) Eduardo Martin R. Meñez",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Senovazne Namesti 992/8, 110 00, Prague 1,",
+        "Czech Republic"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+420) 224-216397; 224-216400; 224-216385",
+        "Fax No.: (+420) 224-216390",
+        "Duty Officer No.: (+420) 607-850-764",
+        "Email: praguepe@dfa.gov.ph",
+        "Website: www.praguepe.dfa.gov.ph",
+        "Facebook: @PHinCzechRepublic"
+      ]
+    },
+    {
+      "id": "fsp-015",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "longitude": 12.5615,
+      "latitude": 55.6805,
+      "type": "Embassy",
+      "directoryTitle": "DENMARK EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, COPENHAGEN",
+      "directoryLines": [
+        "H.E. (Mr.) Pablito A. Mendoza",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Arne Jacobsens Alle 13, 1st Floor, 2300 Copenhagen",
+        "Denmark",
+        "Tel. No.: (+45) 7141-5952; (+45) 2213-8450",
+        "Emergency No.: (+45) 2273-3933",
+        "Email : copenhagen.pe@dfa.gov.ph; philemb.dk@gmail.com",
+        "Website: https://copenhagenpe.dfa.gov.ph/index.php",
+        "Facebook: @PHinDenmark"
+      ],
+      "headOfPost": "H.E. (Mr.) Pablito A. Mendoza",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Arne Jacobsens Alle 13, 1st Floor, 2300 Copenhagen",
+        "Denmark"
+      ],
+      "contactLines": [
+        "Tel. No.: (+45) 7141-5952; (+45) 2213-8450",
+        "Emergency No.: (+45) 2273-3933",
+        "Email : copenhagen.pe@dfa.gov.ph; philemb.dk@gmail.com",
+        "Website: https://copenhagenpe.dfa.gov.ph/index.php",
+        "Facebook: @PHinDenmark"
+      ]
+    },
+    {
+      "id": "fsp-016",
+      "city": "Cairo",
+      "country": "Egypt",
+      "longitude": 31.248,
+      "latitude": 30.0519,
+      "type": "Embassy",
+      "directoryTitle": "EGYPT EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, CAIRO",
+      "directoryLines": [
+        "H.E. (Ms.) Charmaine Rowena C. Aviquivil",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Building 9, Street 215, Sarayat, Maadi,",
+        "11728 Cairo",
+        "Arab Republic of Egypt",
+        "Tel. No. (+20-2) 2516-9124",
+        "Fax No.: (+20-2) 2516-9176",
+        "ATN No.: (+20) 1227-4364-72",
+        "Duty Phone No.: (+20-128) 895-1110",
+        "Email: cairo.pe@dfa.gov.ph",
+        "Website: https://www.philippines-egypt.com",
+        "Facebook : facebook.com/PHinEgypt",
+        "Instagram : @PHinEgypt",
+        "Twitter : @PHinEgypt"
+      ],
+      "headOfPost": "H.E. (Ms.) Charmaine Rowena C. Aviquivil",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Building 9, Street 215, Sarayat, Maadi,",
+        "11728 Cairo",
+        "Arab Republic of Egypt"
+      ],
+      "contactLines": [
+        "Tel. No. (+20-2) 2516-9124",
+        "Fax No.: (+20-2) 2516-9176",
+        "ATN No.: (+20) 1227-4364-72",
+        "Duty Phone No.: (+20-128) 895-1110",
+        "Email: cairo.pe@dfa.gov.ph",
+        "Website: https://www.philippines-egypt.com",
+        "Facebook : facebook.com/PHinEgypt",
+        "Instagram : @PHinEgypt",
+        "Twitter : @PHinEgypt"
+      ]
+    },
+    {
+      "id": "fsp-017",
+      "city": "Suva",
+      "country": "Fiji",
+      "longitude": 178.4417,
+      "latitude": -18.133,
+      "type": "Embassy",
+      "directoryTitle": "FIJI EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, SUVA",
+      "directoryLines": [
+        "H.E. (Mr.) Noel M. Novicio",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "#50 Ratu Sukuna Road, Nasese, Suva, Fiji",
+        "Email: suva.pe@dfa.gov.ph",
+        "Consular/ATN phone: (+679) 992 9797 (Mobile/Viber/WhatsApp)"
+      ],
+      "headOfPost": "H.E. (Mr.) Noel M. Novicio",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "#50 Ratu Sukuna Road, Nasese, Suva, Fiji"
+      ],
+      "contactLines": [
+        "Email: suva.pe@dfa.gov.ph",
+        "Consular/ATN phone: (+679) 992 9797 (Mobile/Viber/WhatsApp)"
+      ]
+    },
+    {
+      "id": "fsp-018",
+      "city": "Helsinki",
+      "country": "Finland",
+      "longitude": 24.9325,
+      "latitude": 60.1638,
+      "type": "Embassy",
+      "directoryTitle": "FINLAND EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, HELSINKI",
+      "directoryLines": [
+        "H.E. (Mr.) Domingo P. Nolasco",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Unioninkatu 30 6th Floor",
+        "00100 Helsinki",
+        "Contact Number: +358 44 249 3565",
+        "Email addresses: helsinki.pe@dfa.gov.ph",
+        "helsinkipe.consular@dfa.gov.ph"
+      ],
+      "headOfPost": "H.E. (Mr.) Domingo P. Nolasco",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Unioninkatu 30 6th Floor",
+        "00100 Helsinki",
+        "Contact Number: +358 44 249 3565"
+      ],
+      "contactLines": [
+        "Email addresses: helsinki.pe@dfa.gov.ph",
+        "helsinkipe.consular@dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-019",
+      "city": "Paris",
+      "country": "France",
+      "longitude": 2.353,
+      "latitude": 48.8581,
+      "type": "Embassy",
+      "directoryTitle": "FRANCE EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, PARIS",
+      "directoryLines": [
+        "H.E. (Mr.) Eduardo Jose A. De Vega",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "4 Hameau de Boulainvilliers, 45 rue du Ranelagh",
+        "75016 Paris, France",
+        "Tel Nos.: (+33-1) 4414-5700",
+        "Consular: (+33-1) 4414-5701/12",
+        "Fax No.: (+33-1) 464-75600",
+        "Emergency No.: (+33-6) 205-92515",
+        "Email: paris.pe@dfa.gov.ph | parispe.dfa@gmail.com",
+        "Website: www.parispe.dfa.gov.ph",
+        "Facebook: @PHinFrance",
+        "Twitter: https://twitter.com/officialparispe?lang=en"
+      ],
+      "headOfPost": "H.E. (Mr.) Eduardo Jose A. De Vega",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "4 Hameau de Boulainvilliers, 45 rue du Ranelagh",
+        "75016 Paris, France"
+      ],
+      "contactLines": [
+        "Tel Nos.: (+33-1) 4414-5700",
+        "Consular: (+33-1) 4414-5701/12",
+        "Fax No.: (+33-1) 464-75600",
+        "Emergency No.: (+33-6) 205-92515",
+        "Email: paris.pe@dfa.gov.ph | parispe.dfa@gmail.com",
+        "Website: www.parispe.dfa.gov.ph",
+        "Facebook: @PHinFrance",
+        "Twitter: https://twitter.com/officialparispe?lang=en"
+      ]
+    },
+    {
+      "id": "fsp-020",
+      "city": "Berlin",
+      "country": "Germany",
+      "longitude": 13.3996,
+      "latitude": 52.5238,
+      "type": "Embassy",
+      "directoryTitle": "GERMANY EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, BERLIN",
+      "directoryLines": [
+        "H.E. (Ms.) Maria Teresa T. Almojuela",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Luisenstrasse 16, 10117 Berlin-Mitte",
+        "Federal Republic of Germany",
+        "Trunkline No.: +49 (0) 30 864 95 00",
+        "Fax No.: +49 (0) 30 873 25 51",
+        "Emergency Hotlines: +49 (0) 173-521-5703; +49 0173 4217750",
+        "Email: info@philippine-embassy.de, berlin.pe@dfa.gov.ph",
+        "Website: www.philippine-embassy.de",
+        "Facebook: http://www.facebook.com/PHinGermany",
+        "Twitter: @PHinGermany",
+        "YouTube: Philippine Embassy in Berlin"
+      ],
+      "headOfPost": "H.E. (Ms.) Maria Teresa T. Almojuela",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Luisenstrasse 16, 10117 Berlin-Mitte",
+        "Federal Republic of Germany"
+      ],
+      "contactLines": [
+        "Trunkline No.: +49 (0) 30 864 95 00",
+        "Fax No.: +49 (0) 30 873 25 51",
+        "Emergency Hotlines: +49 (0) 173-521-5703; +49 0173 4217750",
+        "Email: info@philippine-embassy.de, berlin.pe@dfa.gov.ph",
+        "Website: www.philippine-embassy.de",
+        "Facebook: http://www.facebook.com/PHinGermany",
+        "Twitter: @PHinGermany",
+        "YouTube: Philippine Embassy in Berlin"
+      ]
+    },
+    {
+      "id": "fsp-021",
+      "city": "Athens",
+      "country": "Greece",
+      "longitude": 23.7314,
+      "latitude": 37.9853,
+      "type": "Embassy",
+      "directoryTitle": "GREECE EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, ATHENS",
+      "directoryLines": [
+        "H.E. (Mr.) Giovanni E. Palec",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "26 Antheon Street, Paleo Psychico 154-52",
+        "Athens, Greece",
+        "Tel. Nos.: (0030-210) 672-1883; 672-1837",
+        "Fax No.: (0030-210) 672-1872",
+        "Consular Section: (0030-210) 672 2011",
+        "Cultural/Tourism Section: (0030-210) 671 8762",
+        "Ambassador’s Office: (0030-210) 671 8799",
+        "Duty Officer No.: (0030) 697 431 9539",
+        "ATN No.: (0030) 697 272 6689",
+        "Email: athens.pe@dfa.gov.ph",
+        "Website: www.athenspe.dfa.gov.ph",
+        "Facebook: www.facebook.com/PHLinGreece"
+      ],
+      "headOfPost": "H.E. (Mr.) Giovanni E. Palec",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "26 Antheon Street, Paleo Psychico 154-52",
+        "Athens, Greece"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (0030-210) 672-1883; 672-1837",
+        "Fax No.: (0030-210) 672-1872",
+        "Consular Section: (0030-210) 672 2011",
+        "Cultural/Tourism Section: (0030-210) 671 8762",
+        "Ambassador’s Office: (0030-210) 671 8799",
+        "Duty Officer No.: (0030) 697 431 9539",
+        "ATN No.: (0030) 697 272 6689",
+        "Email: athens.pe@dfa.gov.ph",
+        "Website: www.athenspe.dfa.gov.ph",
+        "Facebook: www.facebook.com/PHLinGreece"
+      ]
+    },
+    {
+      "id": "fsp-022",
+      "city": "Budapest",
+      "country": "Hungary",
+      "longitude": 19.0814,
+      "latitude": 47.502,
+      "type": "Embassy",
+      "directoryTitle": "HUNGARY EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, BUDAPEST",
+      "directoryLines": [
+        "H.E. (Ms.) Maria Elena P. Algabre",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "1026 Budapest, Gabor Aron utca 58",
+        "Hungary",
+        "Tel. No.: (+36-1) 391-4300",
+        "Fax No.: (+36-1) 200-5528",
+        "Duty Officer No.: (+36) 30-202-1760",
+        "Email: budapest.pe@dfa.gov.ph / phbuda@philembassy.hu"
+      ],
+      "headOfPost": "H.E. (Ms.) Maria Elena P. Algabre",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "1026 Budapest, Gabor Aron utca 58",
+        "Hungary"
+      ],
+      "contactLines": [
+        "Tel. No.: (+36-1) 391-4300",
+        "Fax No.: (+36-1) 200-5528",
+        "Duty Officer No.: (+36) 30-202-1760",
+        "Email: budapest.pe@dfa.gov.ph / phbuda@philembassy.hu"
+      ]
+    },
+    {
+      "id": "fsp-023",
+      "city": "New Delhi",
+      "country": "India",
+      "longitude": 77.2,
+      "latitude": 28.6,
+      "type": "Embassy",
+      "directoryTitle": "INDIA EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, NEW DELHI",
+      "directoryLines": [
+        "H.E. (Mr.) Josel F. Ignacio",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "50 N, Nyaya Marg, Chanakyapuri,",
+        "New Delhi 110021, India",
+        "Tel. Nos.: (+91-11) 2688-9091; 2688-8838",
+        "Fax No.: (+91-11) 2687-6401",
+        "Duty Officer No.: +918595854640; (+91-11) 2410-0056;",
+        "(+91) 99-1079-7014 (ATN/Whatsapp/Viber)",
+        "Email: newdelhi.pe@dfa.gov.ph;",
+        "consularinquiriestophembassy@gmail.com;",
+        "philippineembassynewdelhi@gmail.com",
+        "Website: www.newdelhipe.dfa.gov.ph",
+        "Facebook:",
+        "https://www.facebook.com/Philippine-Embassy-in-New-Delhi-India-100",
+        "905008332081"
+      ],
+      "headOfPost": "H.E. (Mr.) Josel F. Ignacio",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "50 N, Nyaya Marg, Chanakyapuri,",
+        "New Delhi 110021, India"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+91-11) 2688-9091; 2688-8838",
+        "Fax No.: (+91-11) 2687-6401",
+        "Duty Officer No.: +918595854640; (+91-11) 2410-0056;",
+        "(+91) 99-1079-7014 (ATN/Whatsapp/Viber)",
+        "Email: newdelhi.pe@dfa.gov.ph;",
+        "consularinquiriestophembassy@gmail.com;",
+        "philippineembassynewdelhi@gmail.com",
+        "Website: www.newdelhipe.dfa.gov.ph",
+        "Facebook:",
+        "https://www.facebook.com/Philippine-Embassy-in-New-Delhi-India-100",
+        "905008332081"
+      ]
+    },
+    {
+      "id": "fsp-024",
+      "city": "Jakarta",
+      "country": "Indonesia",
+      "longitude": 106.8275,
+      "latitude": -6.1725,
+      "type": "Embassy",
+      "directoryTitle": "INDONESIA EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, JAKARTA",
+      "directoryLines": [
+        "H.E. (Mr.) Christopher B. Montero",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Jl. Imam Bonjol No. 8 Menteng, Jakarta Pusat 10310",
+        "Indonesia",
+        "Tel. No.: (+62-21) 310-0334",
+        "Fax No.: (+62-21) 315-1167",
+        "Emergency Nos.: (+62) 811 887 344",
+        "Email : jakarta.pe@dfa.gov.ph",
+        "Website: www.jakartape.dfa.gov.ph",
+        "Facebook: @PHLinIndonesia"
+      ],
+      "headOfPost": "H.E. (Mr.) Christopher B. Montero",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Jl. Imam Bonjol No. 8 Menteng, Jakarta Pusat 10310",
+        "Indonesia"
+      ],
+      "contactLines": [
+        "Tel. No.: (+62-21) 310-0334",
+        "Fax No.: (+62-21) 315-1167",
+        "Emergency Nos.: (+62) 811 887 344",
+        "Email : jakarta.pe@dfa.gov.ph",
+        "Website: www.jakartape.dfa.gov.ph",
+        "Facebook: @PHLinIndonesia"
+      ]
+    },
+    {
+      "id": "fsp-025",
+      "city": "Tehran",
+      "country": "Iran",
+      "longitude": 51.4224,
+      "latitude": 35.6739,
+      "type": "Embassy",
+      "directoryTitle": "IRAN EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, TEHRAN",
+      "directoryLines": [
+        "H.E. (Mr.) Roberto G. Manalo",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "No. 13, Alef Street St., Mahmoudieh, 1986874153",
+        "Tehran City, Islamic Republic of Iran",
+        "Tel. Nos.: (0098) 21 267 08413",
+        "Fax No.: (0098) 21 267 08650",
+        "ATN No.: (0098) 912-2136801",
+        "Consular No.: (0098) 912-1055637",
+        "Cultural No.: (0098) 912-2037192",
+        "Email: tehran.pe@dfa.gov.ph / tehranpe.dfa@gmail.com",
+        "Website: www.tehranpe.dfa.gov.ph",
+        "Facebook: https://www.facebook.com/PHinIran",
+        "Instagram: https://www.instagram.com/phliniran"
+      ],
+      "headOfPost": "H.E. (Mr.) Roberto G. Manalo",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "No. 13, Alef Street St., Mahmoudieh, 1986874153",
+        "Tehran City, Islamic Republic of Iran"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (0098) 21 267 08413",
+        "Fax No.: (0098) 21 267 08650",
+        "ATN No.: (0098) 912-2136801",
+        "Consular No.: (0098) 912-1055637",
+        "Cultural No.: (0098) 912-2037192",
+        "Email: tehran.pe@dfa.gov.ph / tehranpe.dfa@gmail.com",
+        "Website: www.tehranpe.dfa.gov.ph",
+        "Facebook: https://www.facebook.com/PHinIran",
+        "Instagram: https://www.instagram.com/phliniran"
+      ]
+    },
+    {
+      "id": "fsp-026",
+      "city": "Baghdad",
+      "country": "Iraq",
+      "longitude": 44.3919,
+      "latitude": 33.3406,
+      "type": "Embassy",
+      "directoryTitle": "IRAQ EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, BAGHDAD",
+      "directoryLines": [
+        "H.E. (Mr.) Charlie P. Manangan",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Mahalat 915, Zukak 22",
+        "House No. 6, Jadriyah",
+        "Baghdad, Iraq",
+        "Tel. No.: (+964) 750.010.4728",
+        "Satellite Phone: (+882)16.4442.1528; (+882) 16.4442.1552",
+        "E-mail: baghdad.pe@dfa.gov.ph / baghdad.pe.outgoing@gmail.com",
+        "Website: philembassybaghdad.wordpress.com",
+        "Facebook: @PHinIraq"
+      ],
+      "headOfPost": "H.E. (Mr.) Charlie P. Manangan",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Mahalat 915, Zukak 22",
+        "House No. 6, Jadriyah",
+        "Baghdad, Iraq"
+      ],
+      "contactLines": [
+        "Tel. No.: (+964) 750.010.4728",
+        "Satellite Phone: (+882)16.4442.1528; (+882) 16.4442.1552",
+        "E-mail: baghdad.pe@dfa.gov.ph / baghdad.pe.outgoing@gmail.com",
+        "Website: philembassybaghdad.wordpress.com",
+        "Facebook: @PHinIraq"
+      ]
+    },
+    {
+      "id": "fsp-027",
+      "city": "Dublin",
+      "country": "Ireland",
+      "longitude": -6.257,
+      "latitude": 53.3467,
+      "type": "Embassy",
+      "directoryTitle": "IRELAND EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, DUBLIN",
+      "directoryLines": [
+        "H.E. (Mr.) Daniel R. Espiritu",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Room 108, Alexandra House,",
+        "3 Ballsbridge Park, Dublin 4, D04 C7H2",
+        "Mobile Phone Number : +353 83 169 6527",
+        "Email Address : dublin.pe@dfa.gov.ph",
+        "dublinpe.consular@dfa.gov.ph"
+      ],
+      "headOfPost": "H.E. (Mr.) Daniel R. Espiritu",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Room 108, Alexandra House,",
+        "3 Ballsbridge Park, Dublin 4, D04 C7H2"
+      ],
+      "contactLines": [
+        "Mobile Phone Number : +353 83 169 6527",
+        "Email Address : dublin.pe@dfa.gov.ph",
+        "dublinpe.consular@dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-028",
+      "city": "Tel Aviv",
+      "country": "Israel",
+      "longitude": 34.7681,
+      "latitude": 32.0819,
+      "type": "Embassy",
+      "directoryTitle": "ISRAEL EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, TEL AVIV",
+      "directoryLines": [
+        "H.E. (Ms.) Aileen S. Mendiola-Rau",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "No. 18 Bnei Dan Street",
+        "Tel Aviv, 6226009 Israel",
+        "Tel. No.: (+972-3) 601-0500",
+        "Fax No.: (+972-3) 604-1038",
+        "Duty Officer No.: (+972-54) 466-1188",
+        "Email: telaviv.pe@dfa.gov.ph / telaviv.pe@outlook.com",
+        "Website: https://tel-avivpe.dfa.gov.ph",
+        "Facebook: @PHinIsrael"
+      ],
+      "headOfPost": "H.E. (Ms.) Aileen S. Mendiola-Rau",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "No. 18 Bnei Dan Street"
+      ],
+      "contactLines": [
+        "Tel Aviv, 6226009 Israel",
+        "Tel. No.: (+972-3) 601-0500",
+        "Fax No.: (+972-3) 604-1038",
+        "Duty Officer No.: (+972-54) 466-1188",
+        "Email: telaviv.pe@dfa.gov.ph / telaviv.pe@outlook.com",
+        "Website: https://tel-avivpe.dfa.gov.ph",
+        "Facebook: @PHinIsrael"
+      ]
+    },
+    {
+      "id": "fsp-029",
+      "city": "Rome",
+      "country": "Italy",
+      "longitude": 12.4813,
+      "latitude": 41.8979,
+      "type": "Embassy",
+      "directoryTitle": "ITALY EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, ROME",
+      "directoryLines": [
+        "(H.E.) Mr. Nathaniel G. Imperial",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Via Aurelia 290A/294b",
+        "00165 Rome, Italy",
+        "Trunkline: (+39) 06 397 46621",
+        "Fax No.: (+39) 06 39740872",
+        "Duty Officer: (+39) 334 658 2118",
+        "Email Address: rome.pe@dfa.gov.ph | romepe2007@gmail.com",
+        "Website: www.romepe.dfa.gov.ph",
+        "Facebook: @PHinItaly"
+      ],
+      "headOfPost": "(H.E.) Mr. Nathaniel G. Imperial",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Via Aurelia 290A/294b",
+        "00165 Rome, Italy"
+      ],
+      "contactLines": [
+        "Trunkline: (+39) 06 397 46621",
+        "Fax No.: (+39) 06 39740872",
+        "Duty Officer: (+39) 334 658 2118",
+        "Email Address: rome.pe@dfa.gov.ph | romepe2007@gmail.com",
+        "Website: www.romepe.dfa.gov.ph",
+        "Facebook: @PHinItaly"
+      ]
+    },
+    {
+      "id": "fsp-030",
+      "city": "Tokyo",
+      "country": "Japan",
+      "longitude": 139.7495,
+      "latitude": 35.687,
+      "type": "Embassy",
+      "directoryTitle": "JAPAN EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, TOKYO",
+      "directoryLines": [
+        "H.E. (Ms.) Mylene J. Garcia-Albano",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "5-15-5, Roppongi Minato-ku",
+        "Tokyo 106-8537, Japan",
+        "Tel. Nos.: (+81-3) 5562-1600 to 1602; 5562-1604 to1605",
+        "Fax No.: (+81-3) 5562-1603",
+        "Emergency No.: (+8180) 4928-7979 (ATN) (+8180) 7000 7979",
+        "(Passport)",
+        "Email: tokyo.pe@dfa.gov.ph / phjp@gol.com",
+        "Website: www.tokyope.dfa.gov.ph / www.tokyo.philembassy.net",
+        "Facebook:@PHLinJapan"
+      ],
+      "headOfPost": "H.E. (Ms.) Mylene J. Garcia-Albano",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "5-15-5, Roppongi Minato-ku",
+        "Tokyo 106-8537, Japan"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+81-3) 5562-1600 to 1602; 5562-1604 to1605",
+        "Fax No.: (+81-3) 5562-1603",
+        "Emergency No.: (+8180) 4928-7979 (ATN) (+8180) 7000 7979",
+        "(Passport)",
+        "Email: tokyo.pe@dfa.gov.ph / phjp@gol.com",
+        "Website: www.tokyope.dfa.gov.ph / www.tokyo.philembassy.net",
+        "Facebook:@PHLinJapan"
+      ]
+    },
+    {
+      "id": "fsp-031",
+      "city": "Amman",
+      "country": "Jordan",
+      "longitude": 35.9314,
+      "latitude": 31.952,
+      "type": "Embassy",
+      "directoryTitle": "JORDAN EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, AMMAN",
+      "directoryLines": [
+        "H.E. (Mr.) Wilfredo C. Santos",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "No. 20, Salah Touqan Street, Al Sweifieh",
+        "Amman, Hashemite Kingdom of Jordan",
+        "PO Box 925207",
+        "Trunkline: (+962-6) 5901730",
+        "Mobile Hotline No.: (+962) 7779-88818",
+        "Fax No.: (+962-6) 5923-744",
+        "ATN Nos.: +962 -7-7907-7775; 7-7907-7778",
+        "Email: amman.pe@dfa.gov.ph",
+        "Website: https://ammanpe.dfa.gov.ph",
+        "Facebook: https://www.facebook.com/PHLinJordan"
+      ],
+      "headOfPost": "H.E. (Mr.) Wilfredo C. Santos",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "No. 20, Salah Touqan Street, Al Sweifieh",
+        "Amman, Hashemite Kingdom of Jordan",
+        "PO Box 925207"
+      ],
+      "contactLines": [
+        "Trunkline: (+962-6) 5901730",
+        "Mobile Hotline No.: (+962) 7779-88818",
+        "Fax No.: (+962-6) 5923-744",
+        "ATN Nos.: +962 -7-7907-7775; 7-7907-7778",
+        "Email: amman.pe@dfa.gov.ph",
+        "Website: https://ammanpe.dfa.gov.ph",
+        "Facebook: https://www.facebook.com/PHLinJordan"
+      ]
+    },
+    {
+      "id": "fsp-032",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "longitude": 36.8147,
+      "latitude": -1.2814,
+      "type": "Embassy",
+      "directoryTitle": "KENYA EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, NAIROBI",
+      "directoryLines": [
+        "H.E. (Ms.) Marie Charlotte G. Tang",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "P.O. Box 47941-00100, 001 Mzima Springs Road, Lavington,",
+        "Nairobi, Kenya",
+        "Duty Office No.: (+254) 734-450-001",
+        "Email: nairobi.pe@dfa.gov.ph / pe.nairobi@gmail.com",
+        "Website: www.nairobipe.dfa.gov.ph"
+      ],
+      "headOfPost": "H.E. (Ms.) Marie Charlotte G. Tang",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "P.O. Box 47941-00100, 001 Mzima Springs Road, Lavington,",
+        "Nairobi, Kenya"
+      ],
+      "contactLines": [
+        "Duty Office No.: (+254) 734-450-001",
+        "Email: nairobi.pe@dfa.gov.ph / pe.nairobi@gmail.com",
+        "Website: www.nairobipe.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-033",
+      "city": "Seoul",
+      "country": "South Korea",
+      "longitude": 126.9978,
+      "latitude": 37.5683,
+      "type": "Embassy",
+      "directoryTitle": "KOREA EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, SEOUL",
+      "directoryLines": [
+        "(REPUBLIC OF) H.E. (Ms.) Bernadette Therese C. Fernandez",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "80 Hoenamu-ro, Yongsan-Gu, Seoul",
+        "Republic of Korea 04346",
+        "Tel. Nos.: (+82-2) 788-2100; (+82-2) 788-2101",
+        "Ambassador’s No.: (+822) 788-2155",
+        "Fax No.: (+82-2) 796-0827",
+        "Hotline Nos.: (+82-10) 9365-2312 (Emergency); (+82-10) 9263-8119",
+        "(ATN); (+82-10) 9385-0535 (Passport)",
+        "Email: seoul.pe@dfa.gov.ph / seoulpe@philembassy-seoul.com",
+        "Website: www.philembassy-seoul.com",
+        "Facebook: @PHinKorea"
+      ],
+      "headOfPost": "H.E. (Ms.) Bernadette Therese C. Fernandez",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "80 Hoenamu-ro, Yongsan-Gu, Seoul",
+        "Republic of Korea 04346"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+82-2) 788-2100; (+82-2) 788-2101",
+        "Ambassador’s No.: (+822) 788-2155",
+        "Fax No.: (+82-2) 796-0827",
+        "Hotline Nos.: (+82-10) 9365-2312 (Emergency); (+82-10) 9263-8119",
+        "(ATN); (+82-10) 9385-0535 (Passport)",
+        "Email: seoul.pe@dfa.gov.ph / seoulpe@philembassy-seoul.com",
+        "Website: www.philembassy-seoul.com",
+        "Facebook: @PHinKorea"
+      ]
+    },
+    {
+      "id": "fsp-034",
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "longitude": 47.9764,
+      "latitude": 29.3717,
+      "type": "Embassy",
+      "directoryTitle": "KUWAIT EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, KUWAIT",
+      "directoryLines": [
+        "H.E. (Mr.) Jose A. Cabrera III",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Building No. 257, Street 213, Block 2",
+        "Sabah Al Salem, State of Kuwait",
+        "Email: kuwait.pe@dfa.gov.ph",
+        "Website: www.kuwaitpe.dfa.gov.ph",
+        "Trunkline: (+965) 2220-5571",
+        "Office of the Ambassador: (+965) 2220-5574",
+        "Hotline (Consular): (+965) 6990-2188",
+        "Hotline (ATN): (+965) 6500-2612",
+        "Facebook: PHinKuwait",
+        "Twitter: @PHinKuwait"
+      ],
+      "headOfPost": "H.E. (Mr.) Jose A. Cabrera III",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Building No. 257, Street 213, Block 2",
+        "Sabah Al Salem, State of Kuwait"
+      ],
+      "contactLines": [
+        "Email: kuwait.pe@dfa.gov.ph",
+        "Website: www.kuwaitpe.dfa.gov.ph",
+        "Trunkline: (+965) 2220-5571",
+        "Office of the Ambassador: (+965) 2220-5574",
+        "Hotline (Consular): (+965) 6990-2188",
+        "Hotline (ATN): (+965) 6500-2612",
+        "Facebook: PHinKuwait",
+        "Twitter: @PHinKuwait"
+      ]
+    },
+    {
+      "id": "fsp-035",
+      "city": "Vientiane",
+      "country": "Laos",
+      "longitude": 102.6,
+      "latitude": 17.9667,
+      "type": "Embassy",
+      "directoryTitle": "LAOS EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, VIENTIANE",
+      "directoryLines": [
+        "H.E. (Ms.) Elizabeth T. Te",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "House No. 009, Street No. 103,",
+        "Lao-Thai Road, Sokpaluang Village,",
+        "Sisattanak District, Vientiane Capital",
+        "Tel Nos.: (+856-21) 452-490; 452-491",
+        "Duty Phone: (+856-20) 555-35878",
+        "Email: vientiane.pe@dfa.gov.ph",
+        "Website: www.vientianepe.dfa.gov.ph",
+        "Facebook: @PHinLaoPDR"
+      ],
+      "headOfPost": "H.E. (Ms.) Elizabeth T. Te",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "House No. 009, Street No. 103,",
+        "Lao-Thai Road, Sokpaluang Village,",
+        "Sisattanak District, Vientiane Capital"
+      ],
+      "contactLines": [
+        "Tel Nos.: (+856-21) 452-490; 452-491",
+        "Duty Phone: (+856-20) 555-35878",
+        "Email: vientiane.pe@dfa.gov.ph",
+        "Website: www.vientianepe.dfa.gov.ph",
+        "Facebook: @PHinLaoPDR"
+      ]
+    },
+    {
+      "id": "fsp-036",
+      "city": "Beirut",
+      "country": "Lebanon",
+      "longitude": 35.5078,
+      "latitude": 33.8739,
+      "type": "Embassy",
+      "directoryTitle": "LEBANON EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, BEIRUT",
+      "directoryLines": [
+        "H.E. (Mr.) Marlowe A. Miranda",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "W Building, Rue Mar Geries Hadath, Baabda",
+        "Mount Lebanon",
+        "Tel. No.: (+961-5) 953-519",
+        "Fax No.: (+961-5) 953-521",
+        "Duty Phone No.: (+961-3) 859-430 (Consular); (+961-7) 1475 416",
+        "(Arabic)",
+        "ATN Hotline No.: (+961-7) 0-858-086",
+        "Duty Phone Number (Arabic): (+961-7) 1-475-416",
+        "Email: beirut.pe@dfa.gov.ph",
+        "Website: www.beirutpe.dfa.gov.ph",
+        "Facebook: @PHLinLebanon"
+      ],
+      "headOfPost": "H.E. (Mr.) Marlowe A. Miranda",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "W Building, Rue Mar Geries Hadath, Baabda",
+        "Mount Lebanon"
+      ],
+      "contactLines": [
+        "Tel. No.: (+961-5) 953-519",
+        "Fax No.: (+961-5) 953-521",
+        "Duty Phone No.: (+961-3) 859-430 (Consular); (+961-7) 1475 416",
+        "(Arabic)",
+        "ATN Hotline No.: (+961-7) 0-858-086",
+        "Duty Phone Number (Arabic): (+961-7) 1-475-416",
+        "Email: beirut.pe@dfa.gov.ph",
+        "Website: www.beirutpe.dfa.gov.ph",
+        "Facebook: @PHLinLebanon"
+      ]
+    },
+    {
+      "id": "fsp-037",
+      "city": "Tripoli",
+      "country": "Libya",
+      "longitude": 13.18,
+      "latitude": 32.8925,
+      "type": "Embassy",
+      "directoryTitle": "LIBYA EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, TRIPOLI",
+      "directoryLines": [
+        "(Mr.) Roderico C. Atienza",
+        "Chargé d’ Affaires, a.i.",
+        "Km. 7 Gargaresh Road, Abu Nawas",
+        "Tripoli, Libya",
+        "P.O. Box 12508, Tripoli, Libya",
+        "Hotline No.: (+218) 926-976-523; (+218) 944-541-283",
+        "Email: tripoli.pe@dfa.gov.ph",
+        "Website: www.tripolipe.dfa.gov.ph",
+        "Facebook: @PHinLibya"
+      ],
+      "headOfPost": "(Mr.) Roderico C. Atienza",
+      "headTitle": "Chargé d’ Affaires, a.i.",
+      "addressLines": [
+        "Km. 7 Gargaresh Road, Abu Nawas",
+        "Tripoli, Libya",
+        "P.O. Box 12508, Tripoli, Libya"
+      ],
+      "contactLines": [
+        "Hotline No.: (+218) 926-976-523; (+218) 944-541-283",
+        "Email: tripoli.pe@dfa.gov.ph",
+        "Website: www.tripolipe.dfa.gov.ph",
+        "Facebook: @PHinLibya"
+      ]
+    },
+    {
+      "id": "fsp-038",
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "longitude": 101.6887,
+      "latitude": 3.1398,
+      "type": "Embassy",
+      "directoryTitle": "MALAYSIA EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, KUALA LUMPUR",
+      "directoryLines": [
+        "H.E. (Ms.) Maria Angela A. Ponce",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "No. 1 Changkat Kia Peng",
+        "50450 Kuala Lumpur, Malaysia",
+        "Tel. Nos. (+60-3) 2148-4233; 2148-4654; 2148-4682; 2148-6528;",
+        "2148-6538",
+        "Fax No.: (+60-3) 2148-3576",
+        "Duty Officer No.: (+601) 7347-5487",
+        "Email: kualalumpur.pe@dfa.gov.ph / klpe_malaysia@yahoo.com",
+        "Website: kualalumpurpe.dfa.gov.ph",
+        "Facebook: @PHinMalaysia"
+      ],
+      "headOfPost": "H.E. (Ms.) Maria Angela A. Ponce",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "No. 1 Changkat Kia Peng",
+        "50450 Kuala Lumpur, Malaysia"
+      ],
+      "contactLines": [
+        "Tel. Nos. (+60-3) 2148-4233; 2148-4654; 2148-4682; 2148-6528;",
+        "2148-6538",
+        "Fax No.: (+60-3) 2148-3576",
+        "Duty Officer No.: (+601) 7347-5487",
+        "Email: kualalumpur.pe@dfa.gov.ph / klpe_malaysia@yahoo.com",
+        "Website: kualalumpurpe.dfa.gov.ph",
+        "Facebook: @PHinMalaysia"
+      ]
+    },
+    {
+      "id": "fsp-039",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "longitude": -99.1329,
+      "latitude": 19.4444,
+      "type": "Embassy",
+      "directoryTitle": "MEXICO EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, MEXICO",
+      "directoryLines": [
+        "H.E. (Mr.) Arvin R. De Leon",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Av. Thiers 111 (corner Couvier 55),",
+        "Colonia Anzures, Delegacion Miguel Hidalgo",
+        "C.P. 11590, Mexico City Mexico",
+        "Tel. Nos.: (+52-55) 5131-8225; 5255-1438; 5545-9716; 5545-0127",
+        "Ambassador’s Direct Line: (+52-55) 5131-8267",
+        "Fax No.: (+52-55) 5131-8268",
+        "Duty Officer 24/7 Hotline No.: (+52-56) 2560-2735",
+        "Email : mexico.pe@dfa.gov.ph"
+      ],
+      "headOfPost": "H.E. (Mr.) Arvin R. De Leon",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Av. Thiers 111 (corner Couvier 55),",
+        "Colonia Anzures, Delegacion Miguel Hidalgo",
+        "C.P. 11590, Mexico City Mexico"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+52-55) 5131-8225; 5255-1438; 5545-9716; 5545-0127",
+        "Ambassador’s Direct Line: (+52-55) 5131-8267",
+        "Fax No.: (+52-55) 5131-8268",
+        "Duty Officer 24/7 Hotline No.: (+52-56) 2560-2735",
+        "Email : mexico.pe@dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-040",
+      "city": "Rabat",
+      "country": "Morocco",
+      "longitude": -6.8364,
+      "latitude": 34.0253,
+      "type": "Embassy",
+      "directoryTitle": "MOROCCO EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, RABAT",
+      "directoryLines": [
+        "H.E. (Mr.) Leslie J. Baja",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "N-23 Rue Bani Ritoune, Souissi, 10170, Rabat,",
+        "Kingdom of Morocco",
+        "Tel. No.: (+212) 537-543980",
+        "Fax No.: (+212) 537-543985",
+        "Hotline No.: (+212) 694-202178 (Assistance to Nationals)",
+        "(+212) 619-202240 (Consular)",
+        "Email: rabat.pe@dfa.gov.ph /rabatpe.consular@dfa.gov.ph",
+        "Website: https://rabatpe.dfa.gov.ph",
+        "Facebook: https://www.facebook.com/PHinMorocco",
+        "Messenger: https://m.me/PHinMorocco",
+        "Twitter: @PHLinMorocco",
+        "Instagram: @phinmorocco"
+      ],
+      "headOfPost": "H.E. (Mr.) Leslie J. Baja",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "N-23 Rue Bani Ritoune, Souissi, 10170, Rabat,",
+        "Kingdom of Morocco"
+      ],
+      "contactLines": [
+        "Tel. No.: (+212) 537-543980",
+        "Fax No.: (+212) 537-543985",
+        "Hotline No.: (+212) 694-202178 (Assistance to Nationals)",
+        "(+212) 619-202240 (Consular)",
+        "Email: rabat.pe@dfa.gov.ph /rabatpe.consular@dfa.gov.ph",
+        "Website: https://rabatpe.dfa.gov.ph",
+        "Facebook: https://www.facebook.com/PHinMorocco",
+        "Messenger: https://m.me/PHinMorocco",
+        "Twitter: @PHLinMorocco",
+        "Instagram: @phinmorocco"
+      ]
+    },
+    {
+      "id": "fsp-041",
+      "city": "Yangon",
+      "country": "Myanmar",
+      "longitude": 96.1647,
+      "latitude": 16.7853,
+      "type": "Embassy",
+      "directoryTitle": "MYANMAR EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, YANGON",
+      "directoryLines": [
+        "(Mr.) Angelito A. Nayan",
+        "Chargé d’ Affaires, a.i.",
+        "No. 21 Pho Sein Road, Bahan Township 11201",
+        "Yangon, Republic of the Union of Myanmar",
+        "Tel. Nos.: (+95-1) 558-149 to 153",
+        "Fax No.: (+95-1) 558-154",
+        "Duty Officer No.: (+95) 925 076 5938",
+        "Consular Hotline: (+95) 998 521 0998",
+        "ATN Number: (+95) 998 521 0991",
+        "Email: yangon.pe@dfa.gov.ph / p.e.yangon@gmail.com",
+        "Consular Email: yangonpe.consular@dfa.gov.ph",
+        "ATN Email: yangonpe.atn@gmail.com",
+        "Website: www.yangonpe.dfa.gov.ph",
+        "Facebook: @PHinMyanmar"
+      ],
+      "headOfPost": "(Mr.) Angelito A. Nayan",
+      "headTitle": "Chargé d’ Affaires, a.i.",
+      "addressLines": [
+        "No. 21 Pho Sein Road, Bahan Township 11201",
+        "Yangon, Republic of the Union of Myanmar"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+95-1) 558-149 to 153",
+        "Fax No.: (+95-1) 558-154",
+        "Duty Officer No.: (+95) 925 076 5938",
+        "Consular Hotline: (+95) 998 521 0998",
+        "ATN Number: (+95) 998 521 0991",
+        "Email: yangon.pe@dfa.gov.ph / p.e.yangon@gmail.com",
+        "Consular Email: yangonpe.consular@dfa.gov.ph",
+        "ATN Email: yangonpe.atn@gmail.com",
+        "Website: www.yangonpe.dfa.gov.ph",
+        "Facebook: @PHinMyanmar"
+      ]
+    },
+    {
+      "id": "fsp-042",
+      "city": "The Hague",
+      "country": "Netherlands",
+      "longitude": 4.27,
+      "latitude": 52.08,
+      "type": "Embassy",
+      "directoryTitle": "NETHERLANDS EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, THE HAGUE",
+      "directoryLines": [
+        "H.E. (Mr.) Jose Eduardo E. Malaya III",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Laan Copes van Cattenburch 125, 2585 EZ",
+        "The Hague, Netherlands",
+        "Tel. No.: (+31) 70360 4820",
+        "Emergency No.: (+31) 6 5261 1079",
+        "ATN: (+31) 6 2192 5307",
+        "Email: thehague.pe@dfa.gov.ph / thehague@philembassy.nl",
+        "Website: thehaguepe.dfa.gov.ph",
+        "Facebook: @PHinTheNetherlands",
+        "Twitter: twitter.com/PHintheHague"
+      ],
+      "headOfPost": "H.E. (Mr.) Jose Eduardo E. Malaya III",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Laan Copes van Cattenburch 125, 2585 EZ",
+        "The Hague, Netherlands"
+      ],
+      "contactLines": [
+        "Tel. No.: (+31) 70360 4820",
+        "Emergency No.: (+31) 6 5261 1079",
+        "ATN: (+31) 6 2192 5307",
+        "Email: thehague.pe@dfa.gov.ph / thehague@philembassy.nl",
+        "Website: thehaguepe.dfa.gov.ph",
+        "Facebook: @PHinTheNetherlands",
+        "Twitter: twitter.com/PHintheHague"
+      ]
+    },
+    {
+      "id": "fsp-043",
+      "city": "Wellington",
+      "country": "New Zealand",
+      "longitude": 174.7772,
+      "latitude": -41.2921,
+      "type": "Embassy",
+      "directoryTitle": "NEW ZEALAND EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, WELLINGTON",
+      "directoryLines": [
+        "H.E. (Ms.) Kira Christianne D. Azucena",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "50 Hobson Street, Thorndon 6011",
+        "P.O. Box 120-42, Wellington 6144, New Zealand",
+        "Tel. Nos.: (+64-4) 890-3741; 890-3742; 890-3744",
+        "Fax No.: (+64-4) 890-3740",
+        "Hotline No.: (+64) 220-746-517",
+        "Email: wellington.pe@philembassy.org.nz",
+        "Website: www.philembassy.org.nz",
+        "Facebook: @PHLinNZ"
+      ],
+      "headOfPost": "H.E. (Ms.) Kira Christianne D. Azucena",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "50 Hobson Street, Thorndon 6011",
+        "P.O. Box 120-42, Wellington 6144, New Zealand"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+64-4) 890-3741; 890-3742; 890-3744",
+        "Fax No.: (+64-4) 890-3740",
+        "Hotline No.: (+64) 220-746-517",
+        "Email: wellington.pe@philembassy.org.nz",
+        "Website: www.philembassy.org.nz",
+        "Facebook: @PHLinNZ"
+      ]
+    },
+    {
+      "id": "fsp-044",
+      "city": "Abuja",
+      "country": "Nigeria",
+      "longitude": 7.4895,
+      "latitude": 9.0546,
+      "type": "Embassy",
+      "directoryTitle": "NIGERIA EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, ABUJA",
+      "directoryLines": [
+        "H.E. (Mr.) Mersole J. Mellejor",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "No. 34B Rhine Street, Maitama, Abuja 904101 FCT",
+        "Federal Republic of Nigeria",
+        "Mobile No.: (+234) 81025-41252 (Consular)",
+        "(+234) 90532-44916 (ATN)",
+        "Email: abuja.pe@dfa.gov.ph / pe.abuja.consular@gmail.com",
+        "Website: www.abujape.dfa.gov.ph",
+        "Facebook: @PHinNigeria"
+      ],
+      "headOfPost": "H.E. (Mr.) Mersole J. Mellejor",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "No. 34B Rhine Street, Maitama, Abuja 904101 FCT",
+        "Federal Republic of Nigeria"
+      ],
+      "contactLines": [
+        "Mobile No.: (+234) 81025-41252 (Consular)",
+        "(+234) 90532-44916 (ATN)",
+        "Email: abuja.pe@dfa.gov.ph / pe.abuja.consular@gmail.com",
+        "Website: www.abujape.dfa.gov.ph",
+        "Facebook: @PHinNigeria"
+      ]
+    },
+    {
+      "id": "fsp-045",
+      "city": "Oslo",
+      "country": "Norway",
+      "longitude": 10.748,
+      "latitude": 59.9186,
+      "type": "Embassy",
+      "directoryTitle": "NORWAY EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, OSLO",
+      "directoryLines": [
+        "H.E. (Mr.) Enrico T. Fos",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "4th Floor, Nedre Vollgate 8, 0158",
+        "Oslo, Norway",
+        "Tel. No.: (0047) 224-00900",
+        "Duty Officer No.: (0047) 9500-1072",
+        "Assistance to Nationals : (0047) 9024-1171",
+        "Email : oslo.pe@dfa.gov.ph / communications@philippine.no",
+        "Website: www.oslope.dfa.gov.ph"
+      ],
+      "headOfPost": "H.E. (Mr.) Enrico T. Fos",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "4th Floor, Nedre Vollgate 8, 0158",
+        "Oslo, Norway"
+      ],
+      "contactLines": [
+        "Tel. No.: (0047) 224-00900",
+        "Duty Officer No.: (0047) 9500-1072",
+        "Assistance to Nationals : (0047) 9024-1171",
+        "Email : oslo.pe@dfa.gov.ph / communications@philippine.no",
+        "Website: www.oslope.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-046",
+      "city": "Muscat",
+      "country": "Oman",
+      "longitude": 58.3783,
+      "latitude": 23.5852,
+      "type": "Embassy",
+      "directoryTitle": "OMAN EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, MUSCAT",
+      "directoryLines": [
+        "H.E. (Ms.) Noralyn Jubaira-Baja",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Bldg. No. 4067, Way No. 3050, Plot No. 813, Sarooj, Shatti Al Qurum",
+        "P.O. Box No. 420 Madinat Qaboos PC 115",
+        "Muscat, Sultanate of Oman",
+        "Tel. Nos.: (+968) 2460-5179; 2460-5143; 2460-5335",
+        "Fax No.: (+968) 2460-5176",
+        "Office of the Ambassador: (+968) 2469-9109",
+        "Consular: (+968) 2460-5179",
+        "Hotline Nos.: (+968) 9988-5073 (ATN); (+968) 9988-7935 (Duty Officer)",
+        "Office of the Labor Attache: (+968) 2460-5177",
+        "Email: muscat.pe@dfa.gov.ph / muscatpe.consular@dfa.gov.ph",
+        "Website: www.muscatpe.dfa.gov.ph",
+        "Facebook: @PHLinOman"
+      ],
+      "headOfPost": "H.E. (Ms.) Noralyn Jubaira-Baja",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Bldg. No. 4067, Way No. 3050, Plot No. 813, Sarooj, Shatti Al Qurum",
+        "P.O. Box No. 420 Madinat Qaboos PC 115",
+        "Muscat, Sultanate of Oman"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+968) 2460-5179; 2460-5143; 2460-5335",
+        "Fax No.: (+968) 2460-5176",
+        "Office of the Ambassador: (+968) 2469-9109",
+        "Consular: (+968) 2460-5179",
+        "Hotline Nos.: (+968) 9988-5073 (ATN); (+968) 9988-7935 (Duty Officer)",
+        "Office of the Labor Attache: (+968) 2460-5177",
+        "Email: muscat.pe@dfa.gov.ph / muscatpe.consular@dfa.gov.ph",
+        "Website: www.muscatpe.dfa.gov.ph",
+        "Facebook: @PHLinOman"
+      ]
+    },
+    {
+      "id": "fsp-047",
+      "city": "Islamabad",
+      "country": "Pakistan",
+      "longitude": 73.0806,
+      "latitude": 33.6894,
+      "type": "Embassy",
+      "directoryTitle": "PAKISTAN EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, ISLAMABAD",
+      "directoryLines": [
+        "H.E. (Mr.) Emmanuel R. Fernandez",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Zhou-Enlai Avenue, Plot Nos. 3, 4 and 5",
+        "Diplomatic Enclave, Sector G-5",
+        "Islamabad 44000, Pakistan",
+        "P.O. Box 1052 Islamabad, Pakistan",
+        "Tel. No.: (+92-51) 848-7500",
+        "Consular Mobile No: (+92-333) 1509-891",
+        "ATN Mobile No.: (+92-333) 5244-762",
+        "Fax No.: (+92-51) 8487-513",
+        "Email: islamabad.pe@dfa.gov.ph;",
+        "Website: www.isdpe.com.pk",
+        "Facebook: @PHinPakistan"
+      ],
+      "headOfPost": "H.E. (Mr.) Emmanuel R. Fernandez",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Zhou-Enlai Avenue, Plot Nos. 3, 4 and 5",
+        "Diplomatic Enclave, Sector G-5",
+        "Islamabad 44000, Pakistan",
+        "P.O. Box 1052 Islamabad, Pakistan"
+      ],
+      "contactLines": [
+        "Tel. No.: (+92-51) 848-7500",
+        "Consular Mobile No: (+92-333) 1509-891",
+        "ATN Mobile No.: (+92-333) 5244-762",
+        "Fax No.: (+92-51) 8487-513",
+        "Email: islamabad.pe@dfa.gov.ph;",
+        "Website: www.isdpe.com.pk",
+        "Facebook: @PHinPakistan"
+      ]
+    },
+    {
+      "id": "fsp-048",
+      "city": "Port Moresby",
+      "country": "Papua New Guinea",
+      "longitude": 147.1925,
+      "latitude": -9.4647,
+      "type": "Embassy",
+      "directoryTitle": "PAPUA NEW EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, PORT MORESBY",
+      "directoryLines": [
+        "GUINEA H.E. (Mr.) Edgar Tomas Q. Auxilian",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Lot 1, Section 440, Acacia St.",
+        "Islander Village, Hohola, NCD",
+        "Papua New Guinea",
+        "P.O. Box 5916, Boroko, NCD, PNG",
+        "Tel. Nos.: (+675) 325-6414; 325-6577",
+        "Residence: (+675) 323-9031",
+        "Email: portmoresby.pe@dfa.gov.ph",
+        "Website: www.portmoresbype.dfa.gov.ph",
+        "Facebook: @PHLinPNG"
+      ],
+      "headOfPost": "H.E. (Mr.) Edgar Tomas Q. Auxilian",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Lot 1, Section 440, Acacia St.",
+        "Islander Village, Hohola, NCD",
+        "Papua New Guinea",
+        "P.O. Box 5916, Boroko, NCD, PNG"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+675) 325-6414; 325-6577",
+        "Residence: (+675) 323-9031",
+        "Email: portmoresby.pe@dfa.gov.ph",
+        "Website: www.portmoresbype.dfa.gov.ph",
+        "Facebook: @PHLinPNG"
+      ]
+    },
+    {
+      "id": "fsp-049",
+      "city": "Warsaw",
+      "country": "Poland",
+      "longitude": 21.0053,
+      "latitude": 52.2309,
+      "type": "Embassy",
+      "directoryTitle": "POLAND EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, WARSAW",
+      "directoryLines": [
+        "H.E. (Mr.) Alan L. Deniega",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Ul. Lentza 11, 02-956 Warsaw, Republic of Poland",
+        "Telephone No.: +48 22 490 2025 and +48 694 491 664",
+        "Emergency Phone (24/7): +48 604 357 396",
+        "Email: warsaw.pe@dfa.gov.ph",
+        "Website: www.warsawpe.dfa.gov.ph"
+      ],
+      "headOfPost": "H.E. (Mr.) Alan L. Deniega",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Ul. Lentza 11, 02-956 Warsaw, Republic of Poland"
+      ],
+      "contactLines": [
+        "Telephone No.: +48 22 490 2025 and +48 694 491 664",
+        "Emergency Phone (24/7): +48 604 357 396",
+        "Email: warsaw.pe@dfa.gov.ph",
+        "Website: www.warsawpe.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-050",
+      "city": "Lisbon",
+      "country": "Portugal",
+      "longitude": -9.1468,
+      "latitude": 38.7247,
+      "type": "Embassy",
+      "directoryTitle": "PORTUGAL EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, LISBON",
+      "directoryLines": [
+        "H.E. (Mr.) Paul Raymund P. Cortes",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Rua Barata Salgueiro 30–3 andar",
+        "1250-044 Lisbon, Portugal",
+        "Tel Nos.: (+351) 216-083-274; 216-083-276; 216-083-277",
+        "Fax No.: (+351) 216-083-251",
+        "Duty Officer No.: (+351) 925-410-257",
+        "Hotline No.: (+351) 965-062-839 (ATN)",
+        "E-mail: lisbon.pe@dfa.gov.ph / lisbon.pe@gmail.com",
+        "Website: www.lisbonpe.dfa.gov.ph"
+      ],
+      "headOfPost": "H.E. (Mr.) Paul Raymund P. Cortes",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Rua Barata Salgueiro 30–3 andar",
+        "1250-044 Lisbon, Portugal"
+      ],
+      "contactLines": [
+        "Tel Nos.: (+351) 216-083-274; 216-083-276; 216-083-277",
+        "Fax No.: (+351) 216-083-251",
+        "Duty Officer No.: (+351) 925-410-257",
+        "Hotline No.: (+351) 965-062-839 (ATN)",
+        "E-mail: lisbon.pe@dfa.gov.ph / lisbon.pe@gmail.com",
+        "Website: www.lisbonpe.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-051",
+      "city": "Doha",
+      "country": "Qatar",
+      "longitude": 51.533,
+      "latitude": 25.2866,
+      "type": "Embassy",
+      "directoryTitle": "QATAR EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, DOHA",
+      "directoryLines": [
+        "H.E. (Mr.) Mardomel Celo D. Melicor",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "St. No. 549, Zone 66, Legtaifiya",
+        "Doha, State of Qatar",
+        "P.O. Box No. 24900",
+        "Telephone Nos.: (+974) 4483-1585",
+        "Ambassador’s Office: (+974) 4483-6871",
+        "Fax No.: (+974) 4483-1595",
+        "For consular and other matters.: (+974) 5527-5123",
+        "For assistance-to-nationals.: (+974) 6644-6303",
+        "Email: doha.pe@dfa.gov.ph",
+        "Website: www.dohape.dfa.gov.ph",
+        "Facebook: @PHinQatar"
+      ],
+      "headOfPost": "H.E. (Mr.) Mardomel Celo D. Melicor",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "St. No. 549, Zone 66, Legtaifiya",
+        "Doha, State of Qatar",
+        "P.O. Box No. 24900"
+      ],
+      "contactLines": [
+        "Telephone Nos.: (+974) 4483-1585",
+        "Ambassador’s Office: (+974) 4483-6871",
+        "Fax No.: (+974) 4483-1595",
+        "For consular and other matters.: (+974) 5527-5123",
+        "For assistance-to-nationals.: (+974) 6644-6303",
+        "Email: doha.pe@dfa.gov.ph",
+        "Website: www.dohape.dfa.gov.ph",
+        "Facebook: @PHinQatar"
+      ]
+    },
+    {
+      "id": "fsp-052",
+      "city": "Bucharest",
+      "country": "Romania",
+      "longitude": 26.098,
+      "latitude": 44.4353,
+      "type": "Embassy",
+      "directoryTitle": "ROMANIA EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, BUCHAREST",
+      "directoryLines": [
+        "H.E. (Mr.) Noel Eugene Eusebio M. Servigon",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "24th Floor, Skytower Bldg. Calea Floreasca 246C,",
+        "(Access from Barbu Vacarescu Blvd.), 014476",
+        "Bucharest, Romania",
+        "Contact Number : +40 (733) 486 145",
+        "Email Address : bucharest.pe@dfa.gov.ph",
+        "Telephone Numbers: +40 31 436 4091",
+        "+40 31 436 4092",
+        "Hotline Mobile Phone: +40 733 486 145"
+      ],
+      "headOfPost": "H.E. (Mr.) Noel Eugene Eusebio M. Servigon",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "24th Floor, Skytower Bldg. Calea Floreasca 246C,",
+        "(Access from Barbu Vacarescu Blvd.), 014476",
+        "Bucharest, Romania",
+        "Contact Number : +40 (733) 486 145"
+      ],
+      "contactLines": [
+        "Email Address : bucharest.pe@dfa.gov.ph",
+        "Telephone Numbers: +40 31 436 4091",
+        "+40 31 436 4092",
+        "Hotline Mobile Phone: +40 733 486 145"
+      ]
+    },
+    {
+      "id": "fsp-053",
+      "city": "Moscow",
+      "country": "Russia",
+      "longitude": 37.6136,
+      "latitude": 55.7541,
+      "type": "Embassy",
+      "directoryTitle": "RUSSIA EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, MOSCOW",
+      "directoryLines": [
+        "H.E. (Mr.) Igor G. Bailen",
+        "Ambassador Extraordinary and Plenipotentiary and Non-Resident AEP",
+        "to Armenia, Belarus and Kazakhstan",
+        "Karmanitsky Pereulok 8,",
+        "Building 1, 121099",
+        "Moscow, Russian Federation",
+        "Fax No.: (+7-499) 241-2630",
+        "Hotline No.: (+7-906) 7382-538 (ATN) / (+7-905) 5438-824 (Consular)",
+        "Email: moscow.pe@dfa.gov.ph",
+        "Website: www.moscowpe.dfa.gov.ph",
+        "Facebook: Philembassy Moscow"
+      ],
+      "headOfPost": "H.E. (Mr.) Igor G. Bailen",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary and Non-Resident AEP",
+      "addressLines": [
+        "to Armenia, Belarus and Kazakhstan",
+        "Karmanitsky Pereulok 8,",
+        "Building 1, 121099",
+        "Moscow, Russian Federation"
+      ],
+      "contactLines": [
+        "Fax No.: (+7-499) 241-2630",
+        "Hotline No.: (+7-906) 7382-538 (ATN) / (+7-905) 5438-824 (Consular)",
+        "Email: moscow.pe@dfa.gov.ph",
+        "Website: www.moscowpe.dfa.gov.ph",
+        "Facebook: Philembassy Moscow"
+      ]
+    },
+    {
+      "id": "fsp-054",
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "longitude": 46.7205,
+      "latitude": 24.6345,
+      "type": "Embassy",
+      "directoryTitle": "SAUDI ARABIA EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, RIYADH",
+      "directoryLines": [
+        "H.E. (Mr.) Raymond R. Balatbat",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "P.O. Box 94366",
+        "3479 Arradaef street – As Safarat",
+        "Riyadh 12512-7474",
+        "Kingdom of Saudi Arabia",
+        "Assistance to Nationals : (+966) 56 989 3301 / VOIP: 7316",
+        "MWO-Riyadh : (+966) 50 285 0944",
+        "MWO-ERO : (+966) 56 232 9926",
+        "Honorary Consul (Yemen) : (+967) 77 725 5511",
+        "Email: riyadh.pe@dfa.gov.ph",
+        "Website: www.riyadhpe.dfa.gov.ph",
+        "Facebook: @PHLinKSA"
+      ],
+      "headOfPost": "H.E. (Mr.) Raymond R. Balatbat",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "P.O. Box 94366",
+        "3479 Arradaef street – As Safarat",
+        "Riyadh 12512-7474",
+        "Kingdom of Saudi Arabia",
+        "Assistance to Nationals : (+966) 56 989 3301 / VOIP: 7316",
+        "MWO-Riyadh : (+966) 50 285 0944",
+        "MWO-ERO : (+966) 56 232 9926",
+        "Honorary Consul (Yemen) : (+967) 77 725 5511"
+      ],
+      "contactLines": [
+        "Email: riyadh.pe@dfa.gov.ph",
+        "Website: www.riyadhpe.dfa.gov.ph",
+        "Facebook: @PHLinKSA"
+      ]
+    },
+    {
+      "id": "fsp-055",
+      "city": "Singapore",
+      "country": "Singapore",
+      "longitude": 103.8539,
+      "latitude": 1.295,
+      "type": "Embassy",
+      "directoryTitle": "SINGAPORE EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, SINGAPORE",
+      "directoryLines": [
+        "H.E. (Mr.) Medardo Antonio G. Macaraig",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "20 Nassim Road, Singapore 258395",
+        "Tel. No.: (+65) 6737-3977",
+        "Ambassador: (+65) 6506-0542",
+        "Consul General: (+65) 6506-0543",
+        "Administrative Section: (+65) 8858-5444",
+        "Consular Section: (+65) 6924-7596; (+65) 8766-0151",
+        "Fax No.: (+65) 6733-9544",
+        "ATN No.: (+65) 6506-0545",
+        "Email: singapore.pe@dfa.gov.ph / php@philembassysg.org",
+        "Website: www.philippine-embassy.org.sg",
+        "Facebook: @PHinSingapore"
+      ],
+      "headOfPost": "H.E. (Mr.) Medardo Antonio G. Macaraig",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "20 Nassim Road, Singapore 258395"
+      ],
+      "contactLines": [
+        "Tel. No.: (+65) 6737-3977",
+        "Ambassador: (+65) 6506-0542",
+        "Consul General: (+65) 6506-0543",
+        "Administrative Section: (+65) 8858-5444",
+        "Consular Section: (+65) 6924-7596; (+65) 8766-0151",
+        "Fax No.: (+65) 6733-9544",
+        "ATN No.: (+65) 6506-0545",
+        "Email: singapore.pe@dfa.gov.ph / php@philembassysg.org",
+        "Website: www.philippine-embassy.org.sg",
+        "Facebook: @PHinSingapore"
+      ]
+    },
+    {
+      "id": "fsp-056",
+      "city": "Pretoria",
+      "country": "South Africa",
+      "longitude": 28.2275,
+      "latitude": -25.705,
+      "type": "Embassy",
+      "directoryTitle": "SOUTH AFRICA EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, PRETORIA",
+      "directoryLines": [
+        "H.E. (Ms.) Myla Grace Ragenia C. Macahilig",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "1F Bldg. B, OMK House, 238 Florence Ribeiro Avenue, Nieuw",
+        "Muckleneuk, Pretoria, South Africa",
+        "P.O. Box 2562, Brooklyn Square 0075, Pretoria, South Africa",
+        "Tel. Nos.: (+27) 12 346-0451;",
+        "Consular Section Nos.: (+27) 12 346-2468; (+27) 72 437-9517",
+        "ATN Direct Line: (+27) 12 346-0454; 82 556-9935 (Duty Officer)",
+        "Email: pretoria.pe@dfa.gov.ph",
+        "Other E-mail Addresses: pretoriape.consular@dfa.gov.ph",
+        "pretoriape.atn@dfa.gov.ph",
+        "Website: www.pretoriape.dfa.gov.ph"
+      ],
+      "headOfPost": "H.E. (Ms.) Myla Grace Ragenia C. Macahilig",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "1F Bldg. B, OMK House, 238 Florence Ribeiro Avenue, Nieuw",
+        "Muckleneuk, Pretoria, South Africa",
+        "P.O. Box 2562, Brooklyn Square 0075, Pretoria, South Africa"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+27) 12 346-0451;",
+        "Consular Section Nos.: (+27) 12 346-2468; (+27) 72 437-9517",
+        "ATN Direct Line: (+27) 12 346-0454; 82 556-9935 (Duty Officer)",
+        "Email: pretoria.pe@dfa.gov.ph",
+        "Other E-mail Addresses: pretoriape.consular@dfa.gov.ph",
+        "pretoriape.atn@dfa.gov.ph",
+        "Website: www.pretoriape.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-057",
+      "city": "Madrid",
+      "country": "Spain",
+      "longitude": -3.6853,
+      "latitude": 40.402,
+      "type": "Embassy",
+      "directoryTitle": "SPAIN EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, MADRID",
+      "directoryLines": [
+        "H.E. (Mr.) Philippe J. Lhuillier",
+        "Ambassador Extraordinary and Plenipotentiary and Permanent",
+        "Representative to the UNTC",
+        "Calle Eresma 2, 28002 Madrid, Spain (Chancery)",
+        "Calle Guadalquivir 6, 28002 Madrid, Spain (Consular Section)",
+        "Tel. No.: (+34) 917-823-830",
+        "Fax No.: (+34) 914-116-606",
+        "Consular Tel. No.: (+34) 917-823-836; 917-451-734",
+        "Duty Phone No.: (+34) 616-491-861",
+        "Email: madrid.pe@dfa.gov.ph",
+        "Consular: madridpe.consular@dfa.gov.ph / madridpe.visa@dfa.gov.ph",
+        "madridpe.atn@dfa.gov.ph",
+        "Website: www.madripe.dfa.gov.ph / www.philembassymadrid.com",
+        "Facebook: @PHinSpain"
+      ],
+      "headOfPost": "H.E. (Mr.) Philippe J. Lhuillier",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary and Permanent Representative to the UNTC",
+      "addressLines": [
+        "Calle Eresma 2, 28002 Madrid, Spain (Chancery)",
+        "Calle Guadalquivir 6, 28002 Madrid, Spain (Consular Section)"
+      ],
+      "contactLines": [
+        "Tel. No.: (+34) 917-823-830",
+        "Fax No.: (+34) 914-116-606",
+        "Consular Tel. No.: (+34) 917-823-836; 917-451-734",
+        "Duty Phone No.: (+34) 616-491-861",
+        "Email: madrid.pe@dfa.gov.ph",
+        "Consular: madridpe.consular@dfa.gov.ph / madridpe.visa@dfa.gov.ph",
+        "madridpe.atn@dfa.gov.ph",
+        "Website: www.madripe.dfa.gov.ph / www.philembassymadrid.com",
+        "Facebook: @PHinSpain"
+      ]
+    },
+    {
+      "id": "fsp-058",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "longitude": 18.0663,
+      "latitude": 59.3241,
+      "type": "Embassy",
+      "directoryTitle": "SWEDEN EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, STOCKHOLM",
+      "directoryLines": [
+        "H.E. (Mr.) Patrick A. Chuasoto",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Grenstigen 2A, 181 31 Lidingö, Sweden",
+        "Tel. No.: +46 84 001 4730",
+        "Hotline No.: +46 70 847 4780",
+        "Email: stockholm.pe@dfa.gov.ph",
+        "Consular Email: phinsweden@gmail.com",
+        "Website: https://stockholmpe.dfa.gov.ph"
+      ],
+      "headOfPost": "H.E. (Mr.) Patrick A. Chuasoto",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Grenstigen 2A, 181 31 Lidingö, Sweden"
+      ],
+      "contactLines": [
+        "Tel. No.: +46 84 001 4730",
+        "Hotline No.: +46 70 847 4780",
+        "Email: stockholm.pe@dfa.gov.ph",
+        "Consular Email: phinsweden@gmail.com",
+        "Website: https://stockholmpe.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-059",
+      "city": "Bern",
+      "country": "Switzerland",
+      "longitude": 7.467,
+      "latitude": 46.9167,
+      "type": "Embassy",
+      "directoryTitle": "SWITZERLAND EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, BERNE",
+      "directoryLines": [
+        "H.E. (Mr.) Bernard Faustino M. Dy",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Kirchenfeldstrasse 73-75",
+        "3005 Berne, Switzerland",
+        "Trunkline: (+41-31) 350-1700",
+        "Duty Officer No.: (+41-79) 542-1992",
+        "Passport / RA 9225 Citizenship: (+41-31) 350-1717",
+        "Visa / Civil Registry: (+41-31) 350-1716",
+        "ATN: (+41-31) 350-1718",
+        "Notarials/Authentication (+41-31) 350-1719",
+        "Email: berne.pe@dfa.gov.ph",
+        "Website: www.bernepe.dfa.gov.ph",
+        "Facebook: @PHinSwitzerland"
+      ],
+      "headOfPost": "H.E. (Mr.) Bernard Faustino M. Dy",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Kirchenfeldstrasse 73-75",
+        "3005 Berne, Switzerland"
+      ],
+      "contactLines": [
+        "Trunkline: (+41-31) 350-1700",
+        "Duty Officer No.: (+41-79) 542-1992",
+        "Passport / RA 9225 Citizenship: (+41-31) 350-1717",
+        "Visa / Civil Registry: (+41-31) 350-1716",
+        "ATN: (+41-31) 350-1718",
+        "Notarials/Authentication (+41-31) 350-1719",
+        "Email: berne.pe@dfa.gov.ph",
+        "Website: www.bernepe.dfa.gov.ph",
+        "Facebook: @PHinSwitzerland"
+      ]
+    },
+    {
+      "id": "fsp-060",
+      "city": "Damascus",
+      "country": "Syria",
+      "longitude": 36.2981,
+      "latitude": 33.502,
+      "type": "Embassy",
+      "directoryTitle": "SYRIA EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, DAMASCUS",
+      "directoryLines": [
+        "(Mr.) John G. Reyes",
+        "Chargé d' Affaires, en pied",
+        "Hamzeh lbn Abdul Mutaleb St., Building No. 56",
+        "West Mezzeh Area, Damascus",
+        "Syrian Arab Republic",
+        "Tel. No.: (+963-11) 613-2626",
+        "Fax No. : (+963-11) 611-0152",
+        "ATN Hotline : +963 949 155 567",
+        "Consular Hotline : (+963) 949 155 557",
+        "Email: pe.damascus@gmail.com",
+        "Website: www.damascuspe.dfa.gov.ph",
+        "Facebook:https://www.facebook.com/PHinSyria"
+      ],
+      "headOfPost": "(Mr.) John G. Reyes",
+      "headTitle": "Chargé d' Affaires, en pied",
+      "addressLines": [
+        "Hamzeh lbn Abdul Mutaleb St., Building No. 56",
+        "West Mezzeh Area, Damascus",
+        "Syrian Arab Republic"
+      ],
+      "contactLines": [
+        "Tel. No.: (+963-11) 613-2626",
+        "Fax No. : (+963-11) 611-0152",
+        "ATN Hotline : +963 949 155 567",
+        "Consular Hotline : (+963) 949 155 557",
+        "Email: pe.damascus@gmail.com",
+        "Website: www.damascuspe.dfa.gov.ph",
+        "Facebook:https://www.facebook.com/PHinSyria"
+      ]
+    },
+    {
+      "id": "fsp-061",
+      "city": "Dili",
+      "country": "Timor-Leste",
+      "longitude": 125.5795,
+      "latitude": -8.5594,
+      "type": "Embassy",
+      "directoryTitle": "TIMOR LESTE EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, DILI",
+      "directoryLines": [
+        "H.E. (Ms.) Mary Anne A. Padua",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Rua Governor Serpa Rosa, Bairro, Farol",
+        "Dili, Timor-Leste",
+        "P.O. Box 178",
+        "Tel. Nos.: (+670) 331-0407",
+        "Hotline No.: (+670) 7792-8092",
+        "Email: dili.pe@dfa.gov.ph",
+        "Website: www.dilipe.dfa.gov.ph"
+      ],
+      "headOfPost": "H.E. (Ms.) Mary Anne A. Padua",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Rua Governor Serpa Rosa, Bairro, Farol",
+        "Dili, Timor-Leste",
+        "P.O. Box 178"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+670) 331-0407",
+        "Hotline No.: (+670) 7792-8092",
+        "Email: dili.pe@dfa.gov.ph",
+        "Website: www.dilipe.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-062",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "longitude": 100.5147,
+      "latitude": 13.7519,
+      "type": "Embassy",
+      "directoryTitle": "THAILAND EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, BANGKOK",
+      "directoryLines": [
+        "H.E. (Ms.) Millicent Cruz-Paredes",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "760 Sukhumvit Road corner Soi Philippines (Soi 30/1)",
+        "Bangkok 10110, Kingdom of Thailand",
+        "Tel. Nos.: (+662) 259-0139 to 40; 258-5401; 260-5515",
+        "Fax Nos.: (+662) 259-2809",
+        "Line No.: (+662) 259-7373",
+        "Consular: (+662) 259-1789",
+        "Office of the Ambassador’s Direct Line No.: (+662) 259-9797",
+        "Duty Officer: (+668) 992-65954",
+        "ATN: (+66) 81-989-7116",
+        "Email: bangkok.pe@dfa.gov.ph / bangkokpe.consular@dfa.gov.ph",
+        "Website: www.bangkokpe.dfa.gov.ph",
+        "Facebook: @PHinThailand"
+      ],
+      "headOfPost": "H.E. (Ms.) Millicent Cruz-Paredes",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "760 Sukhumvit Road corner Soi Philippines (Soi 30/1)",
+        "Bangkok 10110, Kingdom of Thailand"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+662) 259-0139 to 40; 258-5401; 260-5515",
+        "Fax Nos.: (+662) 259-2809",
+        "Line No.: (+662) 259-7373",
+        "Consular: (+662) 259-1789",
+        "Office of the Ambassador’s Direct Line No.: (+662) 259-9797",
+        "Duty Officer: (+668) 992-65954",
+        "ATN: (+66) 81-989-7116",
+        "Email: bangkok.pe@dfa.gov.ph / bangkokpe.consular@dfa.gov.ph",
+        "Website: www.bangkokpe.dfa.gov.ph",
+        "Facebook: @PHinThailand"
+      ]
+    },
+    {
+      "id": "fsp-063",
+      "city": "Ankara",
+      "country": "Türkiye",
+      "longitude": 32.8624,
+      "latitude": 39.9292,
+      "type": "Embassy",
+      "directoryTitle": "TÜRKIYE EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, ANKARA",
+      "directoryLines": [
+        "H.E. (Mr.) Jaime Ramon T. Ascalon, Jr.",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Kazım Özalp Mahallesi, Kumkapı Sokak No. 36, Çankaya 06700 Ankara,",
+        "Türkiye",
+        "Tel. Nos.: (+90-312) 442-3824; 442-3827",
+        "Fax No.: (+90-312) 442-3856",
+        "Consular Section : (+90-312) 4423-825",
+        "Emergency Hotline No.: (+90) 537- 577-2344",
+        "Email: ankara.pe@dfa.gov.ph / ankarape.consular@dfa.gov.ph",
+        "Website: www.ankarape.dfa.gov.ph",
+        "Facebook: @PHinTurkey"
+      ],
+      "headOfPost": "H.E. (Mr.) Jaime Ramon T. Ascalon, Jr.",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Kazım Özalp Mahallesi, Kumkapı Sokak No. 36, Çankaya 06700 Ankara,",
+        "Türkiye"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+90-312) 442-3824; 442-3827",
+        "Fax No.: (+90-312) 442-3856",
+        "Consular Section : (+90-312) 4423-825",
+        "Emergency Hotline No.: (+90) 537- 577-2344",
+        "Email: ankara.pe@dfa.gov.ph / ankarape.consular@dfa.gov.ph",
+        "Website: www.ankarape.dfa.gov.ph",
+        "Facebook: @PHinTurkey"
+      ]
+    },
+    {
+      "id": "fsp-064",
+      "city": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "longitude": 54.3666,
+      "latitude": 24.4667,
+      "type": "Embassy",
+      "directoryTitle": "UNITED ARAB EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, ABU DHABI",
+      "directoryLines": [
+        "EMIRATES H.E. (Mr.) Alfonso Ferdinand A. Ver",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Villa 1, W-48, Street #8, Sector 2-23, Plot 51",
+        "P.O. Box 3215, Al Qubaisat, Abu Dhabi",
+        "United Arab Emirates",
+        "ATN Nos: (+971) 50 443 8003;",
+        "(+971) 56 147 5871;",
+        "(+971) 56 236 8406;",
+        "Duty Phone: (+971) 50-813-7836",
+        "Email: auhpe@philembassy.ae",
+        "Website: www.abudhabipe.dfa.gov.ph",
+        "Facebook: @PHinUAE"
+      ],
+      "headOfPost": "H.E. (Mr.) Alfonso Ferdinand A. Ver",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Villa 1, W-48, Street #8, Sector 2-23, Plot 51",
+        "P.O. Box 3215, Al Qubaisat, Abu Dhabi",
+        "United Arab Emirates"
+      ],
+      "contactLines": [
+        "ATN Nos: (+971) 50 443 8003;",
+        "(+971) 56 147 5871;",
+        "(+971) 56 236 8406;",
+        "Duty Phone: (+971) 50-813-7836",
+        "Email: auhpe@philembassy.ae",
+        "Website: www.abudhabipe.dfa.gov.ph",
+        "Facebook: @PHinUAE"
+      ]
+    },
+    {
+      "id": "fsp-065",
+      "city": "London",
+      "country": "United Kingdom",
+      "longitude": -0.1187,
+      "latitude": 51.5019,
+      "type": "Embassy",
+      "directoryTitle": "UNITED KINGDOM EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, LONDON",
+      "directoryLines": [
+        "H.E. (Mr.) Teodoro L. Locsin, Jr.",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "6-11 Suffolk Street, London SW1Y 4HG",
+        "United Kingdom of Great Britain",
+        "Tel. No.: (+44) 20-7451-1780",
+        "Fax No.: (+44) 20-7451-1840",
+        "Emergency No.: (+44) 78-0279-0695",
+        "Email: london.pe@dfa.gov.ph / embassy@philemb.co.uk",
+        "Website: www.londonpe.dfa.gov.ph"
+      ],
+      "headOfPost": "H.E. (Mr.) Teodoro L. Locsin, Jr.",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "6-11 Suffolk Street, London SW1Y 4HG",
+        "United Kingdom of Great Britain"
+      ],
+      "contactLines": [
+        "Tel. No.: (+44) 20-7451-1780",
+        "Fax No.: (+44) 20-7451-1840",
+        "Emergency No.: (+44) 78-0279-0695",
+        "Email: london.pe@dfa.gov.ph / embassy@philemb.co.uk",
+        "Website: www.londonpe.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-066",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "longitude": -77.0114,
+      "latitude": 38.9015,
+      "type": "Embassy",
+      "directoryTitle": "UNITED STATES EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, WASHINGTON D.C.",
+      "directoryLines": [
+        "OF AMERICA H.E. (Mr.) Jose Manuel G. Romualdez",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "1600 Massachusetts Avenue NW,",
+        "Washington, D.C. 20036, U.S.A.",
+        "Tel. Nos.: (202) 467-9300; 467-9363",
+        "Fax No.: (202) 467-9417; 328-7614",
+        "Duty Officer No.: (202) 368-2767",
+        "ATN: (202) 769-8049",
+        "Email: washington.pe@dfa.gov.ph",
+        "consular@phembassy-us.org (Consular Section)",
+        "Website: www.philippineembassy-dc.org"
+      ],
+      "headOfPost": "H.E. (Mr.) Jose Manuel G. Romualdez",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "1600 Massachusetts Avenue NW,",
+        "Washington, D.C. 20036, U.S.A."
+      ],
+      "contactLines": [
+        "Tel. Nos.: (202) 467-9300; 467-9363",
+        "Fax No.: (202) 467-9417; 328-7614",
+        "Duty Officer No.: (202) 368-2767",
+        "ATN: (202) 769-8049",
+        "Email: washington.pe@dfa.gov.ph",
+        "consular@phembassy-us.org (Consular Section)",
+        "Website: www.philippineembassy-dc.org"
+      ]
+    },
+    {
+      "id": "fsp-067",
+      "city": "Vatican City",
+      "country": "Vatican",
+      "longitude": 12.4534,
+      "latitude": 41.9033,
+      "type": "Embassy",
+      "directoryTitle": "VATICAN EMBASSY OF THE REPUBLIC OF THE PHILIPPINES, VATICAN",
+      "directoryLines": [
+        "H.E. (Mr.) Raphael Perpetuo M. Lotilla",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "Via Paolo VI, 29, 00193",
+        "Rome, Italy",
+        "Tel. No.: (+39-06) 6830-8020; (06) 6830-3205",
+        "Email: vatican.pe@dfa.gov.ph / pe.holysee@gmail.com"
+      ],
+      "headOfPost": "H.E. (Mr.) Raphael Perpetuo M. Lotilla",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "Via Paolo VI, 29, 00193",
+        "Rome, Italy"
+      ],
+      "contactLines": [
+        "Tel. No.: (+39-06) 6830-8020; (06) 6830-3205",
+        "Email: vatican.pe@dfa.gov.ph / pe.holysee@gmail.com"
+      ]
+    },
+    {
+      "id": "fsp-068",
+      "city": "Hanoi",
+      "country": "Vietnam",
+      "longitude": 105.8481,
+      "latitude": 21.0353,
+      "type": "Embassy",
+      "directoryTitle": "VIETNAM EMBASSY OF THE REPUBLIC PHILIPPINES, HANOI",
+      "directoryLines": [
+        "H.E. (Mr.) Francisco Noel R. Fernandez III",
+        "Ambassador Extraordinary and Plenipotentiary",
+        "27B Tran Hung Dao Street, Cua Nam Ward, Hanoi City",
+        "Socialist Republic of Vietnam",
+        "Tel. Nos.: (84-24) 3943 7873",
+        "Fax No.: (84-24) 3943 5760",
+        "Duty Officer No.: (+8490) 412-6164",
+        "ATN: (+84-76) 626-0992",
+        "Email: hanoi.pe@dfa.gov.ph / hanoipe1977@gmail.com",
+        "Website: www.hanoipe.dfa.gov.ph",
+        "Facebook: @PHinVietnam"
+      ],
+      "headOfPost": "H.E. (Mr.) Francisco Noel R. Fernandez III",
+      "headTitle": "Ambassador Extraordinary and Plenipotentiary",
+      "addressLines": [
+        "27B Tran Hung Dao Street, Cua Nam Ward, Hanoi City",
+        "Socialist Republic of Vietnam"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (84-24) 3943 7873",
+        "Fax No.: (84-24) 3943 5760",
+        "Duty Officer No.: (+8490) 412-6164",
+        "ATN: (+84-76) 626-0992",
+        "Email: hanoi.pe@dfa.gov.ph / hanoipe1977@gmail.com",
+        "Website: www.hanoipe.dfa.gov.ph",
+        "Facebook: @PHinVietnam"
+      ]
+    },
+    {
+      "id": "fsp-069",
+      "city": "Melbourne",
+      "country": "Australia",
+      "longitude": 144.9731,
+      "latitude": -37.8181,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, MELBOURNE",
+      "directoryLines": [
+        "Hon. (Mr.) Jesus S. Domingo",
+        "Consul General",
+        "Level 10, 257 Collins Street",
+        "Melbourne, VIC 3000",
+        "Tel. No.: +61 (3) 7023 7032",
+        "Emergency No.: +61 427 56 1217",
+        "Email: melbourne.pcg@dfa.gov.ph",
+        "melbournepcg.consular@dfa.gov.ph",
+        "Website: https://melbournepcg.dfa.gov.ph"
+      ],
+      "headOfPost": "Hon. (Mr.) Jesus S. Domingo",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "Level 10, 257 Collins Street",
+        "Melbourne, VIC 3000"
+      ],
+      "contactLines": [
+        "Tel. No.: +61 (3) 7023 7032",
+        "Emergency No.: +61 427 56 1217",
+        "Email: melbourne.pcg@dfa.gov.ph",
+        "melbournepcg.consular@dfa.gov.ph",
+        "Website: https://melbournepcg.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-070",
+      "city": "Sydney",
+      "country": "Australia",
+      "longitude": 151.2125,
+      "latitude": -33.8714,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, SYDNEY",
+      "directoryLines": [
+        "(Hon. (Ms.) Greg Marie C. Mariño",
+        "Consul General",
+        "Philippine Centre, Level 1",
+        "27-33 Wentworth Avenue, Sydney NSW 2000",
+        "Tel. No.: (+61-2) 9262-7377",
+        "Fax No.: (+61-2) 9262-7355",
+        "Emergency No.: (+61) 415-426400 (Consular)",
+        "(+61) 481-728027 (ATN)",
+        "Email: sydney.pcg@dfa.gov.ph",
+        "Website: www.sydneypcg.org"
+      ],
+      "headOfPost": "(Hon. (Ms.) Greg Marie C. Mariño",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "Philippine Centre, Level 1",
+        "27-33 Wentworth Avenue, Sydney NSW 2000"
+      ],
+      "contactLines": [
+        "Tel. No.: (+61-2) 9262-7377",
+        "Fax No.: (+61-2) 9262-7355",
+        "Emergency No.: (+61) 415-426400 (Consular)",
+        "(+61) 481-728027 (ATN)",
+        "Email: sydney.pcg@dfa.gov.ph",
+        "Website: www.sydneypcg.org"
+      ]
+    },
+    {
+      "id": "fsp-071",
+      "city": "Calgary",
+      "country": "Canada",
+      "longitude": -114.0819,
+      "latitude": 51.0849,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, CALGARY",
+      "directoryLines": [
+        "Hon. (Mr.) Emma R. Sarne",
+        "Consul General",
+        "Suite # 100-1001- 1st St SE, Calgary, Alberta T2G 5G3",
+        "Telephone numbers :",
+        "Trunk Line: (+1) 403-455-9457",
+        "Duty Phone : (+1) 587-572-4996",
+        "ATN : (+1) 587-577-1524",
+        "Website: www.philcongencalgary.org",
+        "Official Email Address: calgary.pcg@dfa.gov.ph",
+        "Consular: calgarypcg.consular@dfa.gov.ph",
+        "ATN: calgarypcg.atn@dfa.gov.ph",
+        "Cultural: calgarypcg.cultural@dfa.gov.ph"
+      ],
+      "headOfPost": "Hon. (Mr.) Emma R. Sarne",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "Suite # 100-1001- 1st St SE, Calgary, Alberta T2G 5G3"
+      ],
+      "contactLines": [
+        "Telephone numbers :",
+        "Trunk Line: (+1) 403-455-9457",
+        "Duty Phone : (+1) 587-572-4996",
+        "ATN : (+1) 587-577-1524",
+        "Website: www.philcongencalgary.org",
+        "Official Email Address: calgary.pcg@dfa.gov.ph",
+        "Consular: calgarypcg.consular@dfa.gov.ph",
+        "ATN: calgarypcg.atn@dfa.gov.ph",
+        "Cultural: calgarypcg.cultural@dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-072",
+      "city": "Toronto",
+      "country": "Canada",
+      "longitude": -79.3895,
+      "latitude": 43.6646,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, TORONTO",
+      "directoryLines": [
+        "Hon. (Ms.) Kristine Leilani R. Salle",
+        "Consul General",
+        "7th Floor, 160 Eglinton Avenue East",
+        "Toronto, Ontario M4P 3B5, Canada",
+        "Tel. Nos.: (+1-416) 922-7181",
+        "Fax No.: (+1-416) 922-2638",
+        "Office of the Consul General: (+1-416) 355-2782",
+        "Emergency No.: (+1-416) 346-3268",
+        "Email: toronto.pcg@dfa.gov.ph",
+        "consularmatters@philcongen-toronto.com",
+        "Website: www.torontopcg.dfa.gov.ph / www.philcongen-toronto.com",
+        "Facebook: @PHinToronto"
+      ],
+      "headOfPost": "Hon. (Ms.) Kristine Leilani R. Salle",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "7th Floor, 160 Eglinton Avenue East",
+        "Toronto, Ontario M4P 3B5, Canada"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+1-416) 922-7181",
+        "Fax No.: (+1-416) 922-2638",
+        "Office of the Consul General: (+1-416) 355-2782",
+        "Emergency No.: (+1-416) 346-3268",
+        "Email: toronto.pcg@dfa.gov.ph",
+        "consularmatters@philcongen-toronto.com",
+        "Website: www.torontopcg.dfa.gov.ph / www.philcongen-toronto.com",
+        "Facebook: @PHinToronto"
+      ]
+    },
+    {
+      "id": "fsp-073",
+      "city": "Vancouver",
+      "country": "Canada",
+      "longitude": -123.1236,
+      "latitude": 49.2754,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, VANCOUVER",
+      "directoryLines": [
+        "Hon. (Ms.) Gina A. Jamoralin",
+        "Consul General",
+        "Suite 660, 999 Canada Place",
+        "Vancouver, B.C. V6C 3E1, Canada",
+        "Tel. Nos.: (+1-604) 685-1619; 685-7645; 685-8576",
+        "Fax No.: (+1-604) 685-9945",
+        "Direct Line: +1 (604) 685-8939",
+        "ATN/Duty Officer No.: (+1-604) 653-5858",
+        "Email : vancouver.pcg@dfa.gov.ph / vancouverpcg@telus.net",
+        "Website: www.vancouverpcg.org",
+        "Facebook: @PHinVancouver"
+      ],
+      "headOfPost": "Hon. (Ms.) Gina A. Jamoralin",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "Suite 660, 999 Canada Place",
+        "Vancouver, B.C. V6C 3E1, Canada"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+1-604) 685-1619; 685-7645; 685-8576",
+        "Fax No.: (+1-604) 685-9945",
+        "Direct Line: +1 (604) 685-8939",
+        "ATN/Duty Officer No.: (+1-604) 653-5858",
+        "Email : vancouver.pcg@dfa.gov.ph / vancouverpcg@telus.net",
+        "Website: www.vancouverpcg.org",
+        "Facebook: @PHinVancouver"
+      ]
+    },
+    {
+      "id": "fsp-074",
+      "city": "Chongqing",
+      "country": "China",
+      "longitude": 106.593,
+      "latitude": 29.5669,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, CHONGQING",
+      "directoryLines": [
+        "Hon. (Mr.) Ivan Frank M.Olea",
+        "Consul General",
+        "Units 2202-2203, 22nd Floor Chongqing World Financial Center (WFC)",
+        "No. 188 Minzu Rd., Jiefangbei, Yuzhong District, Chongqing, 400010",
+        "People's Republic of China",
+        "Tel. Nos.: (+86-23) 6381-0832; 6380-9532",
+        "Telefax No.: (+86-23) 6372-9809",
+        "Hotline Nos.: (+86) 1361-7678-321; (+86) 1582-3972-513 (ATN)",
+        "(+86) 1580-8057-032 (Duty Officer)",
+        "Email: chongqing.pcg@dfa.gov.ph / chongqingpcg@gmail.com",
+        "Website: www.chongqingpcg.dfa.gov.ph"
+      ],
+      "headOfPost": "Hon. (Mr.) Ivan Frank M.Olea",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "Units 2202-2203, 22nd Floor Chongqing World Financial Center (WFC)",
+        "No. 188 Minzu Rd., Jiefangbei, Yuzhong District, Chongqing, 400010",
+        "People's Republic of China"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+86-23) 6381-0832; 6380-9532",
+        "Telefax No.: (+86-23) 6372-9809",
+        "Hotline Nos.: (+86) 1361-7678-321; (+86) 1582-3972-513 (ATN)",
+        "(+86) 1580-8057-032 (Duty Officer)",
+        "Email: chongqing.pcg@dfa.gov.ph / chongqingpcg@gmail.com",
+        "Website: www.chongqingpcg.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-075",
+      "city": "Guangzhou",
+      "country": "China",
+      "longitude": 113.2618,
+      "latitude": 23.1247,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, GUANGZHOU",
+      "directoryLines": [
+        "Hon. (Mr.) Iric C. Arribas",
+        "Consul General",
+        "Room Nos. 706-712, Guangdong International Bldg.",
+        "339 Huanshi Dong Lu, Guangzhou, Guangdong, 510098",
+        "People’s Republic of China",
+        "Tel. Nos.: (0086-20) 8331-1461; 8331-0996",
+        "Fax No.: (0086-20) 8333-0573",
+        "Hotline Nos.: (0086) 1392-4099-636 (Duty Officer); (0086)",
+        "1357-0008-063 (ATN)",
+        "Email: guangzhou.pcg@dfa.gov.ph",
+        "Website: www.guangzhoupcg.dfa.gov.ph"
+      ],
+      "headOfPost": "Hon. (Mr.) Iric C. Arribas",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "Room Nos. 706-712, Guangdong International Bldg.",
+        "339 Huanshi Dong Lu, Guangzhou, Guangdong, 510098",
+        "People’s Republic of China"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (0086-20) 8331-1461; 8331-0996",
+        "Fax No.: (0086-20) 8333-0573",
+        "Hotline Nos.: (0086) 1392-4099-636 (Duty Officer); (0086)",
+        "1357-0008-063 (ATN)",
+        "Email: guangzhou.pcg@dfa.gov.ph",
+        "Website: www.guangzhoupcg.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-076",
+      "city": "Hong Kong",
+      "country": "Hong Kong",
+      "longitude": 114.1831,
+      "latitude": 22.3069,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, HONG KONG",
+      "directoryLines": [
+        "Hon. (Mr.) Romulo Victor M. Israel, Jr.",
+        "Consul General",
+        "14th Floor, United Centre Building, 95 Queensway, Admiralty",
+        "Hong Kong",
+        "Tel. No.: (+852) 2823-8501",
+        "Consul General Direct Line: (+852) 2866-9950",
+        "Fax Nos.: (+852) 2866-9885; 2866-8559",
+        "Duty Officer/Labor Hotline: (+852) 5529-1880",
+        "Duty Officer/ OWWA Hotline: (+852) 6345-9324",
+        "Duty Officer/Consular/ATN Hotline: (+852) 9155-4023",
+        "Email: hongkong.pcg@dfa.gov.ph / hongkongphilcongen@gmail.com",
+        "Website: www.hongkongpcg.dfa.gov.ph",
+        "Facebook: @PHLinHK"
+      ],
+      "headOfPost": "Hon. (Mr.) Romulo Victor M. Israel, Jr.",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "14th Floor, United Centre Building, 95 Queensway, Admiralty",
+        "Hong Kong"
+      ],
+      "contactLines": [
+        "Tel. No.: (+852) 2823-8501",
+        "Consul General Direct Line: (+852) 2866-9950",
+        "Fax Nos.: (+852) 2866-9885; 2866-8559",
+        "Duty Officer/Labor Hotline: (+852) 5529-1880",
+        "Duty Officer/ OWWA Hotline: (+852) 6345-9324",
+        "Duty Officer/Consular/ATN Hotline: (+852) 9155-4023",
+        "Email: hongkong.pcg@dfa.gov.ph / hongkongphilcongen@gmail.com",
+        "Website: www.hongkongpcg.dfa.gov.ph",
+        "Facebook: @PHLinHK"
+      ]
+    },
+    {
+      "id": "fsp-077",
+      "city": "Macau",
+      "country": "Macau",
+      "longitude": 113.5444,
+      "latitude": 22.1891,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, MACAU",
+      "directoryLines": [
+        "Hon. (Ms.) Edna May G. Lazaro",
+        "Consul General",
+        "Units C-J, 7th Floor, Praça Kin Heng Long",
+        "Alameda Dr. Carlos d'Assumpção",
+        "No. 258, Novos Aterros do Porto Exterior(NAPE)",
+        "Macau SAR",
+        "Trunk Line : (+853) 2875 7111",
+        "Direct Lines: (+853) 2875 7140 / (+853) 2875 7141",
+        "ATN Hotline : (+853) 6698 1900",
+        "Fax Number : (+853) 2875 7227",
+        "Migrant Workers Office Contact Nos.: (+853) 2871 5039",
+        "(+853) 6687 2509 (Mobile) / (+853) 6258 7887 (Mobile)",
+        "E-mail Address : macau.pcg@dfa.gov.ph",
+        "Website : https://macaupcg.dfa.gov.ph"
+      ],
+      "headOfPost": "Hon. (Ms.) Edna May G. Lazaro",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "Units C-J, 7th Floor, Praça Kin Heng Long",
+        "Alameda Dr. Carlos d'Assumpção",
+        "No. 258, Novos Aterros do Porto Exterior(NAPE)",
+        "Macau SAR",
+        "Trunk Line : (+853) 2875 7111",
+        "Direct Lines: (+853) 2875 7140 / (+853) 2875 7141"
+      ],
+      "contactLines": [
+        "ATN Hotline : (+853) 6698 1900",
+        "Fax Number : (+853) 2875 7227",
+        "Migrant Workers Office Contact Nos.: (+853) 2871 5039",
+        "(+853) 6687 2509 (Mobile) / (+853) 6258 7887 (Mobile)",
+        "E-mail Address : macau.pcg@dfa.gov.ph",
+        "Website : https://macaupcg.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-078",
+      "city": "Shanghai",
+      "country": "China",
+      "longitude": 121.4346,
+      "latitude": 31.2184,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, SHANGHAI",
+      "directoryLines": [
+        "Hon. (Ms.) Myca Magnolia M. Fischer",
+        "Consul General",
+        "Suite 301 Metrobank Plaza,",
+        "1160 West Yan’An Road, Changning District, Shanghai 200052",
+        "People’s Republic of China",
+        "Tel. No.: (+86-21) 6281-8020",
+        "Fax No.: (+86-21) 6281-8023",
+        "Hotline No.: (+86) 1391 747-7112",
+        "Email: shanghai.pcg@dfa.gov.ph /shanghai.pcg@hotmail.com",
+        "Website: www.shanghaipcg.dfa.gov.ph"
+      ],
+      "headOfPost": "Hon. (Ms.) Myca Magnolia M. Fischer",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "Suite 301 Metrobank Plaza,",
+        "1160 West Yan’An Road, Changning District, Shanghai 200052",
+        "People’s Republic of China"
+      ],
+      "contactLines": [
+        "Tel. No.: (+86-21) 6281-8020",
+        "Fax No.: (+86-21) 6281-8023",
+        "Hotline No.: (+86) 1391 747-7112",
+        "Email: shanghai.pcg@dfa.gov.ph /shanghai.pcg@hotmail.com",
+        "Website: www.shanghaipcg.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-079",
+      "city": "Xiamen",
+      "country": "China",
+      "longitude": 118.0781,
+      "latitude": 24.4519,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, XIAMEN",
+      "directoryLines": [
+        "Hon. (Mr.) Winston Dean S. Almeda",
+        "Consul General",
+        "No. 4 Consulate Road, Siming District,",
+        "Xiamen City 361008",
+        "People's Republic of China",
+        "Tel. Nos.: (+86-592) 513-0366; 513-0355",
+        "Fax No.: (+86-592) 553-0803",
+        "ATN Hotline No.: (+86) 1390-6036-614",
+        "Duty Officer No.: (+86) 1890-5921-595",
+        "Email: xiamen.pcg@dfa.gov.ph / xiamenpc@yahoo.com",
+        "Website: xiamenpcg.dfa.gov.ph"
+      ],
+      "headOfPost": "Hon. (Mr.) Winston Dean S. Almeda",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "No. 4 Consulate Road, Siming District,",
+        "Xiamen City 361008",
+        "People's Republic of China"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+86-592) 513-0366; 513-0355",
+        "Fax No.: (+86-592) 553-0803",
+        "ATN Hotline No.: (+86) 1390-6036-614",
+        "Duty Officer No.: (+86) 1890-5921-595",
+        "Email: xiamen.pcg@dfa.gov.ph / xiamenpc@yahoo.com",
+        "Website: xiamenpcg.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-080",
+      "city": "Frankfurt",
+      "country": "Germany",
+      "longitude": 8.6821,
+      "latitude": 50.1109,
+      "type": "Consulate General",
+      "directoryTitle": "CONSULATE GENERAL OF THE PHILIPPINES, FRANKFURT",
+      "directoryLines": [
+        "Hon. (Ms.) Marie Yvette L. Banzon-Abalos",
+        "Consul General",
+        "Gruneburgweg 16-18, 1st Floor",
+        "60322 Frankfurt Am Main, Germany",
+        "Tel. No.: (+49) 69870066900",
+        "Hotline No.: (+49) 15162487425",
+        "ATN No.: (+49) 15153546841",
+        "Website: https://frankfurtpcg.de/ | https://frankfurtpcg.dfa.gov.ph",
+        "Email: frankfurt.pcg@dfa.gov.ph (primary)",
+        "frankfurtpcg2018@gmail.com (secondary)",
+        "frankfurtpcg.consular@dfa.gov.ph (consular matters)"
+      ],
+      "headOfPost": "Hon. (Ms.) Marie Yvette L. Banzon-Abalos",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "Gruneburgweg 16-18, 1st Floor",
+        "60322 Frankfurt Am Main, Germany"
+      ],
+      "contactLines": [
+        "Tel. No.: (+49) 69870066900",
+        "Hotline No.: (+49) 15162487425",
+        "ATN No.: (+49) 15153546841",
+        "Website: https://frankfurtpcg.de/ | https://frankfurtpcg.dfa.gov.ph",
+        "Email: frankfurt.pcg@dfa.gov.ph (primary)",
+        "frankfurtpcg2018@gmail.com (secondary)",
+        "frankfurtpcg.consular@dfa.gov.ph (consular matters)"
+      ]
+    },
+    {
+      "id": "fsp-081",
+      "city": "Manado",
+      "country": "Indonesia",
+      "longitude": 124.85,
+      "latitude": 1.48,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, MANADO",
+      "directoryLines": [
+        "Hon. (Ms.) Mary Jennifer D. Dingal",
+        "Consul General",
+        "Jalan 17 Augustus No. 30A, Tanjung Batu, Wanea Manado",
+        "North Sulawesi, Indonesia 95119",
+        "Assistance to National: (+62) 811-431-130",
+        "Duty Officer: (+62) 811-432-1132",
+        "Email : manado.pcg@dfa.gov.ph / fsp.manadopcg@gmail.com",
+        "consular.manadopcg@gmail.com",
+        "Website: www.manadopcg.dfa.gov.ph"
+      ],
+      "headOfPost": "Hon. (Ms.) Mary Jennifer D. Dingal",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "Jalan 17 Augustus No. 30A, Tanjung Batu, Wanea Manado",
+        "North Sulawesi, Indonesia 95119",
+        "Assistance to National: (+62) 811-431-130"
+      ],
+      "contactLines": [
+        "Duty Officer: (+62) 811-432-1132",
+        "Email : manado.pcg@dfa.gov.ph / fsp.manadopcg@gmail.com",
+        "consular.manadopcg@gmail.com",
+        "Website: www.manadopcg.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-082",
+      "city": "Milan",
+      "country": "Italy",
+      "longitude": 9.2031,
+      "latitude": 45.4719,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, MILAN",
+      "directoryLines": [
+        "Hon. (Mr.) Jim Tito B. San Agustin",
+        "Consul General",
+        "Viale Stelvio 71 – Via Bernina 18, 20159 Milan, Italy",
+        "Tel. No.: (+3902) 6682-5232",
+        "Hotline No.: (+39) 388-093-3822",
+        "Email: milan.pcg@dfa.gov.ph / philcongenmilan@gmail.com",
+        "Website: www.milanpcg.dfa.gov.ph"
+      ],
+      "headOfPost": "Hon. (Mr.) Jim Tito B. San Agustin",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "Viale Stelvio 71 – Via Bernina 18, 20159 Milan, Italy"
+      ],
+      "contactLines": [
+        "Tel. No.: (+3902) 6682-5232",
+        "Hotline No.: (+39) 388-093-3822",
+        "Email: milan.pcg@dfa.gov.ph / philcongenmilan@gmail.com",
+        "Website: www.milanpcg.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-083",
+      "city": "Osaka",
+      "country": "Japan",
+      "longitude": 135.5038,
+      "latitude": 34.6911,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, OSAKA",
+      "directoryLines": [
+        "Hon. (Ms.) Donna M. Rodriguez",
+        "Consul General",
+        "24/F Twin 21 MID Tower, 2-1-61 Shiromi, Chuo-ku",
+        "Osaka, Japan",
+        "Tel. No.: (+81-6) 6910-7999",
+        "Fax No.: (+81-6) 6910-8734",
+        "Emergency No.: (+81-90) 4036-7984",
+        "Email: osaka.pcg@dfa.gov.ph; queries.osakapcg@gmail.com",
+        "Website: www.osakapcg.dfa.gov.ph"
+      ],
+      "headOfPost": "Hon. (Ms.) Donna M. Rodriguez",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "24/F Twin 21 MID Tower, 2-1-61 Shiromi, Chuo-ku",
+        "Osaka, Japan"
+      ],
+      "contactLines": [
+        "Tel. No.: (+81-6) 6910-7999",
+        "Fax No.: (+81-6) 6910-8734",
+        "Emergency No.: (+81-90) 4036-7984",
+        "Email: osaka.pcg@dfa.gov.ph; queries.osakapcg@gmail.com",
+        "Website: www.osakapcg.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-084",
+      "city": "Nagoya",
+      "country": "Japan",
+      "longitude": 136.913,
+      "latitude": 35.1569,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, NAGOYA",
+      "directoryLines": [
+        "Hon. (Ms.) Shirlene C. Mananquil",
+        "Consul General",
+        "Hiroya Building, 3-31-3 Sakae, Naka ku",
+        "Nagoya shi, Aichi ke – Japan 460-0008",
+        "Tel. No.: +81 (0) 52 211 8811",
+        "Fax No.: (+81) (0) 52 265 9700",
+        "Emergency No.: +81 (0) 90 6580 67",
+        "Email: nagoya.pcg@dfa.gov.ph",
+        "Website: nagoyapcg.dfa.gov.ph"
+      ],
+      "headOfPost": "Hon. (Ms.) Shirlene C. Mananquil",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "Hiroya Building, 3-31-3 Sakae, Naka ku",
+        "Nagoya shi, Aichi ke – Japan 460-0008"
+      ],
+      "contactLines": [
+        "Tel. No.: +81 (0) 52 211 8811",
+        "Fax No.: (+81) (0) 52 265 9700",
+        "Emergency No.: +81 (0) 90 6580 67",
+        "Email: nagoya.pcg@dfa.gov.ph",
+        "Website: nagoyapcg.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-085",
+      "city": "Busan",
+      "country": "South Korea",
+      "longitude": 129.0081,
+      "latitude": 35.097,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, BUSAN",
+      "directoryLines": [
+        "H.E. (Ms.) Leah Victoria T. Carada",
+        "Consul General",
+        "12th Floor, 133, Jeonpo-daero, Nam-gu, Busan,",
+        "48400 Republic of Korea",
+        "Emergency No.: (+82) 10 43511125",
+        "Email address: busan.pcg@dfa.gov.ph"
+      ],
+      "headOfPost": "H.E. (Ms.) Leah Victoria T. Carada",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "12th Floor, 133, Jeonpo-daero, Nam-gu, Busan,",
+        "48400 Republic of Korea"
+      ],
+      "contactLines": [
+        "Emergency No.: (+82) 10 43511125",
+        "Email address: busan.pcg@dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-086",
+      "city": "Jeddah",
+      "country": "Saudi Arabia",
+      "longitude": 39.2173,
+      "latitude": 21.5188,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, JEDDAH",
+      "directoryLines": [
+        "H.E. (Mr.) Rommel A. Romato",
+        "Consul General",
+        "Bldg. No. 4663, Fajer St., Al Rehab District 6",
+        "Jeddah, Kingdom of Saudi Arabia",
+        "P.O. Box 4794 Jeddah 21412",
+        "Hotline Nos.: (+966-55) 521-9614 (Consular)",
+        "ATN: (+966-55) 5219-613",
+        "Email: jeddah.pcg@dfa.gov.ph / pc.jeddah@gmail.com",
+        "Website: www.jeddahpcg.dfa.gov.ph"
+      ],
+      "headOfPost": "H.E. (Mr.) Rommel A. Romato",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "Bldg. No. 4663, Fajer St., Al Rehab District 6",
+        "Jeddah, Kingdom of Saudi Arabia",
+        "P.O. Box 4794 Jeddah 21412"
+      ],
+      "contactLines": [
+        "Hotline Nos.: (+966-55) 521-9614 (Consular)",
+        "ATN: (+966-55) 5219-613",
+        "Email: jeddah.pcg@dfa.gov.ph / pc.jeddah@gmail.com",
+        "Website: www.jeddahpcg.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-087",
+      "city": "Barcelona",
+      "country": "Spain",
+      "longitude": 2.1814,
+      "latitude": 41.3852,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, BARCELONA",
+      "directoryLines": [
+        "Hon. (Ms.) Maria Theresa S.M. Lazaro",
+        "Consul General",
+        "Gran Via de les Corts Catalanes, 601",
+        "Planta Principal, 08007, Barcelona, Spain",
+        "Telephone No.: + 34 938 288 312",
+        "Hotline No: + 34 679 324 462",
+        "Email: barcelona.pcg@dfa.gov.ph / barcelonapcg.consular@dfa.gov.ph",
+        "Web Address : https://barcelonapcg.dfa.gov.ph"
+      ],
+      "headOfPost": "Hon. (Ms.) Maria Theresa S.M. Lazaro",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "Gran Via de les Corts Catalanes, 601",
+        "Planta Principal, 08007, Barcelona, Spain"
+      ],
+      "contactLines": [
+        "Telephone No.: + 34 938 288 312",
+        "Hotline No: + 34 679 324 462",
+        "Email: barcelona.pcg@dfa.gov.ph / barcelonapcg.consular@dfa.gov.ph",
+        "Web Address : https://barcelonapcg.dfa.gov.ph"
+      ]
+    },
+    {
+      "id": "fsp-088",
+      "city": "Istanbul",
+      "country": "Türkiye",
+      "longitude": 28.9743,
+      "latitude": 41.0176,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, ISTANBUL",
+      "directoryLines": [
+        "Hon. (Ms.) Christina Gracia Rola-McKernan",
+        "Consul General",
+        "Esentepe Mahallesi, Büyükdere, Caddesi No. 171,",
+        "Metrocity Office Building, A Block, 13th Floor, Şişli, Istanbul, Türkiye",
+        "Tel. Nos.: (+90) 212 339 0630",
+        "Fax No.: (+90) 212-339 0659",
+        "ATN mobile: (+90) 531-867-4174",
+        "Consular services inquiries mobile no.: (+90) 530-259-7072",
+        "Email: istanbul.pcg@dfa.gov.ph",
+        "Website: https://istanbulpcg.dfa.gov.ph",
+        "FB: https://www.facebook.com/PHLinİstanbul",
+        "INSTAGRAM: @phinistanbul"
+      ],
+      "headOfPost": "Hon. (Ms.) Christina Gracia Rola-McKernan",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "Esentepe Mahallesi, Büyükdere, Caddesi No. 171,",
+        "Metrocity Office Building, A Block, 13th Floor, Şişli, Istanbul, Türkiye"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+90) 212 339 0630",
+        "Fax No.: (+90) 212-339 0659",
+        "ATN mobile: (+90) 531-867-4174",
+        "Consular services inquiries mobile no.: (+90) 530-259-7072",
+        "Email: istanbul.pcg@dfa.gov.ph",
+        "Website: https://istanbulpcg.dfa.gov.ph",
+        "FB: https://www.facebook.com/PHLinİstanbul",
+        "INSTAGRAM: @phinistanbul"
+      ]
+    },
+    {
+      "id": "fsp-089",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "longitude": 55.2869,
+      "latitude": 25.2149,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, DUBAI",
+      "directoryLines": [
+        "Hon. (Mr.) Ambrosio Brian F. Enciso III",
+        "Consul General",
+        "No. 234-851 Villa At Al Qusais Area 3",
+        "P.O. Box 94778, Dubai",
+        "United Arab Emirates",
+        "Makani Number : 38407 95527",
+        "Tel. No.: (+971) 4-220-7100",
+        "Fax No.: (+971) 4-220-7800",
+        "ATN Mobile Nos.: (+971) 56-501-5756",
+        "Email: dubai.pcg@dfa.gov.ph / pcgdxb@gmail.com",
+        "Website: www.dubaipcg.dfa.gov.ph",
+        "Facebook: PCG Dubai and N. Emirates"
+      ],
+      "headOfPost": "Hon. (Mr.) Ambrosio Brian F. Enciso III",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "No. 234-851 Villa At Al Qusais Area 3",
+        "P.O. Box 94778, Dubai",
+        "United Arab Emirates",
+        "Makani Number : 38407 95527"
+      ],
+      "contactLines": [
+        "Tel. No.: (+971) 4-220-7100",
+        "Fax No.: (+971) 4-220-7800",
+        "ATN Mobile Nos.: (+971) 56-501-5756",
+        "Email: dubai.pcg@dfa.gov.ph / pcgdxb@gmail.com",
+        "Website: www.dubaipcg.dfa.gov.ph",
+        "Facebook: PCG Dubai and N. Emirates"
+      ]
+    },
+    {
+      "id": "fsp-090",
+      "city": "Agana",
+      "country": "Guam",
+      "longitude": 144.75,
+      "latitude": 13.47,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, AGANA",
+      "directoryLines": [
+        "Hon. (Ms.) Rosario P. Lemque",
+        "Consul General",
+        "590 S. Marine Corps Drive, Suite 601 ITC Building,",
+        "Tamuning 96913 Guam, U.S.A.",
+        "P.O. Box 9880, Tamuning, Guam 96931, U.S.A.",
+        "Tel. Nos.: (+1-671) 646-4620",
+        "ATN concerns: (+1-671) 588-5515 / (+1-671) 588-5513",
+        "Duty Phone No.: (+1-671) 488-4630",
+        "24/7 ATN: (+1-671) 488-8113",
+        "Email: agana.pcg@dfa.gov.ph / pcgagana@gmail.com",
+        "Website: www.aganapcg.dfa.gov.ph",
+        "Facebook: @PHLinAgana"
+      ],
+      "headOfPost": "Hon. (Ms.) Rosario P. Lemque",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "590 S. Marine Corps Drive, Suite 601 ITC Building,",
+        "Tamuning 96913 Guam, U.S.A.",
+        "P.O. Box 9880, Tamuning, Guam 96931, U.S.A."
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+1-671) 646-4620",
+        "ATN concerns: (+1-671) 588-5515 / (+1-671) 588-5513",
+        "Duty Phone No.: (+1-671) 488-4630",
+        "24/7 ATN: (+1-671) 488-8113",
+        "Email: agana.pcg@dfa.gov.ph / pcgagana@gmail.com",
+        "Website: www.aganapcg.dfa.gov.ph",
+        "Facebook: @PHLinAgana"
+      ]
+    },
+    {
+      "id": "fsp-091",
+      "city": "Chicago",
+      "country": "United States",
+      "longitude": -87.6352,
+      "latitude": 41.848,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, CHICAGO",
+      "directoryLines": [
+        "Hon. (Ms.) Melanie Rita B. Diano",
+        "Consul General",
+        "122 S. Michigan Avenue, Suite 1600, Chicago",
+        "Illinois 60603, U.S.A.",
+        "Tel. No.: (+1-312) 583-0621",
+        "Fax No.: (+1-312) 583-0647",
+        "Duty Officer No.: (+1-312) 810-3019",
+        "Cultural : (773) 900-1690",
+        "Email: chicagopcg@att.net",
+        "Website: www.chicagopcg.dfa.gov.ph; www.chicagopcg.com",
+        "Facebook: @PHinChicago"
+      ],
+      "headOfPost": "Hon. (Ms.) Melanie Rita B. Diano",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "122 S. Michigan Avenue, Suite 1600, Chicago",
+        "Illinois 60603, U.S.A."
+      ],
+      "contactLines": [
+        "Tel. No.: (+1-312) 583-0621",
+        "Fax No.: (+1-312) 583-0647",
+        "Duty Officer No.: (+1-312) 810-3019",
+        "Cultural : (773) 900-1690",
+        "Email: chicagopcg@att.net",
+        "Website: www.chicagopcg.dfa.gov.ph; www.chicagopcg.com",
+        "Facebook: @PHinChicago"
+      ]
+    },
+    {
+      "id": "fsp-092",
+      "city": "Honolulu",
+      "country": "United States",
+      "longitude": -157.8583,
+      "latitude": 21.3034,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, HONOLULU",
+      "directoryLines": [
+        "Hon. (Mr.) Arman R. Talbo",
+        "Consul General",
+        "2433 Pali Highway, Honolulu",
+        "Hawaii 96817, U.S.A.",
+        "Tel. Nos.: (+1-808) 595-6316 to 19",
+        "Fax No.: (+1-808) 595-2581",
+        "Duty Officer No.: (+1-808) 253-9446",
+        "Email: honolulu.pcg@dfa.gov.ph",
+        "Website: www.honolulupcg.dfa.gov.ph",
+        "Facebook: @PHinhonolulu",
+        "Twitter: https://www.twitter.com/PHinhonolulu",
+        "Instagram: https://www.instagram.com/phinhonolulu"
+      ],
+      "headOfPost": "Hon. (Mr.) Arman R. Talbo",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "2433 Pali Highway, Honolulu",
+        "Hawaii 96817, U.S.A."
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+1-808) 595-6316 to 19",
+        "Fax No.: (+1-808) 595-2581",
+        "Duty Officer No.: (+1-808) 253-9446",
+        "Email: honolulu.pcg@dfa.gov.ph",
+        "Website: www.honolulupcg.dfa.gov.ph",
+        "Facebook: @PHinhonolulu",
+        "Twitter: https://www.twitter.com/PHinhonolulu",
+        "Instagram: https://www.instagram.com/phinhonolulu"
+      ]
+    },
+    {
+      "id": "fsp-093",
+      "city": "Houston",
+      "country": "United States",
+      "longitude": -95.3484,
+      "latitude": 29.7413,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, HOUSTON",
+      "directoryLines": [
+        "Hon. (Mr.) Gunther Emil M. Sales",
+        "Consul General",
+        "9990 Richmond Avenue, Suite 100N",
+        "Houston, Texas 77042, U.S.A.",
+        "Tel. No.: (+1-346) 293-8773",
+        "Duty Officer No.: (+1-346) 256-4522",
+        "Email: houston.pcg@dfa.gov.ph;",
+        "pcghouston.vc@gmail.com (Administrative Section);",
+        "pcghouston.atn@gmail.com (ATN Section);",
+        "pcghouston.cultural@gmail.com (Cultural Section);",
+        "pcghouston.consular@gmail.com (Consular Section)"
+      ],
+      "headOfPost": "Hon. (Mr.) Gunther Emil M. Sales",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "9990 Richmond Avenue, Suite 100N",
+        "Houston, Texas 77042, U.S.A."
+      ],
+      "contactLines": [
+        "Tel. No.: (+1-346) 293-8773",
+        "Duty Officer No.: (+1-346) 256-4522",
+        "Email: houston.pcg@dfa.gov.ph;",
+        "pcghouston.vc@gmail.com (Administrative Section);",
+        "pcghouston.atn@gmail.com (ATN Section);",
+        "pcghouston.cultural@gmail.com (Cultural Section);",
+        "pcghouston.consular@gmail.com (Consular Section)"
+      ]
+    },
+    {
+      "id": "fsp-094",
+      "city": "Los Angeles",
+      "country": "United States",
+      "longitude": -118.232,
+      "latitude": 34.0492,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, LOS ANGELES",
+      "directoryLines": [
+        "Hon. (Mr.) Adelio Angelo S. Cruz",
+        "Consul General",
+        "3435 Wilshire Boulevard, Suite 550",
+        "Los Angeles, CA 90010-1935, U.S.A.",
+        "Tel. No. (+1-213) 639-0980 (trunk line)",
+        "Fax No. (+1-213) 639-0990",
+        "Emergency Ph. No.: (+1-213) 268-9990",
+        "ATN Officer No.: (+1-323) 528-1528",
+        "Email: losangeles.pcg@dfa.gov.ph / losangelespc@aol.com",
+        "losangelespcg@earthlink.net",
+        "Website: www.philippineconsulatela.org",
+        "Facebook: @PHLinLA"
+      ],
+      "headOfPost": "Hon. (Mr.) Adelio Angelo S. Cruz",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "3435 Wilshire Boulevard, Suite 550",
+        "Los Angeles, CA 90010-1935, U.S.A."
+      ],
+      "contactLines": [
+        "Tel. No. (+1-213) 639-0980 (trunk line)",
+        "Fax No. (+1-213) 639-0990",
+        "Emergency Ph. No.: (+1-213) 268-9990",
+        "ATN Officer No.: (+1-323) 528-1528",
+        "Email: losangeles.pcg@dfa.gov.ph / losangelespc@aol.com",
+        "losangelespcg@earthlink.net",
+        "Website: www.philippineconsulatela.org",
+        "Facebook: @PHLinLA"
+      ]
+    },
+    {
+      "id": "fsp-095",
+      "city": "New York",
+      "country": "United States",
+      "longitude": -73.9957,
+      "latitude": 40.7216,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, NEW YORK",
+      "directoryLines": [
+        "Hon. (Mr.) Senen T. Mangalile",
+        "Consul General",
+        "556 Fifth Avenue, New York, NY 10036 U.S.A.",
+        "Tel. No.: (+1-212) 764-1330",
+        "Fax Nos.: (+1-212) 764-6010; (+1-212) 382-1146",
+        "Duty Officer No.: (+1-917) 294-0196",
+        "ATN number : +19172394118",
+        "Email: newyork.pcg@dfa.gov.ph",
+        "Website: www.newyorkpcg.org",
+        "Facebook: www.facebook.com/PHLinNY",
+        "Instagram: phinnewyork",
+        "Twitter: @phinnewyork"
+      ],
+      "headOfPost": "Hon. (Mr.) Senen T. Mangalile",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "556 Fifth Avenue, New York, NY 10036 U.S.A."
+      ],
+      "contactLines": [
+        "Tel. No.: (+1-212) 764-1330",
+        "Fax Nos.: (+1-212) 764-6010; (+1-212) 382-1146",
+        "Duty Officer No.: (+1-917) 294-0196",
+        "ATN number : +19172394118",
+        "Email: newyork.pcg@dfa.gov.ph",
+        "Website: www.newyorkpcg.org",
+        "Facebook: www.facebook.com/PHLinNY",
+        "Instagram: phinnewyork",
+        "Twitter: @phinnewyork"
+      ]
+    },
+    {
+      "id": "fsp-096",
+      "city": "San Francisco",
+      "country": "United States",
+      "longitude": -122.3996,
+      "latitude": 37.7843,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, SAN FRANCISCO",
+      "directoryLines": [
+        "Hon. (Mr.) Arnel G. Talisayon",
+        "Consul General",
+        "447 Sutter Street, 6th Floor, San Francisco",
+        "California 94108, U.S.A.",
+        "Tel. No.: (+1-415) 433-6666",
+        "Fax No.: (+1-415) 421-2641",
+        "Duty Officer No.: (+1-415) 269-2090",
+        "ATN No.: (+1-415) 748–9888",
+        "Email: sanfrancisco.pcg@dfa.gov.ph",
+        "Website: www.pcgsanfrancisco.org",
+        "Facebook page: http://www.facebook.com/PHinSF",
+        "Twitter account: http://twitter.com/PHLinSF",
+        "Instagram account: http://instagram.com/phlinsf"
+      ],
+      "headOfPost": "Hon. (Mr.) Arnel G. Talisayon",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "447 Sutter Street, 6th Floor, San Francisco",
+        "California 94108, U.S.A."
+      ],
+      "contactLines": [
+        "Tel. No.: (+1-415) 433-6666",
+        "Fax No.: (+1-415) 421-2641",
+        "Duty Officer No.: (+1-415) 269-2090",
+        "ATN No.: (+1-415) 748–9888",
+        "Email: sanfrancisco.pcg@dfa.gov.ph",
+        "Website: www.pcgsanfrancisco.org",
+        "Facebook page: http://www.facebook.com/PHinSF",
+        "Twitter account: http://twitter.com/PHLinSF",
+        "Instagram account: http://instagram.com/phlinsf"
+      ]
+    },
+    {
+      "id": "fsp-097",
+      "city": "Seattle",
+      "country": "United States",
+      "longitude": -122.3153,
+      "latitude": 47.6004,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, SEATTLE",
+      "directoryLines": [
+        "Hon. (Mr.) Henry S. Bensurto, Jr.",
+        "Consul General"
+      ],
+      "headOfPost": "Hon. (Mr.) Henry S. Bensurto, Jr.",
+      "headTitle": "Consul General",
+      "addressLines": [],
+      "contactLines": []
+    },
+    {
+      "id": "fsp-098",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "longitude": 106.703,
+      "latitude": 10.7621,
+      "type": "Consulate General",
+      "directoryTitle": "PHILIPPINE CONSULATE GENERAL, HO CHI MINH CITY",
+      "directoryLines": [
+        "Hon. (Ms.) Querobine D. Laccay",
+        "Consul General",
+        "CEO Suite",
+        "Level 21, Vietcombank Tower",
+        "No. 5, Me Linh Square, Sai Gon Ward, HCM City, Vietnam",
+        "Tel. Nos.: +84 28 38271926 and +84 28 38271927"
+      ],
+      "headOfPost": "Hon. (Ms.) Querobine D. Laccay",
+      "headTitle": "Consul General",
+      "addressLines": [
+        "CEO Suite",
+        "Level 21, Vietcombank Tower",
+        "No. 5, Me Linh Square, Sai Gon Ward, HCM City, Vietnam"
+      ],
+      "contactLines": [
+        "Tel. Nos.: +84 28 38271926 and +84 28 38271927"
+      ]
+    },
+    {
+      "id": "fsp-099",
+      "city": "Jakarta",
+      "country": "Indonesia",
+      "longitude": 106.8275,
+      "latitude": -6.1725,
+      "type": "Permanent Mission to ASEAN",
+      "directoryTitle": "ASEAN - PERMANENT MISSION OF THE PHILIPPINES TO ASEAN",
+      "directoryLines": [
+        "INDONESIA H.E. (Ms.) Evangeline T. Ong Jimenez-Ducrocq",
+        "Ambassador and Permanent Representative",
+        "No. 5, Jalan Wijaya XVI, Melawai, Kebayoran Baru,",
+        "Jakarta Selatan, 12160, Republic of Indonesia",
+        "Tel. Nos.: (+62-21) 7278-9030; 7220-163",
+        "Fax No.: (+62-21) 7278-9020",
+        "Email: jakarta.pm@dfa.gov.ph / jakartapm@gmail.com",
+        "Website: www.jakartapm.dfa.gov.ph",
+        "Facebook: @PHMissionJakarta"
+      ],
+      "headOfPost": "H.E. (Ms.) Evangeline T. Ong Jimenez-Ducrocq",
+      "headTitle": "Ambassador and Permanent Representative",
+      "addressLines": [
+        "No. 5, Jalan Wijaya XVI, Melawai, Kebayoran Baru,",
+        "Jakarta Selatan, 12160, Republic of Indonesia"
+      ],
+      "contactLines": [
+        "Tel. Nos.: (+62-21) 7278-9030; 7220-163",
+        "Fax No.: (+62-21) 7278-9020",
+        "Email: jakarta.pm@dfa.gov.ph / jakartapm@gmail.com",
+        "Website: www.jakartapm.dfa.gov.ph",
+        "Facebook: @PHMissionJakarta"
+      ]
+    },
+    {
+      "id": "fsp-100",
+      "city": "Geneva",
+      "country": "Switzerland",
+      "longitude": 6.14,
+      "latitude": 46.21,
+      "type": "Permanent Mission to the UN and other international organizations",
+      "directoryTitle": "UN - PHILIPPINE MISSION TO THE UNITED NATIONS AND OTHER",
+      "directoryLines": [
+        "SWITZERLAND INTERNATIONAL ORGANIZATIONS",
+        "H.E. (Mr.) Carlos D. Sorreta",
+        "Permanent Representative",
+        "14 - 16 Allée David-Morse",
+        "1202 Geneva, Switzerland",
+        "Tel. No.: (+41-22) 716-1930 (Trunkline)",
+        "Secretary to the Ambassador : (+41 22) 716 3253",
+        "Duty Officer No.: (+41-79) 136-9114",
+        "Consulate General: (41-22) 716-3256",
+        "Email: geneva.pm@dfa.gov.ph / mission@genevapm.ph",
+        "Website: www.genevapm.dfa.gov.ph / www.genevapcg.dfa.gov.ph",
+        "Facebook: @PHinGenevaUN"
+      ],
+      "headOfPost": "H.E. (Mr.) Carlos D. Sorreta",
+      "headTitle": "Permanent Representative",
+      "addressLines": [
+        "14 - 16 Allée David-Morse",
+        "1202 Geneva, Switzerland"
+      ],
+      "contactLines": [
+        "Tel. No.: (+41-22) 716-1930 (Trunkline)",
+        "Secretary to the Ambassador : (+41 22) 716 3253",
+        "Duty Officer No.: (+41-79) 136-9114",
+        "Consulate General: (41-22) 716-3256",
+        "Email: geneva.pm@dfa.gov.ph / mission@genevapm.ph",
+        "Website: www.genevapm.dfa.gov.ph / www.genevapcg.dfa.gov.ph",
+        "Facebook: @PHinGenevaUN"
+      ]
+    },
+    {
+      "id": "fsp-101",
+      "city": "New York",
+      "country": "United States",
+      "longitude": -73.9957,
+      "latitude": 40.7216,
+      "type": "Permanent Mission to the UN",
+      "directoryTitle": "UN - UNITED PHILIPPINE MISSION TO THE UNITED NATIONS",
+      "directoryLines": [
+        "STATES OF H.E. (Mr.) Enrique A. Manalo",
+        "AMERICA Permanent Representative",
+        "556 Fifth Avenue, 5th Floor",
+        "New York, N.Y. 10036, U.S.A.",
+        "Tel. No.: (+1-212) 764-1300",
+        "Fax No.: (+1-212) 840-8602",
+        "Duty Officer No.: (+1-917) 208-6258",
+        "Email: newyork.pm@dfa.gov.ph ; newyorkpm@gmail.com",
+        "Website: www.un.int/philippines"
+      ],
+      "headOfPost": "H.E. (Mr.) Enrique A. Manalo",
+      "headTitle": "Permanent Representative",
+      "addressLines": [
+        "556 Fifth Avenue, 5th Floor",
+        "New York, N.Y. 10036, U.S.A."
+      ],
+      "contactLines": [
+        "Tel. No.: (+1-212) 764-1300",
+        "Fax No.: (+1-212) 840-8602",
+        "Duty Officer No.: (+1-917) 208-6258",
+        "Email: newyork.pm@dfa.gov.ph ; newyorkpm@gmail.com",
+        "Website: www.un.int/philippines"
+      ]
+    },
+    {
+      "id": "fsp-102",
+      "city": "Geneva",
+      "country": "Switzerland",
+      "longitude": 6.14,
+      "latitude": 46.21,
+      "type": "Permanent Mission to the WTO",
+      "directoryTitle": "WTO - PHILIPPINE PERMANENT MISSION TO THE WORLD TRADE",
+      "directoryLines": [
+        "SWITZERLAND ORGANIZATION",
+        "H.E. (Mr.) Manuel A.J. Teehankee",
+        "Permanent Representative",
+        "16 Allée David-Morse, 2nd floor, Le Grand Morillon",
+        "1202 Geneva, Switzerland",
+        "Tel. No.: (+41-22) 909-7900",
+        "Building Reception: (+41-22) 909-7910",
+        "Duty Officer/Hotline.: (+41-79) 251 8648",
+        "Email: geneva.wto@dfa.gov.ph / mission@philippineswto.org"
+      ],
+      "headOfPost": "H.E. (Mr.) Manuel A.J. Teehankee",
+      "headTitle": "Permanent Representative",
+      "addressLines": [
+        "16 Allée David-Morse, 2nd floor, Le Grand Morillon",
+        "1202 Geneva, Switzerland"
+      ],
+      "contactLines": [
+        "Tel. No.: (+41-22) 909-7900",
+        "Building Reception: (+41-22) 909-7910",
+        "Duty Officer/Hotline.: (+41-79) 251 8648",
+        "Email: geneva.wto@dfa.gov.ph / mission@philippineswto.org"
+      ]
+    }
+  ]
+}

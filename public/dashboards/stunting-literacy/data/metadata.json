@@ -1,0 +1,87 @@
+{
+  "defaultToken": "pk.eyJ1IjoibWFyZ2FyaXRhcml2ZXJhIiwiYSI6IndwLWwtM3cifQ.gj37oGPLjnfI2-zr-b3P5w",
+  "whoColors": {
+    "Very Low": "#d8d8d8",
+    "Low": "#ffd831",
+    "Medium": "#f77a00",
+    "High": "#e32214",
+    "Very High": "#8f1607",
+    "No data": "#d6dce2"
+  },
+  "national": {
+    "prevalence_2023": 23.6,
+    "prevalence_2025": 25.3,
+    "change": 1.7,
+    "ci_2025": "23.9-26.7"
+  },
+  "profiles": {
+    "age": [
+      {
+        "label": "0-5 months",
+        "value": 11.2
+      },
+      {
+        "label": "6-11 months",
+        "value": 16.6
+      },
+      {
+        "label": "12-23 months",
+        "value": 27.3
+      },
+      {
+        "label": "24-35 months",
+        "value": 31.5
+      },
+      {
+        "label": "36-47 months",
+        "value": 26.8
+      },
+      {
+        "label": "48-59 months",
+        "value": 24.8
+      }
+    ],
+    "residence": [
+      {
+        "label": "Rural residence",
+        "value": 27.8
+      },
+      {
+        "label": "Urban residence",
+        "value": 23.2
+      }
+    ],
+    "wealth": [
+      {
+        "label": "Poorest",
+        "value": 37.8
+      },
+      {
+        "label": "Poor",
+        "value": 27.5
+      },
+      {
+        "label": "Middle",
+        "value": 23.2
+      },
+      {
+        "label": "Rich",
+        "value": 19.2
+      },
+      {
+        "label": "Richest",
+        "value": 11.9
+      }
+    ],
+    "gender": [
+      {
+        "label": "Boys",
+        "value": 26.7
+      },
+      {
+        "label": "Girls",
+        "value": 23.8
+      }
+    ]
+  }
+}

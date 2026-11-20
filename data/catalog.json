@@ -1,0 +1,461 @@
+[
+  {
+    "slug": "school-infrastructure",
+    "title": "School Infrastructure in the Philippines",
+    "description": "Explore where public schools report gaps in internet, water and electricity, compare school facilities, and look up individual schools.",
+    "thumbnail": "/thumbnails/school-infrastructure.jpg",
+    "thumbnailCredit": "Philippine Information Agency",
+    "thumbnailSourceUrl": "https://pia.gov.ph/news/luzon/cl/dpwh-delivers-new-inclusive-school-building-in-tarlac/",
+    "url": "/dashboards/school-infrastructure",
+    "status": "published",
+    "topics": [
+      "School Infrastructure",
+      "Internet Access",
+      "Water and Electricity",
+      "School Facilities"
+    ],
+    "category": "Education",
+    "geography": "Philippines — region, province, city/municipality",
+    "period": "School Year 2023–2024",
+    "sources": [
+      "Department of Education — LIS, BEIS and NSBI",
+      "GeoRisk Philippines — Municipal_2015 reference boundaries"
+    ],
+    "publishedAt": "2026-09-11",
+    "updatedAt": "2026-09-11"
+  },
+  {
+    "slug": "dpwh-infrastructure",
+    "title": "DPWH Infrastructure Projects",
+    "description": "Explore DPWH contracts by infrastructure year, project type, status and location, with source documents and a searchable register.",
+    "thumbnail": "/thumbnails/dpwh-infrastructure.jpg",
+    "thumbnailCredit": "Department of Public Works and Highways",
+    "thumbnailSourceUrl": "https://dpwh.gov.ph/DPWH/news/25617",
+    "url": "/dashboards/dpwh-infrastructure",
+    "status": "published",
+    "topics": [
+      "Public Works",
+      "Roads",
+      "Flood Control",
+      "Government Contracts"
+    ],
+    "category": "Infrastructure",
+    "geography": "Philippines — regional and project locations",
+    "period": "2016–2026 · September 2026 snapshot",
+    "sources": [
+      "Department of Public Works and Highways"
+    ],
+    "publishedAt": "2026-09-09",
+    "updatedAt": "2026-09-09"
+  },
+  {
+    "slug": "philippine-languages",
+    "title": "Top Languages Spoken at Home in the Philippines",
+    "description": "A census-based geographic view of the country’s leading household languages across regions and provinces.",
+    "thumbnail": "/thumbnails/philippine-home-languages.jpg",
+    "thumbnailCredit": "Journal News Online",
+    "thumbnailSourceUrl": "https://journalnews.com.ph/wikang-filipino-susi-sa-pag-unlad-ng-pilipinas/#gsc.tab=0",
+    "url": "/dashboards/philippine-languages",
+    "status": "published",
+    "topics": [
+      "Languages",
+      "Languages Spoken at Home",
+      "Regional Demography"
+    ],
+    "category": "Demographics & Social Development",
+    "geography": "Philippines — region and province",
+    "period": "2020",
+    "sources": [
+      "Philippine Statistics Authority — Census of Population and Housing"
+    ],
+    "publishedAt": "2026-08-25",
+    "updatedAt": "2026-08-25"
+  },
+  {
+    "slug": "labor-force-survey-2026",
+    "title": "The Philippine Labor Market",
+    "description": "An interactive reading of the March 2026 Labor Force Survey, from the national employment pulse to industry shifts, worker class, and youth outcomes.",
+    "thumbnail": "/thumbnails/philippine-labor-market.jpg",
+    "thumbnailCredit": "Philippine Information Agency",
+    "thumbnailSourceUrl": "https://pia.gov.ph/news/ncr-wage-board-grants-p50-daily-minimum-wage-hike/",
+    "url": "/dashboards/labor-force-survey-2026",
+    "status": "published",
+    "topics": [
+      "Employment",
+      "Unemployment",
+      "Underemployment",
+      "Labor Force",
+      "Youth Employment"
+    ],
+    "category": "Demographics & Social Development",
+    "geography": "Philippines — national",
+    "period": "March 2025–March 2026",
+    "sources": [
+      "Philippine Statistics Authority — Labor Force Survey"
+    ],
+    "publishedAt": "2026-08-19",
+    "updatedAt": "2026-08-19"
+  },
+  {
+    "slug": "stunting",
+    "title": "Stunting in the Philippines",
+    "description": "An interactive map of child stunting prevalence across Philippine regions, provinces and highly urbanized cities, with WHO severity levels and profile breakdowns.",
+    "thumbnail": "/thumbnails/stunting-philippines.jpg",
+    "thumbnailCredit": "UNICEF Philippines",
+    "thumbnailSourceUrl": "https://www.unicef.org/philippines/press-releases/unicef-many-children-and-adolescents-philippines-are-not-growing-healthily",
+    "url": "/dashboards/stunting",
+    "status": "published",
+    "topics": [
+      "Child Nutrition",
+      "Stunting",
+      "Public Health",
+      "Regional Disparities"
+    ],
+    "category": "Health",
+    "geography": "Philippines — region, province, HUC, and selected LGU",
+    "period": "2018–2025",
+    "sources": [
+      "DOST-FNRI",
+      "DOH National Nutrition Council"
+    ],
+    "publishedAt": "2026-08-19",
+    "updatedAt": "2026-08-19"
+  },
+  {
+    "slug": "stunting-literacy",
+    "title": "Childhood Stunting and Later Educational Outcomes",
+    "description": "A regional comparison connecting childhood stunting prevalence among children under five in 2008 with senior high school completion in 2023 and functional literacy in 2024.",
+    "thumbnail": "/thumbnails/stunting-literacy-edcom.jpg",
+    "thumbnailCredit": "EDCOM 2",
+    "thumbnailSourceUrl": "https://edcom2.gov.ph/1-in-3-filipino-children-stunted-due-to-severe-underinvestment-inadequate-access-to-high-quality-childcare-services-pids-edcom2-study/",
+    "url": "/dashboards/stunting-literacy/",
+    "status": "published",
+    "labels": [
+      "paired-datasets"
+    ],
+    "topics": [
+      "Child Nutrition",
+      "Functional Literacy",
+      "Education Outcomes",
+      "Regional Disparities"
+    ],
+    "category": "Health",
+    "geography": "Philippines — region",
+    "period": "2008–2024",
+    "sources": [
+      "DOST-FNRI",
+      "Philippine Statistics Authority"
+    ],
+    "publishedAt": "2026-08-20",
+    "updatedAt": "2026-08-20"
+  },
+  {
+    "slug": "higher-education-institutions",
+    "title": "Higher Education Institutions in the Philippines",
+    "description": "An interactive national map and directory of colleges and universities by institution type, region, province, and city or municipality.",
+    "thumbnail": "/thumbnails/higher-education-institutions.jpg",
+    "thumbnailCredit": "boink_99 / Wikimedia Commons · CC BY-SA 2.0",
+    "thumbnailSourceUrl": "https://commons.wikimedia.org/wiki/File:UP_Diliman_Oblation_Plaza_in_2011.JPG",
+    "url": "/dashboards/higher-education-institutions",
+    "status": "published",
+    "topics": [
+      "Higher Education",
+      "Colleges and Universities",
+      "Education Access"
+    ],
+    "category": "Education",
+    "geography": "Philippines — region, province, city/municipality",
+    "period": "Academic Year 2024–2025 · Data as of May 15, 2025",
+    "sources": [
+      "Commission on Higher Education"
+    ],
+    "publishedAt": "2026-08-14",
+    "updatedAt": "2026-08-24"
+  },
+  {
+    "slug": "religious-affiliations",
+    "title": "Religious Affiliations in the Philippines",
+    "description": "An interactive census atlas of religious communities and their distribution across Philippine regions and provinces.",
+    "thumbnail": "/thumbnails/religious-affiliations.jpg",
+    "thumbnailCredit": "CNN Philippines",
+    "thumbnailSourceUrl": "https://edition.cnn.com/2025/01/09/asia/philippines-black-nazarene-procession-intl-hnk",
+    "url": "/dashboards/religious-affiliations",
+    "status": "published",
+    "topics": [
+      "Religious Affiliations",
+      "Religious Population by Area"
+    ],
+    "category": "Demographics & Social Development",
+    "geography": "Philippines — region and province",
+    "period": "2020",
+    "sources": [
+      "Philippine Statistics Authority"
+    ],
+    "publishedAt": "2026-08-14",
+    "updatedAt": "2026-08-14"
+  },
+  {
+    "slug": "philippine-electorate",
+    "title": "2025 Philippine Electorate",
+    "description": "An interactive regional view of registered voters by single-year age and sex for the 2025 Philippine elections.",
+    "thumbnail": "/thumbnails/philippine-electorate.png",
+    "thumbnailCredit": "Philippine Information Agency",
+    "thumbnailSourceUrl": "https://pia.gov.ph/news/comelec-enhances-voting-accessibility-for-local-and-overseas-voters/",
+    "url": "/dashboards/philippine-electorate",
+    "status": "published",
+    "topics": [
+      "Registered Voters",
+      "Voters by Age",
+      "Voters by Sex",
+      "Voters by Area"
+    ],
+    "category": "Demographics & Social Development",
+    "geography": "Philippines — region, province, city/municipality",
+    "period": "2025",
+    "sources": [
+      "COMELEC Records and Statistics Division",
+      "EBAD"
+    ],
+    "publishedAt": "2026-08-13",
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "slug": "philippine-electorate-2022",
+    "title": "2022 Philippine Electorate",
+    "description": "An interactive geographic view of registered voters, ballots cast, voter turnout, and precincts in the 2022 Philippine elections.",
+    "thumbnail": "/thumbnails/philippine-electorate-2022.jpg",
+    "thumbnailCredit": "Philippine News Agency",
+    "thumbnailSourceUrl": "https://www.pna.gov.ph/photos/47658",
+    "url": "/dashboards/philippine-electorate-2022",
+    "status": "published",
+    "topics": [
+      "Registered Voters",
+      "Voter Turnout",
+      "Voters by Area",
+      "Electoral Participation"
+    ],
+    "category": "Demographics & Social Development",
+    "geography": "Philippines — region, province, city/municipality",
+    "period": "2022",
+    "sources": [
+      "Commission on Elections"
+    ],
+    "publishedAt": "2026-08-28",
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "slug": "nle-2025",
+    "title": "2025 National and Local Elections",
+    "description": "An interactive map of where every Senate candidate ranked across Philippine regions, provinces, cities, and municipalities.",
+    "thumbnail": "/thumbnails/philippine-senate-election-2025.jpg",
+    "thumbnailCredit": "South China Morning Post",
+    "thumbnailSourceUrl": "https://www.scmp.com/week-asia/politics/article/3310051/philippine-midterm-elections-casino-linked-cash-seizure-and-poll-day-disruptions-raise-alarms",
+    "url": "/dashboards/nle-2025",
+    "status": "published",
+    "topics": [
+      "Election Results",
+      "Senate",
+      "Candidate Rankings",
+      "Voting Geography"
+    ],
+    "category": "Demographics & Social Development",
+    "geography": "Philippines — region, province, city/municipality",
+    "period": "2025",
+    "sources": [
+      "Commission on Elections"
+    ],
+    "publishedAt": "2026-08-27",
+    "updatedAt": "2026-08-27"
+  },
+  {
+    "slug": "nle-2022",
+    "title": "2022 National and Local Elections",
+    "description": "An interactive map of where every Senate candidate ranked across Philippine regions, provinces, cities, and municipalities.",
+    "thumbnail": "/thumbnails/nle-2022.jpeg",
+    "thumbnailCredit": "ANFREL",
+    "thumbnailSourceUrl": "https://anfrel.org/photos-2022-philippine-national-and-local-elections/",
+    "url": "/dashboards/nle-2022",
+    "status": "published",
+    "topics": [
+      "Election Results",
+      "Senate",
+      "Candidate Rankings",
+      "Voting Geography"
+    ],
+    "category": "Demographics & Social Development",
+    "geography": "Philippines — region, province, city/municipality",
+    "period": "2022",
+    "sources": [
+      "Commission on Elections"
+    ],
+    "publishedAt": "2026-08-28",
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "slug": "philippine-digital-landscape",
+    "title": "Philippine Digital Landscape",
+    "description": "A three-part view of regional digital access, national internet use, and the Philippine social-media landscape.",
+    "thumbnail": "/thumbnails/philippine-digital-landscape-router.jpg",
+    "thumbnailCredit": "Jaycee300s / Pexels",
+    "thumbnailSourceUrl": "https://www.pexels.com/photo/a-router-a-monitor-and-incense-sticks-18071864/",
+    "url": "https://philippine-digital-landscape.margietrivera.chatgpt.site/",
+    "status": "published",
+    "labels": [
+      "paired-datasets"
+    ],
+    "topics": [
+      "Household Internet Access",
+      "Internet Use",
+      "Social Media Use"
+    ],
+    "category": "Technology & Digital",
+    "geography": "Philippines",
+    "period": "2024–2025",
+    "sources": [
+      "Philippine Statistics Authority",
+      "Meltwater",
+      "DataReportal"
+    ],
+    "publishedAt": "2026-08-12",
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "slug": "flemms",
+    "title": "Literacy in the Philippines",
+    "description": "An interactive FLEMMS dashboard exploring basic and functional literacy, regional and gender gaps, age patterns, and digital life.",
+    "thumbnail": "/thumbnails/flemms-literacy.jpg",
+    "thumbnailCredit": "The Philippine Star",
+    "thumbnailSourceUrl": "https://www.philstar.com/headlines/2020/12/14/2063627/functional-literacy-rate-improves-2019-psa",
+    "url": "/dashboards/flemms",
+    "status": "published",
+    "topics": [
+      "Basic Literacy",
+      "Functional Literacy",
+      "Internet Use",
+      "Mass Media"
+    ],
+    "category": "Education",
+    "geography": "Philippines — region and age group",
+    "period": "2019 and 2024",
+    "sources": [
+      "Philippine Statistics Authority — FLEMMS"
+    ],
+    "publishedAt": "2026-08-14",
+    "updatedAt": "2026-08-18"
+  },
+  {
+    "slug": "regional-learning-conditions",
+    "title": "Regional Learning Conditions",
+    "description": "Concept entry exploring school participation, learning resources, and regional differences in education access.",
+    "thumbnail": null,
+    "thumbnailCredit": null,
+    "url": null,
+    "status": "planned",
+    "topics": [
+      "Education Access",
+      "Regional Equity"
+    ],
+    "category": "Education",
+    "geography": "Philippines — regional",
+    "period": "2023–2025",
+    "sources": [
+      "Illustrative metadata only"
+    ],
+    "publishedAt": null,
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "slug": "cities-in-motion",
+    "title": "Cities in Motion",
+    "description": "Concept entry for a future look at commuting, transport infrastructure, and movement across major urban areas.",
+    "thumbnail": null,
+    "thumbnailCredit": null,
+    "url": null,
+    "status": "planned",
+    "topics": [
+      "Mobility",
+      "Infrastructure"
+    ],
+    "category": "Transportation",
+    "geography": "Philippines — major cities",
+    "period": "2024–2026",
+    "sources": [
+      "Illustrative metadata only"
+    ],
+    "publishedAt": null,
+    "updatedAt": "2026-08-12"
+  },
+  {
+    "slug": "flemms-mass-media",
+    "title": "Media and Information Access in the Philippines",
+    "description": "Insights from the mass-media component of the PSA 2024 FLEMMS, including media exposure and selected internet purposes.",
+    "thumbnail": "/thumbnails/philippine-digital-landscape.jpg",
+    "thumbnailCredit": "Viralyft / Pexels",
+    "url": "/dashboards/flemms-mass-media",
+    "status": "published",
+    "topics": [
+      "Internet Use",
+      "Mass Media",
+      "Digital Platforms",
+      "Media Exposure"
+    ],
+    "category": "Technology & Digital",
+    "geography": "Philippines — region and age group",
+    "period": "2019 and 2024",
+    "sources": [
+      "Philippine Statistics Authority — FLEMMS"
+    ],
+    "publishedAt": "2026-08-18",
+    "updatedAt": "2026-08-24"
+  },
+  {
+    "slug": "linguistic-atlas",
+    "title": "Languages at Risk in the Philippines",
+    "description": "An interactive atlas of the Philippines’ 135 indigenous languages, showing documented locations, speaker populations, and KWF vitality classifications.",
+    "thumbnail": "/thumbnails/philippine-indigenous-languages.avif",
+    "thumbnailCredit": "Inquirer.net",
+    "thumbnailSourceUrl": "https://newsinfo.inquirer.net/2289443/40-indigenous-languages-in-ph-are-endangered-what-could-be-lost",
+    "url": "/dashboards/linguistic-atlas",
+    "status": "published",
+    "topics": [
+      "Indigenous Languages",
+      "Language Vitality",
+      "Linguistic Diversity",
+      "Cultural Heritage"
+    ],
+    "category": "Demographics & Social Development",
+    "geography": "Philippines — documented provinces, municipalities, barangays, and communities",
+    "period": "2024",
+    "sources": [
+      "Komisyon sa Wikang Filipino",
+      "Philippine Statistics Authority"
+    ],
+    "publishedAt": "2026-08-25",
+    "updatedAt": "2026-08-25"
+  },
+  {
+    "slug": "foreign-service-posts-2026",
+    "title": "Philippine Foreign Service Posts",
+    "description": "An interactive world map of Philippine embassies, consulates general, and permanent missions listed by the Department of Foreign Affairs.",
+    "thumbnail": "/thumbnails/foreign-service-posts-2026.png",
+    "thumbnailCredit": "Philippine Information Agency",
+    "thumbnailSourceUrl": "https://pia.gov.ph/press-release/ph-to-continue-diplomatic-efforts-amid-row-with-china-says-dfa-official/",
+    "url": "/dashboards/foreign-service-posts-2026",
+    "status": "published",
+    "topics": [
+      "Diplomatic Missions",
+      "Embassies",
+      "Consulates",
+      "Foreign Affairs"
+    ],
+    "category": "Migration & Foreign Affairs",
+    "geography": "Worldwide — 99 host cities",
+    "period": "As of July 20, 2026",
+    "sources": [
+      "Department of Foreign Affairs",
+      "Natural Earth"
+    ],
+    "publishedAt": "2026-08-28",
+    "updatedAt": "2026-08-28"
+  }
+]

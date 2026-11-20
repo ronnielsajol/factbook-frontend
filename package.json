@@ -1,0 +1,28 @@
+{
+  "name": "factbook-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "test:api": "node --test tests/dpwh-api.test.mjs",
+    "test:data": "node --test --test-concurrency=1 tests/dpwh-regional.test.mjs tests/school-infrastructure.test.mjs"
+  },
+  "dependencies": {
+    "next": "^16.2.6",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "mapbox-gl": "3.25.0"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "@types/geojson": "7946.0.16",
+    "@types/node": "22.19.19",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "@tailwindcss/postcss": "4.2.1",
+    "tailwindcss": "4.2.1"
+  }
+}

@@ -1,0 +1,5981 @@
+{
+  "school_year": "2023-2024",
+  "source_page": "https://www.deped.gov.ph/machine-ready-files/",
+  "files": {
+    "enrollment": {
+      "rows": 60167,
+      "columns": 78,
+      "duplicate_ids": 0,
+      "blank_ids": 0,
+      "sha256": "cb9457d1dd12cccde880e0d8065212f16a4a5970ac525d5e2f8c90069f1c3657",
+      "fields": [
+        "school_id",
+        "school_name",
+        "region",
+        "division",
+        "province",
+        "school_district",
+        "legislative_district",
+        "municipality",
+        "barangay",
+        "street_address",
+        "sector",
+        "school_management",
+        "annex_status",
+        "offers_es",
+        "offers_jhs",
+        "offers_shs",
+        "kinder_male",
+        "kinder_female",
+        "g1_male",
+        "g1_female",
+        "g2_male",
+        "g2_female",
+        "g3_male",
+        "g3_female",
+        "g4_male",
+        "g4_female",
+        "g5_male",
+        "g5_female",
+        "g6_male",
+        "g6_female",
+        "esng_male",
+        "esng_female",
+        "g7_male",
+        "g7_female",
+        "g8_male",
+        "g8_female",
+        "g9_male",
+        "g9_female",
+        "g10_male",
+        "g10_female",
+        "jhsng_male",
+        "jhsng_female",
+        "g11_abm_male",
+        "g11_abm_female",
+        "g11_arts_male",
+        "g11_arts_female",
+        "g11_gas_male",
+        "g11_gas_female",
+        "g11_humss_male",
+        "g11_humss_female",
+        "g11_maritime_male",
+        "g11_maritime_female",
+        "g11_sports_male",
+        "g11_sports_female",
+        "g11_stem_male",
+        "g11_stem_female",
+        "g11_tvl_male",
+        "g11_tvl_female",
+        "g11_unique_male",
+        "g11_unique_female",
+        "g12_abm_male",
+        "g12_abm_female",
+        "g12_arts_male",
+        "g12_arts_female",
+        "g12_gas_male",
+        "g12_gas_female",
+        "g12_humss_male",
+        "g12_humss_female",
+        "g12_maritime_male",
+        "g12_maritime_female",
+        "g12_sports_male",
+        "g12_sports_female",
+        "g12_stem_male",
+        "g12_stem_female",
+        "g12_tvl_male",
+        "g12_tvl_female",
+        "g12_unique_male",
+        "g12_unique_female"
+      ],
+      "missing_enrollment_ids": 0,
+      "missing_resource_ids": 0,
+      "metadata_mismatches": 0
+    },
+    "facilities": {
+      "rows": 60167,
+      "columns": 87,
+      "duplicate_ids": 0,
+      "blank_ids": 0,
+      "sha256": "cd60cc375fe8d4b4b4428fa2bafbe88436bbf7430e577343cfd291607429fb0e",
+      "fields": [
+        "school_id",
+        "sector",
+        "school_management",
+        "offers_es",
+        "offers_jhs",
+        "offers_shs",
+        "es_classrooms_instructional",
+        "jhs_classrooms_instructional",
+        "shs_classrooms_instructional",
+        "es_classrooms_non_instructional",
+        "jhs_classrooms_non_instructional",
+        "shs_classrooms_non_instructional",
+        "buildings_good_condition",
+        "buildings_needs_minor_repair",
+        "buildings_needs_major_repair",
+        "buildings_for_completion",
+        "buildings_ongoing_construction",
+        "buildings_for_condemnation",
+        "buildings_for_demolition",
+        "es_temporary_learning_spaces",
+        "hs_temporary_learning_spaces",
+        "es_classes_using_temporary_learning_spaces",
+        "hs_classes_using_temporary_learning_spaces",
+        "es_makeshift_rooms",
+        "hs_makeshift_rooms",
+        "es_classes_using_makeshift_rooms",
+        "hs_classes_using_makeshift_rooms",
+        "es_has_covered_court",
+        "hs_has_covered_court",
+        "es_has_gymnasium",
+        "hs_has_gymnasium",
+        "es_has_gate_entrance",
+        "hs_has_gate_entrance",
+        "es_has_gate_exit",
+        "hs_has_gate_exit",
+        "es_has_perimeter_fence_permanent",
+        "hs_has_perimeter_fence_permanent",
+        "es_has_flood_marker",
+        "hs_has_flood_marker",
+        "es_has_perimeter_fence_temporary",
+        "hs_has_perimeter_fence_temporary",
+        "es_has_playground",
+        "hs_has_playground",
+        "es_has_garden",
+        "hs_has_garden",
+        "es_has_solar_panel",
+        "hs_has_solar_panel",
+        "es_has_bike_rack",
+        "hs_has_bike_rack",
+        "es_has_paved_pathway",
+        "hs_has_paved_pathway",
+        "es_has_pathway_roofing",
+        "hs_has_pathway_roofing",
+        "es_has_road_paved",
+        "hs_has_road_paved",
+        "es_has_road_unpaved",
+        "hs_has_road_unpaved",
+        "es_has_road_levelled",
+        "hs_has_road_levelled",
+        "es_has_road_rough",
+        "hs_has_road_rough",
+        "es_has_road_under_construction",
+        "hs_has_road_under_construction",
+        "es_accessible_private_4wheel",
+        "hs_accessible_private_4wheel",
+        "es_accessible_private_motorcycle",
+        "hs_accessible_private_motorcycle",
+        "es_accessible_boat",
+        "hs_accessible_boat",
+        "es_accessible_uv_express",
+        "hs_accessible_uv_express",
+        "es_accessible_pedicab",
+        "hs_accessible_pedicab",
+        "es_accessible_tricycle",
+        "hs_accessible_tricycle",
+        "es_accessible_jeepney",
+        "hs_accessible_jeepney",
+        "es_accessible_habalhabal",
+        "hs_accessible_habalhabal",
+        "es_accessible_train",
+        "hs_accessible_train",
+        "es_accessible_bus",
+        "hs_accessible_bus",
+        "es_accessible_bicycle",
+        "hs_accessible_bicycle",
+        "es_accessible_walking_hiking",
+        "hs_accessible_walking_hiking"
+      ],
+      "missing_enrollment_ids": 0,
+      "missing_resource_ids": 0,
+      "metadata_mismatches": 0
+    },
+    "sanitation_utilities": {
+      "rows": 60167,
+      "columns": 114,
+      "duplicate_ids": 0,
+      "blank_ids": 0,
+      "sha256": "c90325b37a5cdf587ed573ed319934804eff5042c0fcfec3e138449311d43175",
+      "fields": [
+        "school_id",
+        "sector",
+        "school_management",
+        "offers_es",
+        "offers_jhs",
+        "offers_shs",
+        "wash_es_group_func_with_soap",
+        "wash_es_group_func_no_soap",
+        "wash_es_group_nonfunc",
+        "wash_es_group_outlet",
+        "wash_es_indiv_func_with_soap",
+        "wash_es_indiv_func_no_soap",
+        "wash_es_indiv_nonfunc",
+        "wash_es_indiv_outlet",
+        "wash_jhs_group_func_with_soap",
+        "wash_jhs_group_func_no_soap",
+        "wash_jhs_group_nonfunc",
+        "wash_jhs_group_outlet",
+        "wash_jhs_indiv_func_with_soap",
+        "wash_jhs_indiv_func_no_soap",
+        "wash_jhs_indiv_nonfunc",
+        "wash_jhs_indiv_outlet",
+        "wash_shs_group_func_with_soap",
+        "wash_shs_group_func_no_soap",
+        "wash_shs_group_nonfunc",
+        "wash_shs_group_outlet",
+        "wash_shs_indiv_func_with_soap",
+        "wash_shs_indiv_func_no_soap",
+        "wash_shs_indiv_nonfunc",
+        "wash_shs_indiv_outlet",
+        "san_attached_es_toilet_male",
+        "san_attached_es_toilet_female",
+        "san_attached_es_toilet_pwd",
+        "san_attached_es_toilet_shared",
+        "san_attached_es_toilet_nonfunc",
+        "san_attached_es_sink",
+        "san_attached_es_urinal",
+        "san_attached_es_urinal_trough",
+        "san_attached_es_septic",
+        "san_attached_es_faucet_with_water",
+        "san_attached_es_faucet_no_water",
+        "san_attached_jhs_toilet_male",
+        "san_attached_jhs_toilet_female",
+        "san_attached_jhs_toilet_pwd",
+        "san_attached_jhs_toilet_shared",
+        "san_attached_jhs_toilet_nonfunc",
+        "san_attached_jhs_sink",
+        "san_attached_jhs_urinal",
+        "san_attached_jhs_urinal_trough",
+        "san_attached_jhs_septic",
+        "san_attached_jhs_faucet_with_water",
+        "san_attached_jhs_faucet_no_water",
+        "san_attached_shs_toilet_male",
+        "san_attached_shs_toilet_female",
+        "san_attached_shs_toilet_pwd",
+        "san_attached_shs_toilet_shared",
+        "san_attached_shs_toilet_nonfunc",
+        "san_attached_shs_sink",
+        "san_attached_shs_urinal",
+        "san_attached_shs_urinal_trough",
+        "san_attached_shs_septic",
+        "san_attached_shs_faucet_with_water",
+        "san_attached_shs_faucet_no_water",
+        "san_standalone_es_toilet_male",
+        "san_standalone_es_toilet_female",
+        "san_standalone_es_toilet_pwd",
+        "san_standalone_es_toilet_shared",
+        "san_standalone_es_toilet_nonfunc",
+        "san_standalone_es_sink",
+        "san_standalone_es_urinal",
+        "san_standalone_es_urinal_trough",
+        "san_standalone_es_septic",
+        "san_standalone_es_faucet_with_water",
+        "san_standalone_es_faucet_no_water",
+        "san_standalone_jhs_toilet_male",
+        "san_standalone_jhs_toilet_female",
+        "san_standalone_jhs_toilet_pwd",
+        "san_standalone_jhs_toilet_shared",
+        "san_standalone_jhs_toilet_nonfunc",
+        "san_standalone_jhs_sink",
+        "san_standalone_jhs_urinal",
+        "san_standalone_jhs_urinal_trough",
+        "san_standalone_jhs_septic",
+        "san_standalone_jhs_faucet_with_water",
+        "san_standalone_jhs_faucet_no_water",
+        "san_standalone_shs_toilet_male",
+        "san_standalone_shs_toilet_female",
+        "san_standalone_shs_toilet_pwd",
+        "san_standalone_shs_toilet_shared",
+        "san_standalone_shs_toilet_nonfunc",
+        "san_standalone_shs_sink",
+        "san_standalone_shs_urinal",
+        "san_standalone_shs_urinal_trough",
+        "san_standalone_shs_septic",
+        "san_standalone_shs_faucet_with_water",
+        "san_standalone_shs_faucet_no_water",
+        "es_has_water_supply",
+        "jhs_has_water_supply",
+        "shs_has_water_supply",
+        "es_has_electricity_grid",
+        "es_has_electricity_offgrid",
+        "jhs_has_electricity_grid",
+        "jhs_has_electricity_offgrid",
+        "shs_has_electricity_grid",
+        "shs_has_electricity_offgrid",
+        "es_has_internet",
+        "es_internet_purpose_instructional",
+        "es_internet_purpose_admin",
+        "jhs_has_internet",
+        "jhs_internet_purpose_instructional",
+        "jhs_internet_purpose_admin",
+        "shs_has_internet",
+        "shs_internet_purpose_instructional",
+        "shs_internet_purpose_admin"
+      ],
+      "missing_enrollment_ids": 0,
+      "missing_resource_ids": 0,
+      "metadata_mismatches": 0
+    },
+    "ict": {
+      "rows": 60167,
+      "columns": 594,
+      "duplicate_ids": 0,
+      "blank_ids": 0,
+      "sha256": "49ae5cab7642a4dd9486252c92216957d186af7cdb1c97468d02d18e65715b06",
+      "fields": [
+        "school_id",
+        "sector",
+        "school_management",
+        "offers_es",
+        "offers_jhs",
+        "offers_shs",
+        "es_desktop_academic_deped_dcp",
+        "es_desktop_academic_deped",
+        "es_desktop_academic_lgu_sef",
+        "es_desktop_academic_pta",
+        "es_desktop_academic_private_donation",
+        "es_desktop_academic_other_gov",
+        "es_desktop_academic_other_funding",
+        "es_laptop_academic_deped_dcp",
+        "es_laptop_academic_deped",
+        "es_laptop_academic_lgu_sef",
+        "es_laptop_academic_pta",
+        "es_laptop_academic_private_donation",
+        "es_laptop_academic_other_gov",
+        "es_laptop_academic_other_funding",
+        "es_all_in_one_academic_deped_dcp",
+        "es_all_in_one_academic_deped",
+        "es_all_in_one_academic_lgu_sef",
+        "es_all_in_one_academic_pta",
+        "es_all_in_one_academic_private_donation",
+        "es_all_in_one_academic_other_gov",
+        "es_all_in_one_academic_other_funding",
+        "es_tablet_academic_deped_dcp",
+        "es_tablet_academic_deped",
+        "es_tablet_academic_lgu_sef",
+        "es_tablet_academic_pta",
+        "es_tablet_academic_private_donation",
+        "es_tablet_academic_other_gov",
+        "es_tablet_academic_other_funding",
+        "es_tablet_pc_academic_deped_dcp",
+        "es_tablet_pc_academic_deped",
+        "es_tablet_pc_academic_lgu_sef",
+        "es_tablet_pc_academic_pta",
+        "es_tablet_pc_academic_private_donation",
+        "es_tablet_pc_academic_other_gov",
+        "es_tablet_pc_academic_other_funding",
+        "es_virtual_terminal_academic_deped_dcp",
+        "es_virtual_terminal_academic_deped",
+        "es_virtual_terminal_academic_lgu_sef",
+        "es_virtual_terminal_academic_pta",
+        "es_virtual_terminal_academic_private_donation",
+        "es_virtual_terminal_academic_other_gov",
+        "es_virtual_terminal_academic_other_funding",
+        "es_desktop_admin_deped_dcp",
+        "es_desktop_admin_deped",
+        "es_desktop_admin_lgu_sef",
+        "es_desktop_admin_pta",
+        "es_desktop_admin_private_donation",
+        "es_desktop_admin_other_gov",
+        "es_desktop_admin_other_funding",
+        "es_laptop_admin_deped_dcp",
+        "es_laptop_admin_deped",
+        "es_laptop_admin_lgu_sef",
+        "es_laptop_admin_pta",
+        "es_laptop_admin_private_donation",
+        "es_laptop_admin_other_gov",
+        "es_laptop_admin_other_funding",
+        "es_all_in_one_admin_deped_dcp",
+        "es_all_in_one_admin_deped",
+        "es_all_in_one_admin_lgu_sef",
+        "es_all_in_one_admin_pta",
+        "es_all_in_one_admin_private_donation",
+        "es_all_in_one_admin_other_gov",
+        "es_all_in_one_admin_other_funding",
+        "es_tablet_admin_deped_dcp",
+        "es_tablet_admin_deped",
+        "es_tablet_admin_lgu_sef",
+        "es_tablet_admin_pta",
+        "es_tablet_admin_private_donation",
+        "es_tablet_admin_other_gov",
+        "es_tablet_admin_other_funding",
+        "es_tablet_pc_admin_deped_dcp",
+        "es_tablet_pc_admin_deped",
+        "es_tablet_pc_admin_lgu_sef",
+        "es_tablet_pc_admin_pta",
+        "es_tablet_pc_admin_private_donation",
+        "es_tablet_pc_admin_other_gov",
+        "es_tablet_pc_admin_other_funding",
+        "jhs_desktop_academic_deped_dcp",
+        "jhs_desktop_academic_deped",
+        "jhs_desktop_academic_lgu_sef",
+        "jhs_desktop_academic_pta",
+        "jhs_desktop_academic_private_donation",
+        "jhs_desktop_academic_other_gov",
+        "jhs_desktop_academic_other_funding",
+        "jhs_laptop_academic_deped_dcp",
+        "jhs_laptop_academic_deped",
+        "jhs_laptop_academic_lgu_sef",
+        "jhs_laptop_academic_pta",
+        "jhs_laptop_academic_private_donation",
+        "jhs_laptop_academic_other_gov",
+        "jhs_laptop_academic_other_funding",
+        "jhs_all_in_one_academic_deped_dcp",
+        "jhs_all_in_one_academic_deped",
+        "jhs_all_in_one_academic_lgu_sef",
+        "jhs_all_in_one_academic_pta",
+        "jhs_all_in_one_academic_private_donation",
+        "jhs_all_in_one_academic_other_gov",
+        "jhs_all_in_one_academic_other_funding",
+        "jhs_tablet_academic_deped_dcp",
+        "jhs_tablet_academic_deped",
+        "jhs_tablet_academic_lgu_sef",
+        "jhs_tablet_academic_pta",
+        "jhs_tablet_academic_private_donation",
+        "jhs_tablet_academic_other_gov",
+        "jhs_tablet_academic_other_funding",
+        "jhs_tablet_pc_academic_deped_dcp",
+        "jhs_tablet_pc_academic_deped",
+        "jhs_tablet_pc_academic_lgu_sef",
+        "jhs_tablet_pc_academic_pta",
+        "jhs_tablet_pc_academic_private_donation",
+        "jhs_tablet_pc_academic_other_gov",
+        "jhs_tablet_pc_academic_other_funding",
+        "jhs_virtual_terminal_academic_deped_dcp",
+        "jhs_virtual_terminal_academic_deped",
+        "jhs_virtual_terminal_academic_lgu_sef",
+        "jhs_virtual_terminal_academic_pta",
+        "jhs_virtual_terminal_academic_private_donation",
+        "jhs_virtual_terminal_academic_other_gov",
+        "jhs_virtual_terminal_academic_other_funding",
+        "jhs_desktop_admin_deped_dcp",
+        "jhs_desktop_admin_deped",
+        "jhs_desktop_admin_lgu_sef",
+        "jhs_desktop_admin_pta",
+        "jhs_desktop_admin_private_donation",
+        "jhs_desktop_admin_other_gov",
+        "jhs_desktop_admin_other_funding",
+        "jhs_laptop_admin_deped_dcp",
+        "jhs_laptop_admin_deped",
+        "jhs_laptop_admin_lgu_sef",
+        "jhs_laptop_admin_pta",
+        "jhs_laptop_admin_private_donation",
+        "jhs_laptop_admin_other_gov",
+        "jhs_laptop_admin_other_funding",
+        "jhs_all_in_one_admin_deped_dcp",
+        "jhs_all_in_one_admin_deped",
+        "jhs_all_in_one_admin_lgu_sef",
+        "jhs_all_in_one_admin_pta",
+        "jhs_all_in_one_admin_private_donation",
+        "jhs_all_in_one_admin_other_gov",
+        "jhs_all_in_one_admin_other_funding",
+        "jhs_tablet_admin_deped_dcp",
+        "jhs_tablet_admin_deped",
+        "jhs_tablet_admin_lgu_sef",
+        "jhs_tablet_admin_pta",
+        "jhs_tablet_admin_private_donation",
+        "jhs_tablet_admin_other_gov",
+        "jhs_tablet_admin_other_funding",
+        "jhs_tablet_pc_admin_deped_dcp",
+        "jhs_tablet_pc_admin_deped",
+        "jhs_tablet_pc_admin_lgu_sef",
+        "jhs_tablet_pc_admin_pta",
+        "jhs_tablet_pc_admin_private_donation",
+        "jhs_tablet_pc_admin_other_gov",
+        "jhs_tablet_pc_admin_other_funding",
+        "shs_desktop_academic_deped_dcp",
+        "shs_desktop_academic_deped",
+        "shs_desktop_academic_lgu_sef",
+        "shs_desktop_academic_pta",
+        "shs_desktop_academic_private_donation",
+        "shs_desktop_academic_other_gov",
+        "shs_desktop_academic_other_funding",
+        "shs_laptop_academic_deped_dcp",
+        "shs_laptop_academic_deped",
+        "shs_laptop_academic_lgu_sef",
+        "shs_laptop_academic_pta",
+        "shs_laptop_academic_private_donation",
+        "shs_laptop_academic_other_gov",
+        "shs_laptop_academic_other_funding",
+        "shs_all_in_one_academic_deped_dcp",
+        "shs_all_in_one_academic_deped",
+        "shs_all_in_one_academic_lgu_sef",
+        "shs_all_in_one_academic_pta",
+        "shs_all_in_one_academic_private_donation",
+        "shs_all_in_one_academic_other_gov",
+        "shs_all_in_one_academic_other_funding",
+        "shs_tablet_academic_deped_dcp",
+        "shs_tablet_academic_deped",
+        "shs_tablet_academic_lgu_sef",
+        "shs_tablet_academic_pta",
+        "shs_tablet_academic_private_donation",
+        "shs_tablet_academic_other_gov",
+        "shs_tablet_academic_other_funding",
+        "shs_tablet_pc_academic_deped_dcp",
+        "shs_tablet_pc_academic_deped",
+        "shs_tablet_pc_academic_lgu_sef",
+        "shs_tablet_pc_academic_pta",
+        "shs_tablet_pc_academic_private_donation",
+        "shs_tablet_pc_academic_other_gov",
+        "shs_tablet_pc_academic_other_funding",
+        "shs_virtual_terminal_academic_deped_dcp",
+        "shs_virtual_terminal_academic_deped",
+        "shs_virtual_terminal_academic_lgu_sef",
+        "shs_virtual_terminal_academic_pta",
+        "shs_virtual_terminal_academic_private_donation",
+        "shs_virtual_terminal_academic_other_gov",
+        "shs_virtual_terminal_academic_other_funding",
+        "shs_desktop_admin_deped_dcp",
+        "shs_desktop_admin_deped",
+        "shs_desktop_admin_lgu_sef",
+        "shs_desktop_admin_pta",
+        "shs_desktop_admin_private_donation",
+        "shs_desktop_admin_other_gov",
+        "shs_desktop_admin_other_funding",
+        "shs_laptop_admin_deped_dcp",
+        "shs_laptop_admin_deped",
+        "shs_laptop_admin_lgu_sef",
+        "shs_laptop_admin_pta",
+        "shs_laptop_admin_private_donation",
+        "shs_laptop_admin_other_gov",
+        "shs_laptop_admin_other_funding",
+        "shs_all_in_one_admin_deped_dcp",
+        "shs_all_in_one_admin_deped",
+        "shs_all_in_one_admin_lgu_sef",
+        "shs_all_in_one_admin_pta",
+        "shs_all_in_one_admin_private_donation",
+        "shs_all_in_one_admin_other_gov",
+        "shs_all_in_one_admin_other_funding",
+        "shs_tablet_admin_deped_dcp",
+        "shs_tablet_admin_deped",
+        "shs_tablet_admin_lgu_sef",
+        "shs_tablet_admin_pta",
+        "shs_tablet_admin_private_donation",
+        "shs_tablet_admin_other_gov",
+        "shs_tablet_admin_other_funding",
+        "shs_tablet_pc_admin_deped_dcp",
+        "shs_tablet_pc_admin_deped",
+        "shs_tablet_pc_admin_lgu_sef",
+        "shs_tablet_pc_admin_pta",
+        "shs_tablet_pc_admin_private_donation",
+        "shs_tablet_pc_admin_other_gov",
+        "shs_tablet_pc_admin_other_funding",
+        "es_led_tv_academic_deped_dcp",
+        "es_led_tv_academic_deped",
+        "es_led_tv_academic_lgu_sef",
+        "es_led_tv_academic_pta",
+        "es_led_tv_academic_private_donation",
+        "es_led_tv_academic_other_gov",
+        "es_led_tv_academic_other_funding",
+        "es_smart_tv_academic_deped_dcp",
+        "es_smart_tv_academic_deped",
+        "es_smart_tv_academic_lgu_sef",
+        "es_smart_tv_academic_pta",
+        "es_smart_tv_academic_private_donation",
+        "es_smart_tv_academic_other_gov",
+        "es_smart_tv_academic_other_funding",
+        "es_network_switch_academic_deped_dcp",
+        "es_network_switch_academic_deped",
+        "es_network_switch_academic_lgu_sef",
+        "es_network_switch_academic_pta",
+        "es_network_switch_academic_private_donation",
+        "es_network_switch_academic_other_gov",
+        "es_network_switch_academic_other_funding",
+        "es_printer_academic_deped_dcp",
+        "es_printer_academic_deped",
+        "es_printer_academic_lgu_sef",
+        "es_printer_academic_pta",
+        "es_printer_academic_private_donation",
+        "es_printer_academic_other_gov",
+        "es_printer_academic_other_funding",
+        "es_projector_academic_deped_dcp",
+        "es_projector_academic_deped",
+        "es_projector_academic_lgu_sef",
+        "es_projector_academic_pta",
+        "es_projector_academic_private_donation",
+        "es_projector_academic_other_gov",
+        "es_projector_academic_other_funding",
+        "es_external_hard_drive_academic_deped_dcp",
+        "es_external_hard_drive_academic_deped",
+        "es_external_hard_drive_academic_lgu_sef",
+        "es_external_hard_drive_academic_pta",
+        "es_external_hard_drive_academic_private_donation",
+        "es_external_hard_drive_academic_other_gov",
+        "es_external_hard_drive_academic_other_funding",
+        "es_ups_academic_deped_dcp",
+        "es_ups_academic_deped",
+        "es_ups_academic_lgu_sef",
+        "es_ups_academic_pta",
+        "es_ups_academic_private_donation",
+        "es_ups_academic_other_gov",
+        "es_ups_academic_other_funding",
+        "es_router_academic_deped_dcp",
+        "es_router_academic_deped",
+        "es_router_academic_lgu_sef",
+        "es_router_academic_pta",
+        "es_router_academic_private_donation",
+        "es_router_academic_other_gov",
+        "es_router_academic_other_funding",
+        "es_lapel_academic_deped_dcp",
+        "es_lapel_academic_deped",
+        "es_lapel_academic_lgu_sef",
+        "es_lapel_academic_pta",
+        "es_lapel_academic_private_donation",
+        "es_lapel_academic_other_gov",
+        "es_lapel_academic_other_funding",
+        "es_led_tv_admin_deped_dcp",
+        "es_led_tv_admin_deped",
+        "es_led_tv_admin_lgu_sef",
+        "es_led_tv_admin_pta",
+        "es_led_tv_admin_private_donation",
+        "es_led_tv_admin_other_gov",
+        "es_led_tv_admin_other_funding",
+        "es_smart_tv_admin_deped_dcp",
+        "es_smart_tv_admin_deped",
+        "es_smart_tv_admin_lgu_sef",
+        "es_smart_tv_admin_pta",
+        "es_smart_tv_admin_private_donation",
+        "es_smart_tv_admin_other_gov",
+        "es_smart_tv_admin_other_funding",
+        "es_network_switch_admin_deped_dcp",
+        "es_network_switch_admin_deped",
+        "es_network_switch_admin_lgu_sef",
+        "es_network_switch_admin_pta",
+        "es_network_switch_admin_private_donation",
+        "es_network_switch_admin_other_gov",
+        "es_network_switch_admin_other_funding",
+        "es_printer_admin_deped_dcp",
+        "es_printer_admin_deped",
+        "es_printer_admin_lgu_sef",
+        "es_printer_admin_pta",
+        "es_printer_admin_private_donation",
+        "es_printer_admin_other_gov",
+        "es_printer_admin_other_funding",
+        "es_projector_admin_deped_dcp",
+        "es_projector_admin_deped",
+        "es_projector_admin_lgu_sef",
+        "es_projector_admin_pta",
+        "es_projector_admin_private_donation",
+        "es_projector_admin_other_gov",
+        "es_projector_admin_other_funding",
+        "es_external_hard_drive_admin_deped_dcp",
+        "es_external_hard_drive_admin_deped",
+        "es_external_hard_drive_admin_lgu_sef",
+        "es_external_hard_drive_admin_pta",
+        "es_external_hard_drive_admin_private_donation",
+        "es_external_hard_drive_admin_other_gov",
+        "es_external_hard_drive_admin_other_funding",
+        "es_ups_admin_deped_dcp",
+        "es_ups_admin_deped",
+        "es_ups_admin_lgu_sef",
+        "es_ups_admin_pta",
+        "es_ups_admin_private_donation",
+        "es_ups_admin_other_gov",
+        "es_ups_admin_other_funding",
+        "es_router_admin_deped_dcp",
+        "es_router_admin_deped",
+        "es_router_admin_lgu_sef",
+        "es_router_admin_pta",
+        "es_router_admin_private_donation",
+        "es_router_admin_other_gov",
+        "es_router_admin_other_funding",
+        "jhs_led_tv_academic_deped_dcp",
+        "jhs_led_tv_academic_deped",
+        "jhs_led_tv_academic_lgu_sef",
+        "jhs_led_tv_academic_pta",
+        "jhs_led_tv_academic_private_donation",
+        "jhs_led_tv_academic_other_gov",
+        "jhs_led_tv_academic_other_funding",
+        "jhs_smart_tv_academic_deped_dcp",
+        "jhs_smart_tv_academic_deped",
+        "jhs_smart_tv_academic_lgu_sef",
+        "jhs_smart_tv_academic_pta",
+        "jhs_smart_tv_academic_private_donation",
+        "jhs_smart_tv_academic_other_gov",
+        "jhs_smart_tv_academic_other_funding",
+        "jhs_network_switch_academic_deped_dcp",
+        "jhs_network_switch_academic_deped",
+        "jhs_network_switch_academic_lgu_sef",
+        "jhs_network_switch_academic_pta",
+        "jhs_network_switch_academic_private_donation",
+        "jhs_network_switch_academic_other_gov",
+        "jhs_network_switch_academic_other_funding",
+        "jhs_printer_academic_deped_dcp",
+        "jhs_printer_academic_deped",
+        "jhs_printer_academic_lgu_sef",
+        "jhs_printer_academic_pta",
+        "jhs_printer_academic_private_donation",
+        "jhs_printer_academic_other_gov",
+        "jhs_printer_academic_other_funding",
+        "jhs_projector_academic_deped_dcp",
+        "jhs_projector_academic_deped",
+        "jhs_projector_academic_lgu_sef",
+        "jhs_projector_academic_pta",
+        "jhs_projector_academic_private_donation",
+        "jhs_projector_academic_other_gov",
+        "jhs_projector_academic_other_funding",
+        "jhs_external_hard_drive_academic_deped_dcp",
+        "jhs_external_hard_drive_academic_deped",
+        "jhs_external_hard_drive_academic_lgu_sef",
+        "jhs_external_hard_drive_academic_pta",
+        "jhs_external_hard_drive_academic_private_donation",
+        "jhs_external_hard_drive_academic_other_gov",
+        "jhs_external_hard_drive_academic_other_funding",
+        "jhs_ups_academic_deped_dcp",
+        "jhs_ups_academic_deped",
+        "jhs_ups_academic_lgu_sef",
+        "jhs_ups_academic_pta",
+        "jhs_ups_academic_private_donation",
+        "jhs_ups_academic_other_gov",
+        "jhs_ups_academic_other_funding",
+        "jhs_router_academic_deped_dcp",
+        "jhs_router_academic_deped",
+        "jhs_router_academic_lgu_sef",
+        "jhs_router_academic_pta",
+        "jhs_router_academic_private_donation",
+        "jhs_router_academic_other_gov",
+        "jhs_router_academic_other_funding",
+        "jhs_lapel_academic_deped_dcp",
+        "jhs_lapel_academic_deped",
+        "jhs_lapel_academic_lgu_sef",
+        "jhs_lapel_academic_pta",
+        "jhs_lapel_academic_private_donation",
+        "jhs_lapel_academic_other_gov",
+        "jhs_lapel_academic_other_funding",
+        "jhs_led_tv_admin_deped_dcp",
+        "jhs_led_tv_admin_deped",
+        "jhs_led_tv_admin_lgu_sef",
+        "jhs_led_tv_admin_pta",
+        "jhs_led_tv_admin_private_donation",
+        "jhs_led_tv_admin_other_gov",
+        "jhs_led_tv_admin_other_funding",
+        "jhs_smart_tv_admin_deped_dcp",
+        "jhs_smart_tv_admin_deped",
+        "jhs_smart_tv_admin_lgu_sef",
+        "jhs_smart_tv_admin_pta",
+        "jhs_smart_tv_admin_private_donation",
+        "jhs_smart_tv_admin_other_gov",
+        "jhs_smart_tv_admin_other_funding",
+        "jhs_network_switch_admin_deped_dcp",
+        "jhs_network_switch_admin_deped",
+        "jhs_network_switch_admin_lgu_sef",
+        "jhs_network_switch_admin_pta",
+        "jhs_network_switch_admin_private_donation",
+        "jhs_network_switch_admin_other_gov",
+        "jhs_network_switch_admin_other_funding",
+        "jhs_printer_admin_deped_dcp",
+        "jhs_printer_admin_deped",
+        "jhs_printer_admin_lgu_sef",
+        "jhs_printer_admin_pta",
+        "jhs_printer_admin_private_donation",
+        "jhs_printer_admin_other_gov",
+        "jhs_printer_admin_other_funding",
+        "jhs_projector_admin_deped_dcp",
+        "jhs_projector_admin_deped",
+        "jhs_projector_admin_lgu_sef",
+        "jhs_projector_admin_pta",
+        "jhs_projector_admin_private_donation",
+        "jhs_projector_admin_other_gov",
+        "jhs_projector_admin_other_funding",
+        "jhs_external_hard_drive_admin_deped_dcp",
+        "jhs_external_hard_drive_admin_deped",
+        "jhs_external_hard_drive_admin_lgu_sef",
+        "jhs_external_hard_drive_admin_pta",
+        "jhs_external_hard_drive_admin_private_donation",
+        "jhs_external_hard_drive_admin_other_gov",
+        "jhs_external_hard_drive_admin_other_funding",
+        "jhs_ups_admin_deped_dcp",
+        "jhs_ups_admin_deped",
+        "jhs_ups_admin_lgu_sef",
+        "jhs_ups_admin_pta",
+        "jhs_ups_admin_private_donation",
+        "jhs_ups_admin_other_gov",
+        "jhs_ups_admin_other_funding",
+        "jhs_router_admin_deped_dcp",
+        "jhs_router_admin_deped",
+        "jhs_router_admin_lgu_sef",
+        "jhs_router_admin_pta",
+        "jhs_router_admin_private_donation",
+        "jhs_router_admin_other_gov",
+        "jhs_router_admin_other_funding",
+        "shs_led_tv_academic_deped_dcp",
+        "shs_led_tv_academic_deped",
+        "shs_led_tv_academic_lgu_sef",
+        "shs_led_tv_academic_pta",
+        "shs_led_tv_academic_private_donation",
+        "shs_led_tv_academic_other_gov",
+        "shs_led_tv_academic_other_funding",
+        "shs_smart_tv_academic_deped_dcp",
+        "shs_smart_tv_academic_deped",
+        "shs_smart_tv_academic_lgu_sef",
+        "shs_smart_tv_academic_pta",
+        "shs_smart_tv_academic_private_donation",
+        "shs_smart_tv_academic_other_gov",
+        "shs_smart_tv_academic_other_funding",
+        "shs_network_switch_academic_deped_dcp",
+        "shs_network_switch_academic_deped",
+        "shs_network_switch_academic_lgu_sef",
+        "shs_network_switch_academic_pta",
+        "shs_network_switch_academic_private_donation",
+        "shs_network_switch_academic_other_gov",
+        "shs_network_switch_academic_other_funding",
+        "shs_printer_academic_deped_dcp",
+        "shs_printer_academic_deped",
+        "shs_printer_academic_lgu_sef",
+        "shs_printer_academic_pta",
+        "shs_printer_academic_private_donation",
+        "shs_printer_academic_other_gov",
+        "shs_printer_academic_other_funding",
+        "shs_projector_academic_deped_dcp",
+        "shs_projector_academic_deped",
+        "shs_projector_academic_lgu_sef",
+        "shs_projector_academic_pta",
+        "shs_projector_academic_private_donation",
+        "shs_projector_academic_other_gov",
+        "shs_projector_academic_other_funding",
+        "shs_external_hard_drive_academic_deped_dcp",
+        "shs_external_hard_drive_academic_deped",
+        "shs_external_hard_drive_academic_lgu_sef",
+        "shs_external_hard_drive_academic_pta",
+        "shs_external_hard_drive_academic_private_donation",
+        "shs_external_hard_drive_academic_other_gov",
+        "shs_external_hard_drive_academic_other_funding",
+        "shs_ups_academic_deped_dcp",
+        "shs_ups_academic_deped",
+        "shs_ups_academic_lgu_sef",
+        "shs_ups_academic_pta",
+        "shs_ups_academic_private_donation",
+        "shs_ups_academic_other_gov",
+        "shs_ups_academic_other_funding",
+        "shs_router_academic_deped_dcp",
+        "shs_router_academic_deped",
+        "shs_router_academic_lgu_sef",
+        "shs_router_academic_pta",
+        "shs_router_academic_private_donation",
+        "shs_router_academic_other_gov",
+        "shs_router_academic_other_funding",
+        "shs_lapel_academic_deped_dcp",
+        "shs_lapel_academic_deped",
+        "shs_lapel_academic_lgu_sef",
+        "shs_lapel_academic_pta",
+        "shs_lapel_academic_private_donation",
+        "shs_lapel_academic_other_gov",
+        "shs_lapel_academic_other_funding",
+        "shs_led_tv_admin_deped_dcp",
+        "shs_led_tv_admin_deped",
+        "shs_led_tv_admin_lgu_sef",
+        "shs_led_tv_admin_pta",
+        "shs_led_tv_admin_private_donation",
+        "shs_led_tv_admin_other_gov",
+        "shs_led_tv_admin_other_funding",
+        "shs_smart_tv_admin_deped_dcp",
+        "shs_smart_tv_admin_deped",
+        "shs_smart_tv_admin_lgu_sef",
+        "shs_smart_tv_admin_pta",
+        "shs_smart_tv_admin_private_donation",
+        "shs_smart_tv_admin_other_gov",
+        "shs_smart_tv_admin_other_funding",
+        "shs_network_switch_admin_deped_dcp",
+        "shs_network_switch_admin_deped",
+        "shs_network_switch_admin_lgu_sef",
+        "shs_network_switch_admin_pta",
+        "shs_network_switch_admin_private_donation",
+        "shs_network_switch_admin_other_gov",
+        "shs_network_switch_admin_other_funding",
+        "shs_printer_admin_deped_dcp",
+        "shs_printer_admin_deped",
+        "shs_printer_admin_lgu_sef",
+        "shs_printer_admin_pta",
+        "shs_printer_admin_private_donation",
+        "shs_printer_admin_other_gov",
+        "shs_printer_admin_other_funding",
+        "shs_projector_admin_deped_dcp",
+        "shs_projector_admin_deped",
+        "shs_projector_admin_lgu_sef",
+        "shs_projector_admin_pta",
+        "shs_projector_admin_private_donation",
+        "shs_projector_admin_other_gov",
+        "shs_projector_admin_other_funding",
+        "shs_external_hard_drive_admin_deped_dcp",
+        "shs_external_hard_drive_admin_deped",
+        "shs_external_hard_drive_admin_lgu_sef",
+        "shs_external_hard_drive_admin_pta",
+        "shs_external_hard_drive_admin_private_donation",
+        "shs_external_hard_drive_admin_other_gov",
+        "shs_external_hard_drive_admin_other_funding",
+        "shs_ups_admin_deped_dcp",
+        "shs_ups_admin_deped",
+        "shs_ups_admin_lgu_sef",
+        "shs_ups_admin_pta",
+        "shs_ups_admin_private_donation",
+        "shs_ups_admin_other_gov",
+        "shs_ups_admin_other_funding",
+        "shs_router_admin_deped_dcp",
+        "shs_router_admin_deped",
+        "shs_router_admin_lgu_sef",
+        "shs_router_admin_pta",
+        "shs_router_admin_private_donation",
+        "shs_router_admin_other_gov",
+        "shs_router_admin_other_funding"
+      ],
+      "missing_enrollment_ids": 0,
+      "missing_resource_ids": 0,
+      "metadata_mismatches": 0
+    }
+  },
+  "sector_counts": {
+    "Public": 47818,
+    "Private": 12113,
+    "SUC/LUC": 203,
+    "PSO": 33
+  },
+  "geography": {
+    "missing_public_fields": {
+      "region": 0,
+      "province": 0,
+      "municipality": 0,
+      "barangay": 14,
+      "school_name": 0
+    },
+    "public_location_tuples": 1652,
+    "regions": {
+      "Region I": 2861,
+      "Region II": 2539,
+      "Region III": 3729,
+      "Region IV-A": 3565,
+      "MIMAROPA": 2382,
+      "Region V": 3862,
+      "Region VI": 4057,
+      "Region VII": 3820,
+      "Region VIII": 4179,
+      "Region IX": 2546,
+      "Region X": 2531,
+      "Region XI": 2218,
+      "Region XII": 2155,
+      "CARAGA": 2099,
+      "BARMM": 2603,
+      "CAR": 1844,
+      "NCR": 828
+    },
+    "coordinates_present": false,
+    "psgc_present": false
+  },
+  "numeric": {
+    "es_classrooms_instructional": {
+      "reported": 38677,
+      "missing": 9141,
+      "zero": 0,
+      "negative": 0,
+      "sum": 422455
+    },
+    "jhs_classrooms_instructional": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 1030,
+      "negative": 0,
+      "sum": 164281
+    },
+    "shs_classrooms_instructional": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 286,
+      "negative": 0,
+      "sum": 69624
+    },
+    "es_classrooms_non_instructional": {
+      "reported": 26332,
+      "missing": 21486,
+      "zero": 0,
+      "negative": 0,
+      "sum": 85272
+    },
+    "jhs_classrooms_non_instructional": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 2740,
+      "negative": 0,
+      "sum": 37757
+    },
+    "shs_classrooms_non_instructional": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 2172,
+      "negative": 0,
+      "sum": 15367
+    },
+    "buildings_good_condition": {
+      "reported": 47817,
+      "missing": 1,
+      "zero": 19902,
+      "negative": 0,
+      "sum": 96980
+    },
+    "buildings_needs_minor_repair": {
+      "reported": 47817,
+      "missing": 1,
+      "zero": 16946,
+      "negative": 0,
+      "sum": 103202
+    },
+    "buildings_needs_major_repair": {
+      "reported": 47817,
+      "missing": 1,
+      "zero": 16881,
+      "negative": 0,
+      "sum": 96041
+    },
+    "buildings_for_completion": {
+      "reported": 47817,
+      "missing": 1,
+      "zero": 46665,
+      "negative": 0,
+      "sum": 1396
+    },
+    "buildings_ongoing_construction": {
+      "reported": 47817,
+      "missing": 1,
+      "zero": 46718,
+      "negative": 0,
+      "sum": 1388
+    },
+    "buildings_for_condemnation": {
+      "reported": 47817,
+      "missing": 1,
+      "zero": 36639,
+      "negative": 0,
+      "sum": 22128
+    },
+    "buildings_for_demolition": {
+      "reported": 47817,
+      "missing": 1,
+      "zero": 44445,
+      "negative": 0,
+      "sum": 6629
+    },
+    "es_temporary_learning_spaces": {
+      "reported": 39345,
+      "missing": 8473,
+      "zero": 35414,
+      "negative": 0,
+      "sum": 7739
+    },
+    "hs_temporary_learning_spaces": {
+      "reported": 10819,
+      "missing": 36999,
+      "zero": 9434,
+      "negative": 0,
+      "sum": 3895
+    },
+    "es_classes_using_temporary_learning_spaces": {
+      "reported": 39345,
+      "missing": 8473,
+      "zero": 35978,
+      "negative": 0,
+      "sum": 8243
+    },
+    "hs_classes_using_temporary_learning_spaces": {
+      "reported": 10819,
+      "missing": 36999,
+      "zero": 9566,
+      "negative": 0,
+      "sum": 4140
+    },
+    "es_makeshift_rooms": {
+      "reported": 39345,
+      "missing": 8473,
+      "zero": 28192,
+      "negative": 0,
+      "sum": 24411
+    },
+    "hs_makeshift_rooms": {
+      "reported": 10819,
+      "missing": 36999,
+      "zero": 7608,
+      "negative": 0,
+      "sum": 9962
+    },
+    "es_classes_using_makeshift_rooms": {
+      "reported": 39345,
+      "missing": 8473,
+      "zero": 30242,
+      "negative": 0,
+      "sum": 22960
+    },
+    "hs_classes_using_makeshift_rooms": {
+      "reported": 10819,
+      "missing": 36999,
+      "zero": 8120,
+      "negative": 0,
+      "sum": 9870
+    },
+    "wash_es_group_func_with_soap": {
+      "reported": 28887,
+      "missing": 18931,
+      "zero": 0,
+      "negative": 0,
+      "sum": 104241
+    },
+    "wash_es_group_func_no_soap": {
+      "reported": 3087,
+      "missing": 44731,
+      "zero": 0,
+      "negative": 0,
+      "sum": 9788
+    },
+    "wash_es_group_nonfunc": {
+      "reported": 6316,
+      "missing": 41502,
+      "zero": 0,
+      "negative": 0,
+      "sum": 13162
+    },
+    "wash_es_group_outlet": {
+      "reported": 29980,
+      "missing": 17838,
+      "zero": 0,
+      "negative": 0,
+      "sum": 554661
+    },
+    "wash_es_indiv_func_with_soap": {
+      "reported": 31000,
+      "missing": 16818,
+      "zero": 0,
+      "negative": 0,
+      "sum": 372722
+    },
+    "wash_es_indiv_func_no_soap": {
+      "reported": 2436,
+      "missing": 45382,
+      "zero": 0,
+      "negative": 0,
+      "sum": 17012
+    },
+    "wash_es_indiv_nonfunc": {
+      "reported": 4618,
+      "missing": 43200,
+      "zero": 0,
+      "negative": 0,
+      "sum": 17040
+    },
+    "wash_es_indiv_outlet": {
+      "reported": 29402,
+      "missing": 18416,
+      "zero": 0,
+      "negative": 0,
+      "sum": 409900
+    },
+    "wash_jhs_group_func_with_soap": {
+      "reported": 7387,
+      "missing": 40431,
+      "zero": 0,
+      "negative": 0,
+      "sum": 34233
+    },
+    "wash_jhs_group_func_no_soap": {
+      "reported": 1473,
+      "missing": 46345,
+      "zero": 0,
+      "negative": 0,
+      "sum": 5702
+    },
+    "wash_jhs_group_nonfunc": {
+      "reported": 1897,
+      "missing": 45921,
+      "zero": 0,
+      "negative": 0,
+      "sum": 4455
+    },
+    "wash_jhs_group_outlet": {
+      "reported": 7798,
+      "missing": 40020,
+      "zero": 0,
+      "negative": 0,
+      "sum": 138900
+    },
+    "wash_jhs_indiv_func_with_soap": {
+      "reported": 7090,
+      "missing": 40728,
+      "zero": 0,
+      "negative": 0,
+      "sum": 84544
+    },
+    "wash_jhs_indiv_func_no_soap": {
+      "reported": 1278,
+      "missing": 46540,
+      "zero": 0,
+      "negative": 0,
+      "sum": 10355
+    },
+    "wash_jhs_indiv_nonfunc": {
+      "reported": 1528,
+      "missing": 46290,
+      "zero": 0,
+      "negative": 0,
+      "sum": 8222
+    },
+    "wash_jhs_indiv_outlet": {
+      "reported": 7051,
+      "missing": 40767,
+      "zero": 0,
+      "negative": 0,
+      "sum": 105577
+    },
+    "wash_shs_group_func_with_soap": {
+      "reported": 5055,
+      "missing": 42763,
+      "zero": 0,
+      "negative": 0,
+      "sum": 21684
+    },
+    "wash_shs_group_func_no_soap": {
+      "reported": 1104,
+      "missing": 46714,
+      "zero": 0,
+      "negative": 0,
+      "sum": 3893
+    },
+    "wash_shs_group_nonfunc": {
+      "reported": 1182,
+      "missing": 46636,
+      "zero": 0,
+      "negative": 0,
+      "sum": 2895
+    },
+    "wash_shs_group_outlet": {
+      "reported": 5287,
+      "missing": 42531,
+      "zero": 0,
+      "negative": 0,
+      "sum": 84433
+    },
+    "wash_shs_indiv_func_with_soap": {
+      "reported": 4881,
+      "missing": 42937,
+      "zero": 0,
+      "negative": 0,
+      "sum": 51545
+    },
+    "wash_shs_indiv_func_no_soap": {
+      "reported": 949,
+      "missing": 46869,
+      "zero": 0,
+      "negative": 0,
+      "sum": 6738
+    },
+    "wash_shs_indiv_nonfunc": {
+      "reported": 1062,
+      "missing": 46756,
+      "zero": 0,
+      "negative": 0,
+      "sum": 5301
+    },
+    "wash_shs_indiv_outlet": {
+      "reported": 4838,
+      "missing": 42980,
+      "zero": 0,
+      "negative": 0,
+      "sum": 67352
+    },
+    "san_attached_es_toilet_male": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 24344,
+      "negative": 0,
+      "sum": 56395
+    },
+    "san_attached_es_toilet_female": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 23956,
+      "negative": 0,
+      "sum": 66774
+    },
+    "san_attached_es_toilet_pwd": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 34064,
+      "negative": 0,
+      "sum": 10298
+    },
+    "san_attached_es_toilet_shared": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 5250,
+      "negative": 0,
+      "sum": 331854
+    },
+    "san_attached_es_toilet_nonfunc": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 28013,
+      "negative": 0,
+      "sum": 38558
+    },
+    "san_attached_es_sink": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 7227,
+      "negative": 0,
+      "sum": 385109
+    },
+    "san_attached_es_urinal": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 32414,
+      "negative": 0,
+      "sum": 29828
+    },
+    "san_attached_es_urinal_trough": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 35361,
+      "negative": 0,
+      "sum": 14264
+    },
+    "san_attached_es_septic": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 4108,
+      "negative": 0,
+      "sum": 186848
+    },
+    "san_attached_es_faucet_with_water": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 9029,
+      "negative": 0,
+      "sum": 707874
+    },
+    "san_attached_es_faucet_no_water": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 26944,
+      "negative": 0,
+      "sum": 89650
+    },
+    "san_attached_jhs_toilet_male": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 3713,
+      "negative": 0,
+      "sum": 38607
+    },
+    "san_attached_jhs_toilet_female": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 3612,
+      "negative": 0,
+      "sum": 48868
+    },
+    "san_attached_jhs_toilet_pwd": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 6297,
+      "negative": 0,
+      "sum": 10119
+    },
+    "san_attached_jhs_toilet_shared": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 2538,
+      "negative": 0,
+      "sum": 62352
+    },
+    "san_attached_jhs_toilet_nonfunc": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 5800,
+      "negative": 0,
+      "sum": 23770
+    },
+    "san_attached_jhs_sink": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 2223,
+      "negative": 0,
+      "sum": 113528
+    },
+    "san_attached_jhs_urinal": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 6634,
+      "negative": 0,
+      "sum": 16389
+    },
+    "san_attached_jhs_urinal_trough": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 6730,
+      "negative": 0,
+      "sum": 14918
+    },
+    "san_attached_jhs_septic": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 1656,
+      "negative": 0,
+      "sum": 43419
+    },
+    "san_attached_jhs_faucet_with_water": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 2561,
+      "negative": 0,
+      "sum": 199683
+    },
+    "san_attached_jhs_faucet_no_water": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 5592,
+      "negative": 0,
+      "sum": 56496
+    },
+    "san_attached_shs_toilet_male": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 2586,
+      "negative": 0,
+      "sum": 17553
+    },
+    "san_attached_shs_toilet_female": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 2397,
+      "negative": 0,
+      "sum": 22433
+    },
+    "san_attached_shs_toilet_pwd": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 5081,
+      "negative": 0,
+      "sum": 4660
+    },
+    "san_attached_shs_toilet_shared": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 1792,
+      "negative": 0,
+      "sum": 24658
+    },
+    "san_attached_shs_toilet_nonfunc": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 4430,
+      "negative": 0,
+      "sum": 10254
+    },
+    "san_attached_shs_sink": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 1170,
+      "negative": 0,
+      "sum": 49357
+    },
+    "san_attached_shs_urinal": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 5135,
+      "negative": 0,
+      "sum": 6613
+    },
+    "san_attached_shs_urinal_trough": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 4754,
+      "negative": 0,
+      "sum": 7504
+    },
+    "san_attached_shs_septic": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 1295,
+      "negative": 0,
+      "sum": 17573
+    },
+    "san_attached_shs_faucet_with_water": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 1386,
+      "negative": 0,
+      "sum": 88296
+    },
+    "san_attached_shs_faucet_no_water": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 3904,
+      "negative": 0,
+      "sum": 25692
+    },
+    "san_standalone_es_toilet_male": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 23519,
+      "negative": 0,
+      "sum": 26231
+    },
+    "san_standalone_es_toilet_female": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 23684,
+      "negative": 0,
+      "sum": 27253
+    },
+    "san_standalone_es_toilet_pwd": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 34640,
+      "negative": 0,
+      "sum": 6259
+    },
+    "san_standalone_es_toilet_shared": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 29385,
+      "negative": 0,
+      "sum": 36294
+    },
+    "san_standalone_es_toilet_nonfunc": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 31793,
+      "negative": 0,
+      "sum": 21409
+    },
+    "san_standalone_es_sink": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 16454,
+      "negative": 0,
+      "sum": 119924
+    },
+    "san_standalone_es_urinal": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 36611,
+      "negative": 0,
+      "sum": 7254
+    },
+    "san_standalone_es_urinal_trough": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 37907,
+      "negative": 0,
+      "sum": 2923
+    },
+    "san_standalone_es_septic": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 16552,
+      "negative": 0,
+      "sum": 22796
+    },
+    "san_standalone_es_faucet_with_water": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 15830,
+      "negative": 0,
+      "sum": 365672
+    },
+    "san_standalone_es_faucet_no_water": {
+      "reported": 39346,
+      "missing": 8472,
+      "zero": 31494,
+      "negative": 0,
+      "sum": 48426
+    },
+    "san_standalone_jhs_toilet_male": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 5441,
+      "negative": 0,
+      "sum": 10541
+    },
+    "san_standalone_jhs_toilet_female": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 5467,
+      "negative": 0,
+      "sum": 11806
+    },
+    "san_standalone_jhs_toilet_pwd": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 8730,
+      "negative": 0,
+      "sum": 2563
+    },
+    "san_standalone_jhs_toilet_shared": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 7380,
+      "negative": 0,
+      "sum": 9210
+    },
+    "san_standalone_jhs_toilet_nonfunc": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 7977,
+      "negative": 0,
+      "sum": 7247
+    },
+    "san_standalone_jhs_sink": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 4219,
+      "negative": 0,
+      "sum": 31460
+    },
+    "san_standalone_jhs_urinal": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 9347,
+      "negative": 0,
+      "sum": 3461
+    },
+    "san_standalone_jhs_urinal_trough": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 9363,
+      "negative": 0,
+      "sum": 2191
+    },
+    "san_standalone_jhs_septic": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 4159,
+      "negative": 0,
+      "sum": 6402
+    },
+    "san_standalone_jhs_faucet_with_water": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 4119,
+      "negative": 0,
+      "sum": 81205
+    },
+    "san_standalone_jhs_faucet_no_water": {
+      "reported": 10561,
+      "missing": 37257,
+      "zero": 7938,
+      "negative": 0,
+      "sum": 14504
+    },
+    "san_standalone_shs_toilet_male": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 5507,
+      "negative": 0,
+      "sum": 3687
+    },
+    "san_standalone_shs_toilet_female": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 5412,
+      "negative": 0,
+      "sum": 4208
+    },
+    "san_standalone_shs_toilet_pwd": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 7217,
+      "negative": 0,
+      "sum": 699
+    },
+    "san_standalone_shs_toilet_shared": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 6235,
+      "negative": 0,
+      "sum": 3259
+    },
+    "san_standalone_shs_toilet_nonfunc": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 6069,
+      "negative": 0,
+      "sum": 2828
+    },
+    "san_standalone_shs_sink": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 3635,
+      "negative": 0,
+      "sum": 11926
+    },
+    "san_standalone_shs_urinal": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 7111,
+      "negative": 0,
+      "sum": 1164
+    },
+    "san_standalone_shs_urinal_trough": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 7291,
+      "negative": 0,
+      "sum": 800
+    },
+    "san_standalone_shs_septic": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 7662,
+      "negative": 0,
+      "sum": 81
+    },
+    "san_standalone_shs_faucet_with_water": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 2877,
+      "negative": 0,
+      "sum": 31362
+    },
+    "san_standalone_shs_faucet_no_water": {
+      "reported": 7743,
+      "missing": 40075,
+      "zero": 5831,
+      "negative": 0,
+      "sum": 5816
+    },
+    "es_desktop_academic_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 31386,
+      "negative": 0,
+      "sum": 49288
+    },
+    "es_desktop_academic_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38479,
+      "negative": 0,
+      "sum": 2743
+    },
+    "es_desktop_academic_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38161,
+      "negative": 0,
+      "sum": 7349
+    },
+    "es_desktop_academic_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39214,
+      "negative": 0,
+      "sum": 666
+    },
+    "es_desktop_academic_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38177,
+      "negative": 0,
+      "sum": 5950
+    },
+    "es_desktop_academic_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38888,
+      "negative": 0,
+      "sum": 1407
+    },
+    "es_desktop_academic_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39110,
+      "negative": 0,
+      "sum": 675
+    },
+    "es_laptop_academic_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 19899,
+      "negative": 0,
+      "sum": 61631
+    },
+    "es_laptop_academic_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 34882,
+      "negative": 0,
+      "sum": 11396
+    },
+    "es_laptop_academic_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 36021,
+      "negative": 0,
+      "sum": 34294
+    },
+    "es_laptop_academic_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39218,
+      "negative": 0,
+      "sum": 374
+    },
+    "es_laptop_academic_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38485,
+      "negative": 0,
+      "sum": 3037
+    },
+    "es_laptop_academic_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38891,
+      "negative": 0,
+      "sum": 1507
+    },
+    "es_laptop_academic_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38552,
+      "negative": 0,
+      "sum": 3497
+    },
+    "es_all_in_one_academic_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39035,
+      "negative": 0,
+      "sum": 1957
+    },
+    "es_all_in_one_academic_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39198,
+      "negative": 0,
+      "sum": 1955
+    },
+    "es_all_in_one_academic_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39269,
+      "negative": 0,
+      "sum": 3396
+    },
+    "es_all_in_one_academic_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39339,
+      "negative": 0,
+      "sum": 22
+    },
+    "es_all_in_one_academic_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39290,
+      "negative": 0,
+      "sum": 384
+    },
+    "es_all_in_one_academic_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39323,
+      "negative": 0,
+      "sum": 55
+    },
+    "es_all_in_one_academic_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39318,
+      "negative": 0,
+      "sum": 149
+    },
+    "es_tablet_academic_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 36121,
+      "negative": 0,
+      "sum": 77246
+    },
+    "es_tablet_academic_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 36016,
+      "negative": 0,
+      "sum": 89149
+    },
+    "es_tablet_academic_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 37528,
+      "negative": 0,
+      "sum": 152864
+    },
+    "es_tablet_academic_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39325,
+      "negative": 0,
+      "sum": 189
+    },
+    "es_tablet_academic_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38797,
+      "negative": 0,
+      "sum": 12145
+    },
+    "es_tablet_academic_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39034,
+      "negative": 0,
+      "sum": 4477
+    },
+    "es_tablet_academic_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39147,
+      "negative": 0,
+      "sum": 5149
+    },
+    "es_tablet_pc_academic_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 37728,
+      "negative": 0,
+      "sum": 44997
+    },
+    "es_tablet_pc_academic_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39057,
+      "negative": 0,
+      "sum": 6132
+    },
+    "es_tablet_pc_academic_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39177,
+      "negative": 0,
+      "sum": 8287
+    },
+    "es_tablet_pc_academic_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39336,
+      "negative": 0,
+      "sum": 86
+    },
+    "es_tablet_pc_academic_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39276,
+      "negative": 0,
+      "sum": 946
+    },
+    "es_tablet_pc_academic_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39317,
+      "negative": 0,
+      "sum": 618
+    },
+    "es_tablet_pc_academic_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39319,
+      "negative": 0,
+      "sum": 193
+    },
+    "es_virtual_terminal_academic_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 36388,
+      "negative": 0,
+      "sum": 20399
+    },
+    "es_virtual_terminal_academic_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39317,
+      "negative": 0,
+      "sum": 106
+    },
+    "es_virtual_terminal_academic_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39312,
+      "negative": 0,
+      "sum": 139
+    },
+    "es_virtual_terminal_academic_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39340,
+      "negative": 0,
+      "sum": 9
+    },
+    "es_virtual_terminal_academic_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39313,
+      "negative": 0,
+      "sum": 296
+    },
+    "es_virtual_terminal_academic_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39333,
+      "negative": 0,
+      "sum": 103
+    },
+    "es_virtual_terminal_academic_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39331,
+      "negative": 0,
+      "sum": 38
+    },
+    "es_desktop_admin_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 36676,
+      "negative": 0,
+      "sum": 4158
+    },
+    "es_desktop_admin_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 37329,
+      "negative": 0,
+      "sum": 2967
+    },
+    "es_desktop_admin_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 37364,
+      "negative": 0,
+      "sum": 3477
+    },
+    "es_desktop_admin_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39213,
+      "negative": 0,
+      "sum": 149
+    },
+    "es_desktop_admin_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38246,
+      "negative": 0,
+      "sum": 1716
+    },
+    "es_desktop_admin_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38940,
+      "negative": 0,
+      "sum": 617
+    },
+    "es_desktop_admin_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38826,
+      "negative": 0,
+      "sum": 768
+    },
+    "es_laptop_admin_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 26831,
+      "negative": 0,
+      "sum": 20467
+    },
+    "es_laptop_admin_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 34784,
+      "negative": 0,
+      "sum": 6171
+    },
+    "es_laptop_admin_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 35488,
+      "negative": 0,
+      "sum": 6478
+    },
+    "es_laptop_admin_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39285,
+      "negative": 0,
+      "sum": 71
+    },
+    "es_laptop_admin_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38824,
+      "negative": 0,
+      "sum": 812
+    },
+    "es_laptop_admin_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38989,
+      "negative": 0,
+      "sum": 498
+    },
+    "es_laptop_admin_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38533,
+      "negative": 0,
+      "sum": 1202
+    },
+    "es_all_in_one_admin_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39166,
+      "negative": 0,
+      "sum": 232
+    },
+    "es_all_in_one_admin_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39219,
+      "negative": 0,
+      "sum": 220
+    },
+    "es_all_in_one_admin_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39236,
+      "negative": 0,
+      "sum": 504
+    },
+    "es_all_in_one_admin_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39337,
+      "negative": 0,
+      "sum": 8
+    },
+    "es_all_in_one_admin_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39304,
+      "negative": 0,
+      "sum": 75
+    },
+    "es_all_in_one_admin_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39304,
+      "negative": 0,
+      "sum": 53
+    },
+    "es_all_in_one_admin_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39309,
+      "negative": 0,
+      "sum": 59
+    },
+    "es_tablet_admin_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38864,
+      "negative": 0,
+      "sum": 2904
+    },
+    "es_tablet_admin_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38887,
+      "negative": 0,
+      "sum": 1808
+    },
+    "es_tablet_admin_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39080,
+      "negative": 0,
+      "sum": 2091
+    },
+    "es_tablet_admin_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39337,
+      "negative": 0,
+      "sum": 9
+    },
+    "es_tablet_admin_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39256,
+      "negative": 0,
+      "sum": 299
+    },
+    "es_tablet_admin_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39298,
+      "negative": 0,
+      "sum": 166
+    },
+    "es_tablet_admin_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39282,
+      "negative": 0,
+      "sum": 141
+    },
+    "es_tablet_pc_admin_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39180,
+      "negative": 0,
+      "sum": 956
+    },
+    "es_tablet_pc_admin_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39303,
+      "negative": 0,
+      "sum": 121
+    },
+    "es_tablet_pc_admin_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39310,
+      "negative": 0,
+      "sum": 467
+    },
+    "es_tablet_pc_admin_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39342,
+      "negative": 0,
+      "sum": 2
+    },
+    "es_tablet_pc_admin_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39328,
+      "negative": 0,
+      "sum": 63
+    },
+    "es_tablet_pc_admin_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39338,
+      "negative": 0,
+      "sum": 10
+    },
+    "es_tablet_pc_admin_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39334,
+      "negative": 0,
+      "sum": 10
+    },
+    "jhs_desktop_academic_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 6901,
+      "negative": 0,
+      "sum": 77471
+    },
+    "jhs_desktop_academic_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9980,
+      "negative": 0,
+      "sum": 4443
+    },
+    "jhs_desktop_academic_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10096,
+      "negative": 0,
+      "sum": 6765
+    },
+    "jhs_desktop_academic_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10486,
+      "negative": 0,
+      "sum": 675
+    },
+    "jhs_desktop_academic_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10173,
+      "negative": 0,
+      "sum": 3397
+    },
+    "jhs_desktop_academic_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10178,
+      "negative": 0,
+      "sum": 2794
+    },
+    "jhs_desktop_academic_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10413,
+      "negative": 0,
+      "sum": 883
+    },
+    "jhs_laptop_academic_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 6499,
+      "negative": 0,
+      "sum": 50549
+    },
+    "jhs_laptop_academic_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9801,
+      "negative": 0,
+      "sum": 4264
+    },
+    "jhs_laptop_academic_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9857,
+      "negative": 0,
+      "sum": 19408
+    },
+    "jhs_laptop_academic_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10537,
+      "negative": 0,
+      "sum": 50
+    },
+    "jhs_laptop_academic_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10396,
+      "negative": 0,
+      "sum": 1014
+    },
+    "jhs_laptop_academic_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10438,
+      "negative": 0,
+      "sum": 1104
+    },
+    "jhs_laptop_academic_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10451,
+      "negative": 0,
+      "sum": 765
+    },
+    "jhs_all_in_one_academic_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10444,
+      "negative": 0,
+      "sum": 2813
+    },
+    "jhs_all_in_one_academic_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10511,
+      "negative": 0,
+      "sum": 1282
+    },
+    "jhs_all_in_one_academic_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10514,
+      "negative": 0,
+      "sum": 26505
+    },
+    "jhs_all_in_one_academic_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10556,
+      "negative": 0,
+      "sum": 33
+    },
+    "jhs_all_in_one_academic_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10542,
+      "negative": 0,
+      "sum": 135
+    },
+    "jhs_all_in_one_academic_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10548,
+      "negative": 0,
+      "sum": 29
+    },
+    "jhs_all_in_one_academic_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10552,
+      "negative": 0,
+      "sum": 112
+    },
+    "jhs_tablet_academic_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9065,
+      "negative": 0,
+      "sum": 64118
+    },
+    "jhs_tablet_academic_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9628,
+      "negative": 0,
+      "sum": 57692
+    },
+    "jhs_tablet_academic_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9990,
+      "negative": 0,
+      "sum": 227154
+    },
+    "jhs_tablet_academic_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10555,
+      "negative": 0,
+      "sum": 50
+    },
+    "jhs_tablet_academic_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10464,
+      "negative": 0,
+      "sum": 3084
+    },
+    "jhs_tablet_academic_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10461,
+      "negative": 0,
+      "sum": 11784
+    },
+    "jhs_tablet_academic_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10504,
+      "negative": 0,
+      "sum": 4633
+    },
+    "jhs_tablet_pc_academic_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 8108,
+      "negative": 0,
+      "sum": 89577
+    },
+    "jhs_tablet_pc_academic_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10452,
+      "negative": 0,
+      "sum": 4365
+    },
+    "jhs_tablet_pc_academic_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10494,
+      "negative": 0,
+      "sum": 17219
+    },
+    "jhs_tablet_pc_academic_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10558,
+      "negative": 0,
+      "sum": 2
+    },
+    "jhs_tablet_pc_academic_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10537,
+      "negative": 0,
+      "sum": 375
+    },
+    "jhs_tablet_pc_academic_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10549,
+      "negative": 0,
+      "sum": 349
+    },
+    "jhs_tablet_pc_academic_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10547,
+      "negative": 0,
+      "sum": 689
+    },
+    "jhs_virtual_terminal_academic_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 8063,
+      "negative": 0,
+      "sum": 99792
+    },
+    "jhs_virtual_terminal_academic_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10537,
+      "negative": 0,
+      "sum": 395
+    },
+    "jhs_virtual_terminal_academic_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10547,
+      "negative": 0,
+      "sum": 377
+    },
+    "jhs_virtual_terminal_academic_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10559,
+      "negative": 0,
+      "sum": 9
+    },
+    "jhs_virtual_terminal_academic_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10543,
+      "negative": 0,
+      "sum": 202
+    },
+    "jhs_virtual_terminal_academic_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10554,
+      "negative": 0,
+      "sum": 54
+    },
+    "jhs_virtual_terminal_academic_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10552,
+      "negative": 0,
+      "sum": 245
+    },
+    "jhs_desktop_admin_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9331,
+      "negative": 0,
+      "sum": 3436
+    },
+    "jhs_desktop_admin_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9079,
+      "negative": 0,
+      "sum": 5518
+    },
+    "jhs_desktop_admin_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9912,
+      "negative": 0,
+      "sum": 2309
+    },
+    "jhs_desktop_admin_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10493,
+      "negative": 0,
+      "sum": 118
+    },
+    "jhs_desktop_admin_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10180,
+      "negative": 0,
+      "sum": 1116
+    },
+    "jhs_desktop_admin_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10290,
+      "negative": 0,
+      "sum": 2138
+    },
+    "jhs_desktop_admin_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10084,
+      "negative": 0,
+      "sum": 1912
+    },
+    "jhs_laptop_admin_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 7635,
+      "negative": 0,
+      "sum": 8043
+    },
+    "jhs_laptop_admin_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9191,
+      "negative": 0,
+      "sum": 3274
+    },
+    "jhs_laptop_admin_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9767,
+      "negative": 0,
+      "sum": 2787
+    },
+    "jhs_laptop_admin_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10529,
+      "negative": 0,
+      "sum": 37
+    },
+    "jhs_laptop_admin_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10421,
+      "negative": 0,
+      "sum": 296
+    },
+    "jhs_laptop_admin_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10433,
+      "negative": 0,
+      "sum": 617
+    },
+    "jhs_laptop_admin_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10251,
+      "negative": 0,
+      "sum": 755
+    },
+    "jhs_all_in_one_admin_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10517,
+      "negative": 0,
+      "sum": 154
+    },
+    "jhs_all_in_one_admin_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10528,
+      "negative": 0,
+      "sum": 116
+    },
+    "jhs_all_in_one_admin_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10535,
+      "negative": 0,
+      "sum": 360
+    },
+    "jhs_all_in_one_admin_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10559,
+      "negative": 0,
+      "sum": 4
+    },
+    "jhs_all_in_one_admin_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10547,
+      "negative": 0,
+      "sum": 39
+    },
+    "jhs_all_in_one_admin_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10553,
+      "negative": 0,
+      "sum": 12
+    },
+    "jhs_all_in_one_admin_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10544,
+      "negative": 0,
+      "sum": 35
+    },
+    "jhs_tablet_admin_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10375,
+      "negative": 0,
+      "sum": 1815
+    },
+    "jhs_tablet_admin_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10457,
+      "negative": 0,
+      "sum": 1458
+    },
+    "jhs_tablet_admin_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10503,
+      "negative": 0,
+      "sum": 2945
+    },
+    "jhs_tablet_admin_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10558,
+      "negative": 0,
+      "sum": 4
+    },
+    "jhs_tablet_admin_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10546,
+      "negative": 0,
+      "sum": 128
+    },
+    "jhs_tablet_admin_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10551,
+      "negative": 0,
+      "sum": 204
+    },
+    "jhs_tablet_admin_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10543,
+      "negative": 0,
+      "sum": 66
+    },
+    "jhs_tablet_pc_admin_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10364,
+      "negative": 0,
+      "sum": 1826
+    },
+    "jhs_tablet_pc_admin_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10532,
+      "negative": 0,
+      "sum": 186
+    },
+    "jhs_tablet_pc_admin_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10546,
+      "negative": 0,
+      "sum": 279
+    },
+    "jhs_tablet_pc_admin_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10560,
+      "negative": 0,
+      "sum": 0
+    },
+    "jhs_tablet_pc_admin_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10559,
+      "negative": 0,
+      "sum": 1
+    },
+    "jhs_tablet_pc_admin_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10559,
+      "negative": 0,
+      "sum": 1
+    },
+    "jhs_tablet_pc_admin_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10558,
+      "negative": 0,
+      "sum": 2
+    },
+    "shs_desktop_academic_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 4467,
+      "negative": 0,
+      "sum": 80384
+    },
+    "shs_desktop_academic_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7092,
+      "negative": 0,
+      "sum": 8894
+    },
+    "shs_desktop_academic_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7482,
+      "negative": 0,
+      "sum": 4740
+    },
+    "shs_desktop_academic_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7714,
+      "negative": 0,
+      "sum": 203
+    },
+    "shs_desktop_academic_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7566,
+      "negative": 0,
+      "sum": 1607
+    },
+    "shs_desktop_academic_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7620,
+      "negative": 0,
+      "sum": 981
+    },
+    "shs_desktop_academic_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7667,
+      "negative": 0,
+      "sum": 488
+    },
+    "shs_laptop_academic_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 5032,
+      "negative": 0,
+      "sum": 28094
+    },
+    "shs_laptop_academic_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7182,
+      "negative": 0,
+      "sum": 3883
+    },
+    "shs_laptop_academic_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7415,
+      "negative": 0,
+      "sum": 5978
+    },
+    "shs_laptop_academic_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7731,
+      "negative": 0,
+      "sum": 87
+    },
+    "shs_laptop_academic_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7682,
+      "negative": 0,
+      "sum": 322
+    },
+    "shs_laptop_academic_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7696,
+      "negative": 0,
+      "sum": 290
+    },
+    "shs_laptop_academic_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7690,
+      "negative": 0,
+      "sum": 254
+    },
+    "shs_all_in_one_academic_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7634,
+      "negative": 0,
+      "sum": 3025
+    },
+    "shs_all_in_one_academic_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7703,
+      "negative": 0,
+      "sum": 1102
+    },
+    "shs_all_in_one_academic_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7711,
+      "negative": 0,
+      "sum": 11761
+    },
+    "shs_all_in_one_academic_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7740,
+      "negative": 0,
+      "sum": 13
+    },
+    "shs_all_in_one_academic_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7734,
+      "negative": 0,
+      "sum": 43
+    },
+    "shs_all_in_one_academic_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7738,
+      "negative": 0,
+      "sum": 690
+    },
+    "shs_all_in_one_academic_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7736,
+      "negative": 0,
+      "sum": 274
+    },
+    "shs_tablet_academic_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 6642,
+      "negative": 0,
+      "sum": 52096
+    },
+    "shs_tablet_academic_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7222,
+      "negative": 0,
+      "sum": 49019
+    },
+    "shs_tablet_academic_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7393,
+      "negative": 0,
+      "sum": 107762
+    },
+    "shs_tablet_academic_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7739,
+      "negative": 0,
+      "sum": 21
+    },
+    "shs_tablet_academic_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7701,
+      "negative": 0,
+      "sum": 812
+    },
+    "shs_tablet_academic_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7665,
+      "negative": 0,
+      "sum": 5890
+    },
+    "shs_tablet_academic_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7720,
+      "negative": 0,
+      "sum": 1462
+    },
+    "shs_tablet_pc_academic_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 4935,
+      "negative": 0,
+      "sum": 103105
+    },
+    "shs_tablet_pc_academic_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7645,
+      "negative": 0,
+      "sum": 5324
+    },
+    "shs_tablet_pc_academic_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7699,
+      "negative": 0,
+      "sum": 2862
+    },
+    "shs_tablet_pc_academic_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7740,
+      "negative": 0,
+      "sum": 1
+    },
+    "shs_tablet_pc_academic_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7736,
+      "negative": 0,
+      "sum": 61
+    },
+    "shs_tablet_pc_academic_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7731,
+      "negative": 0,
+      "sum": 1002
+    },
+    "shs_tablet_pc_academic_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7734,
+      "negative": 0,
+      "sum": 437
+    },
+    "shs_virtual_terminal_academic_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 5967,
+      "negative": 0,
+      "sum": 62759
+    },
+    "shs_virtual_terminal_academic_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7726,
+      "negative": 0,
+      "sum": 350
+    },
+    "shs_virtual_terminal_academic_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7739,
+      "negative": 0,
+      "sum": 9
+    },
+    "shs_virtual_terminal_academic_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7741,
+      "negative": 0,
+      "sum": 0
+    },
+    "shs_virtual_terminal_academic_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7740,
+      "negative": 0,
+      "sum": 9
+    },
+    "shs_virtual_terminal_academic_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7739,
+      "negative": 0,
+      "sum": 7
+    },
+    "shs_virtual_terminal_academic_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7740,
+      "negative": 0,
+      "sum": 83
+    },
+    "shs_desktop_admin_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 6961,
+      "negative": 0,
+      "sum": 2215
+    },
+    "shs_desktop_admin_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 6965,
+      "negative": 0,
+      "sum": 2162
+    },
+    "shs_desktop_admin_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7507,
+      "negative": 0,
+      "sum": 669
+    },
+    "shs_desktop_admin_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7724,
+      "negative": 0,
+      "sum": 34
+    },
+    "shs_desktop_admin_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7641,
+      "negative": 0,
+      "sum": 208
+    },
+    "shs_desktop_admin_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7675,
+      "negative": 0,
+      "sum": 376
+    },
+    "shs_desktop_admin_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7543,
+      "negative": 0,
+      "sum": 603
+    },
+    "shs_laptop_admin_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 6094,
+      "negative": 0,
+      "sum": 4339
+    },
+    "shs_laptop_admin_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7159,
+      "negative": 0,
+      "sum": 1303
+    },
+    "shs_laptop_admin_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7494,
+      "negative": 0,
+      "sum": 769
+    },
+    "shs_laptop_admin_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7728,
+      "negative": 0,
+      "sum": 17
+    },
+    "shs_laptop_admin_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7707,
+      "negative": 0,
+      "sum": 69
+    },
+    "shs_laptop_admin_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7694,
+      "negative": 0,
+      "sum": 254
+    },
+    "shs_laptop_admin_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7626,
+      "negative": 0,
+      "sum": 228
+    },
+    "shs_all_in_one_admin_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7718,
+      "negative": 0,
+      "sum": 37
+    },
+    "shs_all_in_one_admin_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7722,
+      "negative": 0,
+      "sum": 94
+    },
+    "shs_all_in_one_admin_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7728,
+      "negative": 0,
+      "sum": 163
+    },
+    "shs_all_in_one_admin_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7741,
+      "negative": 0,
+      "sum": 0
+    },
+    "shs_all_in_one_admin_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7735,
+      "negative": 0,
+      "sum": 11
+    },
+    "shs_all_in_one_admin_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7738,
+      "negative": 0,
+      "sum": 4
+    },
+    "shs_all_in_one_admin_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7731,
+      "negative": 0,
+      "sum": 51
+    },
+    "shs_tablet_admin_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7651,
+      "negative": 0,
+      "sum": 950
+    },
+    "shs_tablet_admin_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7704,
+      "negative": 0,
+      "sum": 128
+    },
+    "shs_tablet_admin_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7712,
+      "negative": 0,
+      "sum": 5956
+    },
+    "shs_tablet_admin_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7740,
+      "negative": 0,
+      "sum": 1
+    },
+    "shs_tablet_admin_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7736,
+      "negative": 0,
+      "sum": 31
+    },
+    "shs_tablet_admin_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7737,
+      "negative": 0,
+      "sum": 108
+    },
+    "shs_tablet_admin_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7738,
+      "negative": 0,
+      "sum": 10
+    },
+    "shs_tablet_pc_admin_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7605,
+      "negative": 0,
+      "sum": 1165
+    },
+    "shs_tablet_pc_admin_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7732,
+      "negative": 0,
+      "sum": 51
+    },
+    "shs_tablet_pc_admin_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7731,
+      "negative": 0,
+      "sum": 53
+    },
+    "shs_tablet_pc_admin_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7740,
+      "negative": 0,
+      "sum": 1
+    },
+    "shs_tablet_pc_admin_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7739,
+      "negative": 0,
+      "sum": 64
+    },
+    "shs_tablet_pc_admin_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7740,
+      "negative": 0,
+      "sum": 1
+    },
+    "shs_tablet_pc_admin_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7739,
+      "negative": 0,
+      "sum": 3
+    },
+    "es_led_tv_academic_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 32414,
+      "negative": 0,
+      "sum": 12450
+    },
+    "es_led_tv_academic_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 33990,
+      "negative": 0,
+      "sum": 22475
+    },
+    "es_led_tv_academic_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 36188,
+      "negative": 0,
+      "sum": 15259
+    },
+    "es_led_tv_academic_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 34319,
+      "negative": 0,
+      "sum": 35545
+    },
+    "es_led_tv_academic_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 35902,
+      "negative": 0,
+      "sum": 12137
+    },
+    "es_led_tv_academic_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38781,
+      "negative": 0,
+      "sum": 1560
+    },
+    "es_led_tv_academic_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 36706,
+      "negative": 0,
+      "sum": 13811
+    },
+    "es_smart_tv_academic_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 28828,
+      "negative": 0,
+      "sum": 19490
+    },
+    "es_smart_tv_academic_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 29872,
+      "negative": 0,
+      "sum": 38257
+    },
+    "es_smart_tv_academic_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 35429,
+      "negative": 0,
+      "sum": 16685
+    },
+    "es_smart_tv_academic_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 35674,
+      "negative": 0,
+      "sum": 18105
+    },
+    "es_smart_tv_academic_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 36287,
+      "negative": 0,
+      "sum": 9550
+    },
+    "es_smart_tv_academic_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38733,
+      "negative": 0,
+      "sum": 1504
+    },
+    "es_smart_tv_academic_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 35711,
+      "negative": 0,
+      "sum": 16162
+    },
+    "es_network_switch_academic_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 37902,
+      "negative": 0,
+      "sum": 2254
+    },
+    "es_network_switch_academic_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38978,
+      "negative": 0,
+      "sum": 1303
+    },
+    "es_network_switch_academic_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39204,
+      "negative": 0,
+      "sum": 442
+    },
+    "es_network_switch_academic_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39291,
+      "negative": 0,
+      "sum": 240
+    },
+    "es_network_switch_academic_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39245,
+      "negative": 0,
+      "sum": 195
+    },
+    "es_network_switch_academic_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39312,
+      "negative": 0,
+      "sum": 64
+    },
+    "es_network_switch_academic_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39149,
+      "negative": 0,
+      "sum": 828
+    },
+    "es_printer_academic_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 34127,
+      "negative": 0,
+      "sum": 13224
+    },
+    "es_printer_academic_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 21135,
+      "negative": 0,
+      "sum": 113512
+    },
+    "es_printer_academic_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 32596,
+      "negative": 0,
+      "sum": 20087
+    },
+    "es_printer_academic_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 37385,
+      "negative": 0,
+      "sum": 7417
+    },
+    "es_printer_academic_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 35458,
+      "negative": 0,
+      "sum": 8575
+    },
+    "es_printer_academic_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38460,
+      "negative": 0,
+      "sum": 2242
+    },
+    "es_printer_academic_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 32261,
+      "negative": 0,
+      "sum": 42544
+    },
+    "es_projector_academic_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 23458,
+      "negative": 0,
+      "sum": 25427
+    },
+    "es_projector_academic_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 37566,
+      "negative": 0,
+      "sum": 2484
+    },
+    "es_projector_academic_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38429,
+      "negative": 0,
+      "sum": 2727
+    },
+    "es_projector_academic_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38998,
+      "negative": 0,
+      "sum": 696
+    },
+    "es_projector_academic_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38566,
+      "negative": 0,
+      "sum": 1086
+    },
+    "es_projector_academic_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39221,
+      "negative": 0,
+      "sum": 201
+    },
+    "es_projector_academic_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38797,
+      "negative": 0,
+      "sum": 1021
+    },
+    "es_external_hard_drive_academic_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 34359,
+      "negative": 0,
+      "sum": 21783
+    },
+    "es_external_hard_drive_academic_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 36294,
+      "negative": 0,
+      "sum": 9549
+    },
+    "es_external_hard_drive_academic_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39016,
+      "negative": 0,
+      "sum": 4204
+    },
+    "es_external_hard_drive_academic_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39310,
+      "negative": 0,
+      "sum": 113
+    },
+    "es_external_hard_drive_academic_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39240,
+      "negative": 0,
+      "sum": 191
+    },
+    "es_external_hard_drive_academic_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39272,
+      "negative": 0,
+      "sum": 181
+    },
+    "es_external_hard_drive_academic_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38416,
+      "negative": 0,
+      "sum": 3331
+    },
+    "es_ups_academic_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 33891,
+      "negative": 0,
+      "sum": 25531
+    },
+    "es_ups_academic_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38930,
+      "negative": 0,
+      "sum": 832
+    },
+    "es_ups_academic_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39220,
+      "negative": 0,
+      "sum": 814
+    },
+    "es_ups_academic_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39326,
+      "negative": 0,
+      "sum": 55
+    },
+    "es_ups_academic_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39247,
+      "negative": 0,
+      "sum": 288
+    },
+    "es_ups_academic_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39309,
+      "negative": 0,
+      "sum": 76
+    },
+    "es_ups_academic_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39234,
+      "negative": 0,
+      "sum": 235
+    },
+    "es_router_academic_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 36280,
+      "negative": 0,
+      "sum": 3695
+    },
+    "es_router_academic_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 36927,
+      "negative": 0,
+      "sum": 4791
+    },
+    "es_router_academic_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38943,
+      "negative": 0,
+      "sum": 1135
+    },
+    "es_router_academic_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39217,
+      "negative": 0,
+      "sum": 280
+    },
+    "es_router_academic_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38981,
+      "negative": 0,
+      "sum": 704
+    },
+    "es_router_academic_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39203,
+      "negative": 0,
+      "sum": 206
+    },
+    "es_router_academic_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38139,
+      "negative": 0,
+      "sum": 2615
+    },
+    "es_lapel_academic_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 30294,
+      "negative": 0,
+      "sum": 13993
+    },
+    "es_lapel_academic_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38282,
+      "negative": 0,
+      "sum": 5418
+    },
+    "es_lapel_academic_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38998,
+      "negative": 0,
+      "sum": 7249
+    },
+    "es_lapel_academic_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39282,
+      "negative": 0,
+      "sum": 174
+    },
+    "es_lapel_academic_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39180,
+      "negative": 0,
+      "sum": 744
+    },
+    "es_lapel_academic_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39303,
+      "negative": 0,
+      "sum": 107
+    },
+    "es_lapel_academic_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38715,
+      "negative": 0,
+      "sum": 3159
+    },
+    "es_led_tv_admin_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 37995,
+      "negative": 0,
+      "sum": 1555
+    },
+    "es_led_tv_admin_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38285,
+      "negative": 0,
+      "sum": 1381
+    },
+    "es_led_tv_admin_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38550,
+      "negative": 0,
+      "sum": 1103
+    },
+    "es_led_tv_admin_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39061,
+      "negative": 0,
+      "sum": 546
+    },
+    "es_led_tv_admin_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38812,
+      "negative": 0,
+      "sum": 670
+    },
+    "es_led_tv_admin_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39246,
+      "negative": 0,
+      "sum": 126
+    },
+    "es_led_tv_admin_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38847,
+      "negative": 0,
+      "sum": 704
+    },
+    "es_smart_tv_admin_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 36721,
+      "negative": 0,
+      "sum": 2942
+    },
+    "es_smart_tv_admin_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 37611,
+      "negative": 0,
+      "sum": 2102
+    },
+    "es_smart_tv_admin_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38406,
+      "negative": 0,
+      "sum": 1163
+    },
+    "es_smart_tv_admin_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39162,
+      "negative": 0,
+      "sum": 379
+    },
+    "es_smart_tv_admin_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38862,
+      "negative": 0,
+      "sum": 587
+    },
+    "es_smart_tv_admin_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39208,
+      "negative": 0,
+      "sum": 164
+    },
+    "es_smart_tv_admin_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38688,
+      "negative": 0,
+      "sum": 880
+    },
+    "es_network_switch_admin_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39222,
+      "negative": 0,
+      "sum": 145
+    },
+    "es_network_switch_admin_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39117,
+      "negative": 0,
+      "sum": 353
+    },
+    "es_network_switch_admin_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39280,
+      "negative": 0,
+      "sum": 113
+    },
+    "es_network_switch_admin_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39337,
+      "negative": 0,
+      "sum": 6
+    },
+    "es_network_switch_admin_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39310,
+      "negative": 0,
+      "sum": 44
+    },
+    "es_network_switch_admin_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39325,
+      "negative": 0,
+      "sum": 35
+    },
+    "es_network_switch_admin_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39217,
+      "negative": 0,
+      "sum": 194
+    },
+    "es_printer_admin_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 36214,
+      "negative": 0,
+      "sum": 4748
+    },
+    "es_printer_admin_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 26826,
+      "negative": 0,
+      "sum": 22381
+    },
+    "es_printer_admin_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 36310,
+      "negative": 0,
+      "sum": 4383
+    },
+    "es_printer_admin_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39133,
+      "negative": 0,
+      "sum": 349
+    },
+    "es_printer_admin_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38145,
+      "negative": 0,
+      "sum": 1585
+    },
+    "es_printer_admin_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38913,
+      "negative": 0,
+      "sum": 683
+    },
+    "es_printer_admin_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 34482,
+      "negative": 0,
+      "sum": 9148
+    },
+    "es_projector_admin_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 37140,
+      "negative": 0,
+      "sum": 2704
+    },
+    "es_projector_admin_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38794,
+      "negative": 0,
+      "sum": 702
+    },
+    "es_projector_admin_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39118,
+      "negative": 0,
+      "sum": 346
+    },
+    "es_projector_admin_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39302,
+      "negative": 0,
+      "sum": 60
+    },
+    "es_projector_admin_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39206,
+      "negative": 0,
+      "sum": 160
+    },
+    "es_projector_admin_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39307,
+      "negative": 0,
+      "sum": 58
+    },
+    "es_projector_admin_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39166,
+      "negative": 0,
+      "sum": 218
+    },
+    "es_external_hard_drive_admin_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 37212,
+      "negative": 0,
+      "sum": 4180
+    },
+    "es_external_hard_drive_admin_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 36907,
+      "negative": 0,
+      "sum": 3695
+    },
+    "es_external_hard_drive_admin_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39122,
+      "negative": 0,
+      "sum": 411
+    },
+    "es_external_hard_drive_admin_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39336,
+      "negative": 0,
+      "sum": 36
+    },
+    "es_external_hard_drive_admin_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39303,
+      "negative": 0,
+      "sum": 45
+    },
+    "es_external_hard_drive_admin_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39296,
+      "negative": 0,
+      "sum": 95
+    },
+    "es_external_hard_drive_admin_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38494,
+      "negative": 0,
+      "sum": 1290
+    },
+    "es_ups_admin_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38605,
+      "negative": 0,
+      "sum": 1269
+    },
+    "es_ups_admin_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38814,
+      "negative": 0,
+      "sum": 748
+    },
+    "es_ups_admin_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39186,
+      "negative": 0,
+      "sum": 275
+    },
+    "es_ups_admin_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39326,
+      "negative": 0,
+      "sum": 19
+    },
+    "es_ups_admin_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39294,
+      "negative": 0,
+      "sum": 58
+    },
+    "es_ups_admin_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39319,
+      "negative": 0,
+      "sum": 49
+    },
+    "es_ups_admin_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39152,
+      "negative": 0,
+      "sum": 270
+    },
+    "es_router_admin_deped_dcp": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38637,
+      "negative": 0,
+      "sum": 859
+    },
+    "es_router_admin_deped": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 37619,
+      "negative": 0,
+      "sum": 2133
+    },
+    "es_router_admin_lgu_sef": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39138,
+      "negative": 0,
+      "sum": 260
+    },
+    "es_router_admin_pta": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39297,
+      "negative": 0,
+      "sum": 59
+    },
+    "es_router_admin_private_donation": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39206,
+      "negative": 0,
+      "sum": 184
+    },
+    "es_router_admin_other_gov": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 39282,
+      "negative": 0,
+      "sum": 86
+    },
+    "es_router_admin_other_funding": {
+      "reported": 39343,
+      "missing": 8475,
+      "zero": 38350,
+      "negative": 0,
+      "sum": 1279
+    },
+    "jhs_led_tv_academic_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 8800,
+      "negative": 0,
+      "sum": 4179
+    },
+    "jhs_led_tv_academic_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 8798,
+      "negative": 0,
+      "sum": 11561
+    },
+    "jhs_led_tv_academic_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9834,
+      "negative": 0,
+      "sum": 5526
+    },
+    "jhs_led_tv_academic_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9300,
+      "negative": 0,
+      "sum": 12129
+    },
+    "jhs_led_tv_academic_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9728,
+      "negative": 0,
+      "sum": 3827
+    },
+    "jhs_led_tv_academic_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10405,
+      "negative": 0,
+      "sum": 700
+    },
+    "jhs_led_tv_academic_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9703,
+      "negative": 0,
+      "sum": 6099
+    },
+    "jhs_smart_tv_academic_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 7535,
+      "negative": 0,
+      "sum": 7569
+    },
+    "jhs_smart_tv_academic_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 8485,
+      "negative": 0,
+      "sum": 11344
+    },
+    "jhs_smart_tv_academic_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9753,
+      "negative": 0,
+      "sum": 6813
+    },
+    "jhs_smart_tv_academic_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9823,
+      "negative": 0,
+      "sum": 5255
+    },
+    "jhs_smart_tv_academic_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9957,
+      "negative": 0,
+      "sum": 2262
+    },
+    "jhs_smart_tv_academic_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10444,
+      "negative": 0,
+      "sum": 355
+    },
+    "jhs_smart_tv_academic_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9708,
+      "negative": 0,
+      "sum": 5049
+    },
+    "jhs_network_switch_academic_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 8181,
+      "negative": 0,
+      "sum": 11332
+    },
+    "jhs_network_switch_academic_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10147,
+      "negative": 0,
+      "sum": 1841
+    },
+    "jhs_network_switch_academic_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10471,
+      "negative": 0,
+      "sum": 422
+    },
+    "jhs_network_switch_academic_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10532,
+      "negative": 0,
+      "sum": 105
+    },
+    "jhs_network_switch_academic_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10502,
+      "negative": 0,
+      "sum": 140
+    },
+    "jhs_network_switch_academic_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10529,
+      "negative": 0,
+      "sum": 118
+    },
+    "jhs_network_switch_academic_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10416,
+      "negative": 0,
+      "sum": 738
+    },
+    "jhs_printer_academic_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 8487,
+      "negative": 0,
+      "sum": 5092
+    },
+    "jhs_printer_academic_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 6615,
+      "negative": 0,
+      "sum": 31046
+    },
+    "jhs_printer_academic_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9357,
+      "negative": 0,
+      "sum": 5832
+    },
+    "jhs_printer_academic_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10266,
+      "negative": 0,
+      "sum": 876
+    },
+    "jhs_printer_academic_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9782,
+      "negative": 0,
+      "sum": 1924
+    },
+    "jhs_printer_academic_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10305,
+      "negative": 0,
+      "sum": 942
+    },
+    "jhs_printer_academic_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 8951,
+      "negative": 0,
+      "sum": 11288
+    },
+    "jhs_projector_academic_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 7238,
+      "negative": 0,
+      "sum": 7197
+    },
+    "jhs_projector_academic_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9539,
+      "negative": 0,
+      "sum": 1751
+    },
+    "jhs_projector_academic_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10123,
+      "negative": 0,
+      "sum": 1568
+    },
+    "jhs_projector_academic_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10370,
+      "negative": 0,
+      "sum": 378
+    },
+    "jhs_projector_academic_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10168,
+      "negative": 0,
+      "sum": 692
+    },
+    "jhs_projector_academic_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10482,
+      "negative": 0,
+      "sum": 183
+    },
+    "jhs_projector_academic_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10152,
+      "negative": 0,
+      "sum": 866
+    },
+    "jhs_external_hard_drive_academic_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9483,
+      "negative": 0,
+      "sum": 5634
+    },
+    "jhs_external_hard_drive_academic_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9917,
+      "negative": 0,
+      "sum": 2791
+    },
+    "jhs_external_hard_drive_academic_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10496,
+      "negative": 0,
+      "sum": 2171
+    },
+    "jhs_external_hard_drive_academic_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10557,
+      "negative": 0,
+      "sum": 15
+    },
+    "jhs_external_hard_drive_academic_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10536,
+      "negative": 0,
+      "sum": 48
+    },
+    "jhs_external_hard_drive_academic_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10552,
+      "negative": 0,
+      "sum": 32
+    },
+    "jhs_external_hard_drive_academic_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10354,
+      "negative": 0,
+      "sum": 924
+    },
+    "jhs_ups_academic_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 7933,
+      "negative": 0,
+      "sum": 18850
+    },
+    "jhs_ups_academic_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10219,
+      "negative": 0,
+      "sum": 1376
+    },
+    "jhs_ups_academic_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10491,
+      "negative": 0,
+      "sum": 579
+    },
+    "jhs_ups_academic_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10549,
+      "negative": 0,
+      "sum": 24
+    },
+    "jhs_ups_academic_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10530,
+      "negative": 0,
+      "sum": 263
+    },
+    "jhs_ups_academic_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10504,
+      "negative": 0,
+      "sum": 445
+    },
+    "jhs_ups_academic_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10462,
+      "negative": 0,
+      "sum": 439
+    },
+    "jhs_router_academic_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 8339,
+      "negative": 0,
+      "sum": 3863
+    },
+    "jhs_router_academic_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9596,
+      "negative": 0,
+      "sum": 2906
+    },
+    "jhs_router_academic_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10468,
+      "negative": 0,
+      "sum": 352
+    },
+    "jhs_router_academic_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10533,
+      "negative": 0,
+      "sum": 61
+    },
+    "jhs_router_academic_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10497,
+      "negative": 0,
+      "sum": 141
+    },
+    "jhs_router_academic_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10498,
+      "negative": 0,
+      "sum": 135
+    },
+    "jhs_router_academic_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10147,
+      "negative": 0,
+      "sum": 1206
+    },
+    "jhs_lapel_academic_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 8121,
+      "negative": 0,
+      "sum": 5159
+    },
+    "jhs_lapel_academic_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10169,
+      "negative": 0,
+      "sum": 2751
+    },
+    "jhs_lapel_academic_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10446,
+      "negative": 0,
+      "sum": 4208
+    },
+    "jhs_lapel_academic_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10546,
+      "negative": 0,
+      "sum": 72
+    },
+    "jhs_lapel_academic_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10525,
+      "negative": 0,
+      "sum": 172
+    },
+    "jhs_lapel_academic_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10547,
+      "negative": 0,
+      "sum": 103
+    },
+    "jhs_lapel_academic_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10379,
+      "negative": 0,
+      "sum": 1788
+    },
+    "jhs_led_tv_admin_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10170,
+      "negative": 0,
+      "sum": 518
+    },
+    "jhs_led_tv_admin_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9957,
+      "negative": 0,
+      "sum": 1016
+    },
+    "jhs_led_tv_admin_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10322,
+      "negative": 0,
+      "sum": 455
+    },
+    "jhs_led_tv_admin_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10461,
+      "negative": 0,
+      "sum": 190
+    },
+    "jhs_led_tv_admin_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10347,
+      "negative": 0,
+      "sum": 346
+    },
+    "jhs_led_tv_admin_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10517,
+      "negative": 0,
+      "sum": 85
+    },
+    "jhs_led_tv_admin_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10287,
+      "negative": 0,
+      "sum": 436
+    },
+    "jhs_smart_tv_admin_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9875,
+      "negative": 0,
+      "sum": 923
+    },
+    "jhs_smart_tv_admin_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9924,
+      "negative": 0,
+      "sum": 1059
+    },
+    "jhs_smart_tv_admin_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10334,
+      "negative": 0,
+      "sum": 436
+    },
+    "jhs_smart_tv_admin_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10513,
+      "negative": 0,
+      "sum": 112
+    },
+    "jhs_smart_tv_admin_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10431,
+      "negative": 0,
+      "sum": 215
+    },
+    "jhs_smart_tv_admin_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10517,
+      "negative": 0,
+      "sum": 80
+    },
+    "jhs_smart_tv_admin_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10348,
+      "negative": 0,
+      "sum": 352
+    },
+    "jhs_network_switch_admin_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10388,
+      "negative": 0,
+      "sum": 343
+    },
+    "jhs_network_switch_admin_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10241,
+      "negative": 0,
+      "sum": 773
+    },
+    "jhs_network_switch_admin_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10522,
+      "negative": 0,
+      "sum": 116
+    },
+    "jhs_network_switch_admin_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10553,
+      "negative": 0,
+      "sum": 12
+    },
+    "jhs_network_switch_admin_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10540,
+      "negative": 0,
+      "sum": 48
+    },
+    "jhs_network_switch_admin_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10545,
+      "negative": 0,
+      "sum": 72
+    },
+    "jhs_network_switch_admin_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10431,
+      "negative": 0,
+      "sum": 440
+    },
+    "jhs_printer_admin_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9721,
+      "negative": 0,
+      "sum": 2135
+    },
+    "jhs_printer_admin_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 7231,
+      "negative": 0,
+      "sum": 14219
+    },
+    "jhs_printer_admin_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9846,
+      "negative": 0,
+      "sum": 2192
+    },
+    "jhs_printer_admin_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10472,
+      "negative": 0,
+      "sum": 168
+    },
+    "jhs_printer_admin_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10220,
+      "negative": 0,
+      "sum": 698
+    },
+    "jhs_printer_admin_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10435,
+      "negative": 0,
+      "sum": 428
+    },
+    "jhs_printer_admin_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9102,
+      "negative": 0,
+      "sum": 6290
+    },
+    "jhs_projector_admin_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10217,
+      "negative": 0,
+      "sum": 538
+    },
+    "jhs_projector_admin_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10287,
+      "negative": 0,
+      "sum": 468
+    },
+    "jhs_projector_admin_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10460,
+      "negative": 0,
+      "sum": 149
+    },
+    "jhs_projector_admin_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10530,
+      "negative": 0,
+      "sum": 63
+    },
+    "jhs_projector_admin_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10486,
+      "negative": 0,
+      "sum": 83
+    },
+    "jhs_projector_admin_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10542,
+      "negative": 0,
+      "sum": 32
+    },
+    "jhs_projector_admin_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10418,
+      "negative": 0,
+      "sum": 249
+    },
+    "jhs_external_hard_drive_admin_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10083,
+      "negative": 0,
+      "sum": 1591
+    },
+    "jhs_external_hard_drive_admin_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9789,
+      "negative": 0,
+      "sum": 1853
+    },
+    "jhs_external_hard_drive_admin_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10506,
+      "negative": 0,
+      "sum": 192
+    },
+    "jhs_external_hard_drive_admin_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10557,
+      "negative": 0,
+      "sum": 9
+    },
+    "jhs_external_hard_drive_admin_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10540,
+      "negative": 0,
+      "sum": 34
+    },
+    "jhs_external_hard_drive_admin_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10547,
+      "negative": 0,
+      "sum": 104
+    },
+    "jhs_external_hard_drive_admin_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10257,
+      "negative": 0,
+      "sum": 730
+    },
+    "jhs_ups_admin_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10208,
+      "negative": 0,
+      "sum": 904
+    },
+    "jhs_ups_admin_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9922,
+      "negative": 0,
+      "sum": 2116
+    },
+    "jhs_ups_admin_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10496,
+      "negative": 0,
+      "sum": 136
+    },
+    "jhs_ups_admin_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10555,
+      "negative": 0,
+      "sum": 26
+    },
+    "jhs_ups_admin_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10545,
+      "negative": 0,
+      "sum": 29
+    },
+    "jhs_ups_admin_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10535,
+      "negative": 0,
+      "sum": 185
+    },
+    "jhs_ups_admin_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10334,
+      "negative": 0,
+      "sum": 846
+    },
+    "jhs_router_admin_deped_dcp": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10110,
+      "negative": 0,
+      "sum": 643
+    },
+    "jhs_router_admin_deped": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 9572,
+      "negative": 0,
+      "sum": 2020
+    },
+    "jhs_router_admin_lgu_sef": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10491,
+      "negative": 0,
+      "sum": 134
+    },
+    "jhs_router_admin_pta": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10548,
+      "negative": 0,
+      "sum": 15
+    },
+    "jhs_router_admin_private_donation": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10519,
+      "negative": 0,
+      "sum": 74
+    },
+    "jhs_router_admin_other_gov": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10537,
+      "negative": 0,
+      "sum": 90
+    },
+    "jhs_router_admin_other_funding": {
+      "reported": 10560,
+      "missing": 37258,
+      "zero": 10116,
+      "negative": 0,
+      "sum": 998
+    },
+    "shs_led_tv_academic_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 6598,
+      "negative": 0,
+      "sum": 2513
+    },
+    "shs_led_tv_academic_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 6378,
+      "negative": 0,
+      "sum": 6952
+    },
+    "shs_led_tv_academic_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7380,
+      "negative": 0,
+      "sum": 1972
+    },
+    "shs_led_tv_academic_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7175,
+      "negative": 0,
+      "sum": 3195
+    },
+    "shs_led_tv_academic_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7422,
+      "negative": 0,
+      "sum": 1111
+    },
+    "shs_led_tv_academic_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7690,
+      "negative": 0,
+      "sum": 175
+    },
+    "shs_led_tv_academic_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7270,
+      "negative": 0,
+      "sum": 3001
+    },
+    "shs_smart_tv_academic_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 5990,
+      "negative": 0,
+      "sum": 4014
+    },
+    "shs_smart_tv_academic_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 6331,
+      "negative": 0,
+      "sum": 6237
+    },
+    "shs_smart_tv_academic_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7400,
+      "negative": 0,
+      "sum": 1940
+    },
+    "shs_smart_tv_academic_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7313,
+      "negative": 0,
+      "sum": 2008
+    },
+    "shs_smart_tv_academic_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7445,
+      "negative": 0,
+      "sum": 826
+    },
+    "shs_smart_tv_academic_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7679,
+      "negative": 0,
+      "sum": 180
+    },
+    "shs_smart_tv_academic_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7230,
+      "negative": 0,
+      "sum": 2314
+    },
+    "shs_network_switch_academic_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 5828,
+      "negative": 0,
+      "sum": 7529
+    },
+    "shs_network_switch_academic_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7357,
+      "negative": 0,
+      "sum": 1744
+    },
+    "shs_network_switch_academic_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7690,
+      "negative": 0,
+      "sum": 269
+    },
+    "shs_network_switch_academic_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7726,
+      "negative": 0,
+      "sum": 46
+    },
+    "shs_network_switch_academic_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7713,
+      "negative": 0,
+      "sum": 61
+    },
+    "shs_network_switch_academic_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7733,
+      "negative": 0,
+      "sum": 30
+    },
+    "shs_network_switch_academic_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7639,
+      "negative": 0,
+      "sum": 467
+    },
+    "shs_printer_academic_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 5896,
+      "negative": 0,
+      "sum": 3635
+    },
+    "shs_printer_academic_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 5188,
+      "negative": 0,
+      "sum": 13303
+    },
+    "shs_printer_academic_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7282,
+      "negative": 0,
+      "sum": 1808
+    },
+    "shs_printer_academic_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7593,
+      "negative": 0,
+      "sum": 379
+    },
+    "shs_printer_academic_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7438,
+      "negative": 0,
+      "sum": 626
+    },
+    "shs_printer_academic_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7663,
+      "negative": 0,
+      "sum": 200
+    },
+    "shs_printer_academic_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 6871,
+      "negative": 0,
+      "sum": 4348
+    },
+    "shs_projector_academic_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 4848,
+      "negative": 0,
+      "sum": 5156
+    },
+    "shs_projector_academic_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7035,
+      "negative": 0,
+      "sum": 1284
+    },
+    "shs_projector_academic_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7566,
+      "negative": 0,
+      "sum": 386
+    },
+    "shs_projector_academic_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7685,
+      "negative": 0,
+      "sum": 118
+    },
+    "shs_projector_academic_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7607,
+      "negative": 0,
+      "sum": 208
+    },
+    "shs_projector_academic_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7719,
+      "negative": 0,
+      "sum": 29
+    },
+    "shs_projector_academic_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7562,
+      "negative": 0,
+      "sum": 300
+    },
+    "shs_external_hard_drive_academic_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7049,
+      "negative": 0,
+      "sum": 3286
+    },
+    "shs_external_hard_drive_academic_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7386,
+      "negative": 0,
+      "sum": 1301
+    },
+    "shs_external_hard_drive_academic_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7712,
+      "negative": 0,
+      "sum": 618
+    },
+    "shs_external_hard_drive_academic_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7736,
+      "negative": 0,
+      "sum": 6
+    },
+    "shs_external_hard_drive_academic_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7731,
+      "negative": 0,
+      "sum": 12
+    },
+    "shs_external_hard_drive_academic_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7736,
+      "negative": 0,
+      "sum": 12
+    },
+    "shs_external_hard_drive_academic_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7638,
+      "negative": 0,
+      "sum": 290
+    },
+    "shs_ups_academic_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 5602,
+      "negative": 0,
+      "sum": 19710
+    },
+    "shs_ups_academic_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7471,
+      "negative": 0,
+      "sum": 1522
+    },
+    "shs_ups_academic_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7691,
+      "negative": 0,
+      "sum": 562
+    },
+    "shs_ups_academic_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7737,
+      "negative": 0,
+      "sum": 8
+    },
+    "shs_ups_academic_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7729,
+      "negative": 0,
+      "sum": 114
+    },
+    "shs_ups_academic_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7724,
+      "negative": 0,
+      "sum": 149
+    },
+    "shs_ups_academic_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7688,
+      "negative": 0,
+      "sum": 204
+    },
+    "shs_router_academic_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 5702,
+      "negative": 0,
+      "sum": 3384
+    },
+    "shs_router_academic_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 6966,
+      "negative": 0,
+      "sum": 2412
+    },
+    "shs_router_academic_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7674,
+      "negative": 0,
+      "sum": 239
+    },
+    "shs_router_academic_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7726,
+      "negative": 0,
+      "sum": 51
+    },
+    "shs_router_academic_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7696,
+      "negative": 0,
+      "sum": 79
+    },
+    "shs_router_academic_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7722,
+      "negative": 0,
+      "sum": 34
+    },
+    "shs_router_academic_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7501,
+      "negative": 0,
+      "sum": 708
+    },
+    "shs_lapel_academic_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 6574,
+      "negative": 0,
+      "sum": 2268
+    },
+    "shs_lapel_academic_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7388,
+      "negative": 0,
+      "sum": 1303
+    },
+    "shs_lapel_academic_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7690,
+      "negative": 0,
+      "sum": 714
+    },
+    "shs_lapel_academic_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7739,
+      "negative": 0,
+      "sum": 7
+    },
+    "shs_lapel_academic_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7724,
+      "negative": 0,
+      "sum": 53
+    },
+    "shs_lapel_academic_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7731,
+      "negative": 0,
+      "sum": 66
+    },
+    "shs_lapel_academic_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7638,
+      "negative": 0,
+      "sum": 894
+    },
+    "shs_led_tv_admin_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7570,
+      "negative": 0,
+      "sum": 229
+    },
+    "shs_led_tv_admin_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7511,
+      "negative": 0,
+      "sum": 393
+    },
+    "shs_led_tv_admin_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7658,
+      "negative": 0,
+      "sum": 166
+    },
+    "shs_led_tv_admin_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7723,
+      "negative": 0,
+      "sum": 42
+    },
+    "shs_led_tv_admin_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7682,
+      "negative": 0,
+      "sum": 74
+    },
+    "shs_led_tv_admin_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7727,
+      "negative": 0,
+      "sum": 18
+    },
+    "shs_led_tv_admin_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7657,
+      "negative": 0,
+      "sum": 126
+    },
+    "shs_smart_tv_admin_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7458,
+      "negative": 0,
+      "sum": 343
+    },
+    "shs_smart_tv_admin_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7500,
+      "negative": 0,
+      "sum": 361
+    },
+    "shs_smart_tv_admin_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7674,
+      "negative": 0,
+      "sum": 107
+    },
+    "shs_smart_tv_admin_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7722,
+      "negative": 0,
+      "sum": 28
+    },
+    "shs_smart_tv_admin_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7700,
+      "negative": 0,
+      "sum": 61
+    },
+    "shs_smart_tv_admin_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7727,
+      "negative": 0,
+      "sum": 22
+    },
+    "shs_smart_tv_admin_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7672,
+      "negative": 0,
+      "sum": 138
+    },
+    "shs_network_switch_admin_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7655,
+      "negative": 0,
+      "sum": 170
+    },
+    "shs_network_switch_admin_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7607,
+      "negative": 0,
+      "sum": 301
+    },
+    "shs_network_switch_admin_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7722,
+      "negative": 0,
+      "sum": 51
+    },
+    "shs_network_switch_admin_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7734,
+      "negative": 0,
+      "sum": 12
+    },
+    "shs_network_switch_admin_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7738,
+      "negative": 0,
+      "sum": 10
+    },
+    "shs_network_switch_admin_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7736,
+      "negative": 0,
+      "sum": 26
+    },
+    "shs_network_switch_admin_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7685,
+      "negative": 0,
+      "sum": 120
+    },
+    "shs_printer_admin_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7204,
+      "negative": 0,
+      "sum": 1148
+    },
+    "shs_printer_admin_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 6121,
+      "negative": 0,
+      "sum": 5097
+    },
+    "shs_printer_admin_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7487,
+      "negative": 0,
+      "sum": 632
+    },
+    "shs_printer_admin_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7711,
+      "negative": 0,
+      "sum": 56
+    },
+    "shs_printer_admin_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7612,
+      "negative": 0,
+      "sum": 221
+    },
+    "shs_printer_admin_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7700,
+      "negative": 0,
+      "sum": 129
+    },
+    "shs_printer_admin_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7082,
+      "negative": 0,
+      "sum": 2153
+    },
+    "shs_projector_admin_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7563,
+      "negative": 0,
+      "sum": 275
+    },
+    "shs_projector_admin_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7597,
+      "negative": 0,
+      "sum": 264
+    },
+    "shs_projector_admin_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7707,
+      "negative": 0,
+      "sum": 92
+    },
+    "shs_projector_admin_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7734,
+      "negative": 0,
+      "sum": 9
+    },
+    "shs_projector_admin_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7724,
+      "negative": 0,
+      "sum": 20
+    },
+    "shs_projector_admin_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7734,
+      "negative": 0,
+      "sum": 14
+    },
+    "shs_projector_admin_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7694,
+      "negative": 0,
+      "sum": 64
+    },
+    "shs_external_hard_drive_admin_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7522,
+      "negative": 0,
+      "sum": 777
+    },
+    "shs_external_hard_drive_admin_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7409,
+      "negative": 0,
+      "sum": 664
+    },
+    "shs_external_hard_drive_admin_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7712,
+      "negative": 0,
+      "sum": 116
+    },
+    "shs_external_hard_drive_admin_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7740,
+      "negative": 0,
+      "sum": 1
+    },
+    "shs_external_hard_drive_admin_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7734,
+      "negative": 0,
+      "sum": 8
+    },
+    "shs_external_hard_drive_admin_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7737,
+      "negative": 0,
+      "sum": 4
+    },
+    "shs_external_hard_drive_admin_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7608,
+      "negative": 0,
+      "sum": 269
+    },
+    "shs_ups_admin_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7545,
+      "negative": 0,
+      "sum": 520
+    },
+    "shs_ups_admin_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7450,
+      "negative": 0,
+      "sum": 737
+    },
+    "shs_ups_admin_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7713,
+      "negative": 0,
+      "sum": 63
+    },
+    "shs_ups_admin_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7740,
+      "negative": 0,
+      "sum": 1
+    },
+    "shs_ups_admin_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7739,
+      "negative": 0,
+      "sum": 9
+    },
+    "shs_ups_admin_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7737,
+      "negative": 0,
+      "sum": 18
+    },
+    "shs_ups_admin_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7639,
+      "negative": 0,
+      "sum": 284
+    },
+    "shs_router_admin_deped_dcp": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7488,
+      "negative": 0,
+      "sum": 364
+    },
+    "shs_router_admin_deped": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7302,
+      "negative": 0,
+      "sum": 805
+    },
+    "shs_router_admin_lgu_sef": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7709,
+      "negative": 0,
+      "sum": 67
+    },
+    "shs_router_admin_pta": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7737,
+      "negative": 0,
+      "sum": 6
+    },
+    "shs_router_admin_private_donation": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7729,
+      "negative": 0,
+      "sum": 23
+    },
+    "shs_router_admin_other_gov": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7733,
+      "negative": 0,
+      "sum": 8
+    },
+    "shs_router_admin_other_funding": {
+      "reported": 7741,
+      "missing": 40077,
+      "zero": 7578,
+      "negative": 0,
+      "sum": 305
+    }
+  },
+  "utility_by_level": {
+    "es": {
+      "water": {
+        "True": 38394,
+        "False": 949,
+        "missing": 3
+      },
+      "internet": {
+        "True": 29971,
+        "False": 9372,
+        "missing": 3
+      },
+      "electricity": {
+        "True": 38307,
+        "False": 1038,
+        "missing": 1
+      },
+      "offerings": 39346
+    },
+    "jhs": {
+      "water": {
+        "True": 9855,
+        "False": 705,
+        "missing": 1
+      },
+      "internet": {
+        "True": 8582,
+        "False": 1978,
+        "missing": 1
+      },
+      "electricity": {
+        "True": 10101,
+        "False": 460
+      },
+      "offerings": 10561
+    },
+    "shs": {
+      "water": {
+        "True": 7344,
+        "False": 397,
+        "missing": 2
+      },
+      "internet": {
+        "True": 6159,
+        "False": 1582,
+        "missing": 2
+      },
+      "electricity": {
+        "True": 7235,
+        "False": 508
+      },
+      "offerings": 7743
+    },
+    "all": {
+      "water": {
+        "True": 55593,
+        "False": 2051,
+        "missing": 6
+      },
+      "internet": {
+        "True": 44712,
+        "False": 12932,
+        "missing": 6
+      },
+      "electricity": {
+        "True": 55643,
+        "False": 2006,
+        "missing": 1
+      },
+      "offerings": 57650
+    }
+  },
+  "classrooms_by_level": {
+    "es": {
+      "reported": 38677,
+      "missing": 669,
+      "zero": 0,
+      "negative": 0,
+      "sum": 422455
+    },
+    "jhs": {
+      "reported": 10561,
+      "missing": 0,
+      "zero": 1030,
+      "negative": 0,
+      "sum": 164281
+    },
+    "shs": {
+      "reported": 7743,
+      "missing": 0,
+      "zero": 286,
+      "negative": 0,
+      "sum": 69624
+    }
+  },
+  "enrollment_totals": {
+    "Public": 23225427,
+    "Private": 3731936,
+    "SUC/LUC": 100481,
+    "PSO": 23448
+  },
+  "school_gaps": {
+    "water": {
+      "any_offered_level_without": 1888,
+      "all_offered_levels_without": 1159,
+      "any_offered_level_unknown": 6
+    },
+    "internet": {
+      "any_offered_level_without": 11497,
+      "all_offered_levels_without": 10468,
+      "any_offered_level_unknown": 6
+    },
+    "electricity": {
+      "any_offered_level_without": 1828,
+      "all_offered_levels_without": 1253,
+      "any_offered_level_unknown": 1
+    }
+  },
+  "overlapping_gaps": {
+    "school_level_offerings_missing_2_or_3_services": 2063,
+    "unique_schools_with_an_offering_missing_2_or_3_services": 1887
+  }
+}

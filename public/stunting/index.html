@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Stunting in the Philippines</title>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v3.20.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css?v=20260824-3" />
+  </head>
+  <body class="factbook-embed">
+    <div class="app-shell">
+      <aside class="left-panel" aria-label="Dashboard information">
+        <header class="intro">
+          <p class="eyebrow">DOST-FNRI / DOH-NNC</p>
+          <h1>Stunting in the Philippines</h1>
+          <p>
+            Latest regional prevalence is shown by default. Older and
+            cross-source values appear in popups and widgets for context.
+          </p>
+        </header>
+
+        <section class="widget national-widget">
+          <p class="eyebrow">National</p>
+          <h2 class="widget-subtitle">Prevalence of Stunting</h2>
+          <div class="headline-layout">
+            <div>
+              <span class="headline-number">25.3%</span>
+              <span class="headline-label">2025</span>
+              <span class="national-level-line">WHO level: <strong>High</strong></span>
+            </div>
+            <div class="headline-delta">
+              <span class="change-pill">+1.7 pts</span>
+              <span class="headline-label delta-copy">
+                <span><strong class="increase-word">increase</strong> from</span>
+                <span>23.6% in 2023</span>
+              </span>
+            </div>
+          </div>
+          <div class="one-in-four">
+            <div class="child-icons" aria-hidden="true">
+              <span class="person-symbol is-active"></span>
+              <span class="person-symbol"></span>
+              <span class="person-symbol"></span>
+              <span class="person-symbol"></span>
+            </div>
+            <p>
+              <strong>One in every four</strong>
+              <span>Filipino children under five is stunted.</span>
+            </p>
+          </div>
+          <p class="widget-source">Source: DOST-FNRI 2025 Updating Survey - Anthropometry, p. 10.</p>
+        </section>
+
+        <section class="widget layer-widget">
+          <div class="intro-layer-control">
+            <h2>View Map By</h2>
+            <p class="note">Choose the map layer. The sections below update to match the active layer.</p>
+            <div class="layer-tabs" role="tablist" aria-label="Geographic layers">
+              <button class="layer-tab is-active" type="button" data-layer="region">Region</button>
+              <button class="layer-tab" type="button" data-layer="province">Province/HUC</button>
+              <button class="layer-tab" type="button" data-layer="lgu">Top 10 by Category</button>
+              <button class="layer-tab" type="button" data-layer="ppan">PPAN</button>
+            </div>
+            <p id="layer-note" class="layer-note"></p>
+            <p id="layer-source" class="layer-source"></p>
+          </div>
+        </section>
+
+        <details class="widget disclosure-widget distribution-widget">
+          <div class="section-context">
+            <span>Currently viewing</span>
+            <strong id="current-layer-label">Region</strong>
+          </div>
+          <summary class="disclosure-summary">
+            <span>
+              <span id="distribution-title" class="disclosure-title">Distribution by WHO Level</span>
+              <span id="distribution-preview" class="disclosure-preview"></span>
+            </span>
+            <span id="active-filter-label" class="small-muted">All</span>
+          </summary>
+          <div class="disclosure-content">
+            <p id="distribution-note" class="note"></p>
+            <div id="distribution-summary" class="distribution-summary"></div>
+            <div id="class-bars" class="class-bars"></div>
+            <p id="distribution-source" class="widget-source"></p>
+          </div>
+        </details>
+
+        <details class="widget disclosure-widget">
+          <summary class="disclosure-summary">
+            <span>
+              <span id="ranking-title" class="disclosure-title">Highest Regional Prevalence</span>
+              <span id="ranking-preview" class="disclosure-preview"></span>
+            </span>
+          </summary>
+          <div class="disclosure-content">
+            <p id="ranking-note" class="note"></p>
+            <div id="ranking-list" class="ranking-list"></div>
+            <p id="ranking-source" class="widget-source"></p>
+          </div>
+        </details>
+
+        <details class="widget disclosure-widget profile-widget">
+          <summary class="disclosure-summary">
+            <span>
+              <span id="profile-title" class="disclosure-title">Stunting by Profile</span>
+              <span id="profile-preview" class="disclosure-preview"></span>
+            </span>
+          </summary>
+          <div class="disclosure-content">
+            <div class="profile-tabs" aria-label="Profile breakdowns">
+              <button class="profile-tab is-active" type="button" data-profile="age">Age</button>
+              <button class="profile-tab" type="button" data-profile="residence">Residence</button>
+              <button class="profile-tab" type="button" data-profile="wealth">Wealth</button>
+              <button class="profile-tab" type="button" data-profile="gender">Gender</button>
+            </div>
+            <p id="profile-note" class="note"></p>
+            <div id="profile-summary" class="profile-summary"></div>
+            <div id="profile-bars" class="mini-bars"></div>
+            <p id="profile-source" class="widget-source"></p>
+          </div>
+        </details>
+
+        <details class="widget disclosure-widget selected-widget">
+          <summary class="disclosure-summary">
+            <span>
+              <span class="disclosure-title">Selected Area</span>
+              <span id="selected-preview" class="disclosure-preview">Click a map area to view details</span>
+            </span>
+          </summary>
+          <div id="selected-area" class="selected-area disclosure-content">
+            Click a region, province, LGU marker, or PPAN province.
+          </div>
+        </details>
+
+        <details class="widget disclosure-widget">
+          <summary class="disclosure-summary">
+            <span>
+              <span class="disclosure-title">Data Notes</span>
+              <span class="disclosure-preview">Sources and caveats</span>
+            </span>
+          </summary>
+          <div class="disclosure-content">
+            <p class="note">
+              Region colors use 2025 DOST-FNRI Updating Survey values. Province/HUC
+              colors use DOST-FNRI ENNS values from 2018, 2019, and 2021; OPT+
+              values are shown as cross-source context.
+            </p>
+          </div>
+        </details>
+      </aside>
+
+      <main class="map-shell">
+        <div id="status" class="status">Loading stunting map...</div>
+        <div id="map"></div>
+        <div class="map-controls" aria-label="Map controls">
+          <form class="floating-control map-search-control" id="map-search-form" role="search">
+            <label for="map-search-input">Search the map</label>
+            <div class="map-search-row">
+              <input id="map-search-input" type="search" list="map-search-options" placeholder="Region, province, city, or LGU" autocomplete="off" />
+              <button type="submit">Go</button>
+            </div>
+            <datalist id="map-search-options"></datalist>
+            <p id="map-search-status" class="map-search-status" aria-live="polite"></p>
+          </form>
+          <section class="floating-control legend-control" tabindex="0">
+            <div class="section-row">
+              <div class="legend-heading">
+                <span class="legend-kicker">Map Legend</span>
+                <h2>WHO Levels</h2>
+                <span class="legend-mobile-hint">Tap to expand</span>
+              </div>
+              <button id="clear-filter" class="text-button" type="button">Clear</button>
+            </div>
+            <p class="note">Click a level to filter the active layer.</p>
+            <p id="legend-status" class="legend-status">Showing all regions.</p>
+            <div id="who-filter" class="who-filter"></div>
+          </section>
+
+          <section class="floating-control" id="lgu-controls" hidden>
+            <h2>LGU Category</h2>
+            <div class="category-grid">
+              <button class="category-chip is-active" type="button" data-category="All">All</button>
+              <button class="category-chip" type="button" data-category="Province">Provinces</button>
+              <button class="category-chip" type="button" data-category="HUCs and ICCs">HUCs/ICCs</button>
+              <button class="category-chip" type="button" data-category="Cities">Cities</button>
+              <button class="category-chip" type="button" data-category="Municipalities">Municipalities</button>
+            </div>
+          </section>
+        </div>
+      </main>
+    </div>
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v3.20.0/mapbox-gl.js"></script>
+    <script src="./app.js?v=20260824-6"></script>
+  </body>
+</html>

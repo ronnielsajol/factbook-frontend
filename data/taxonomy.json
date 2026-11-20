@@ -1,0 +1,14 @@
+[
+  { "name": "Agriculture", "color": "#667a3a" },
+  { "name": "Economy", "color": "#29734b" },
+  { "name": "Education", "color": "#c28a24" },
+  { "name": "Energy", "color": "#d3a51f" },
+  { "name": "Entertainment & Media", "color": "#b34d83" },
+  { "name": "Health", "color": "#c84d4d" },
+  { "name": "Infrastructure", "color": "#b9683f" },
+  { "name": "Migration & Foreign Affairs", "color": "#785c9c" },
+  { "name": "Demographics & Social Development", "color": "#585e9c" },
+  { "name": "Technology & Digital", "color": "#3978b7" },
+  { "name": "Tourism", "color": "#338e91" },
+  { "name": "Transportation", "color": "#d27a36" }
+]

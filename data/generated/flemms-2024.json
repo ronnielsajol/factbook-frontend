@@ -1,0 +1,917 @@
+{
+  "source": "Philippine Statistics Authority, 2024 Functional Literacy, Education and Mass Media Survey",
+  "national": {
+    "name": "Philippines",
+    "basic": 93.11,
+    "basicMale": 91.96,
+    "basicFemale": 94.31,
+    "functional": 70.79,
+    "functionalMale": 67.57,
+    "functionalFemale": 74.1
+  },
+  "regions": [
+    {
+      "name": "National Capital Region (NCR)",
+      "basic": 94.46,
+      "basicMale": 93.78,
+      "basicFemale": 95.13,
+      "functional": 79.88,
+      "functionalMale": 78.14,
+      "functionalFemale": 81.58
+    },
+    {
+      "name": "Cordillera Administrative Region (CAR)",
+      "basic": 95.87,
+      "basicMale": 95.17,
+      "basicFemale": 96.6,
+      "functional": 81.17,
+      "functionalMale": 78.11,
+      "functionalFemale": 84.38
+    },
+    {
+      "name": "Region I (Ilocos Region)",
+      "basic": 93.25,
+      "basicMale": 92.11,
+      "basicFemale": 94.44,
+      "functional": 64.26,
+      "functionalMale": 59.96,
+      "functionalFemale": 68.76
+    },
+    {
+      "name": "Region II (Cagayan Valley)",
+      "basic": 92.54,
+      "basicMale": 91.23,
+      "basicFemale": 93.91,
+      "functional": 69.37,
+      "functionalMale": 65.24,
+      "functionalFemale": 73.71
+    },
+    {
+      "name": "Region III (Central Luzon)",
+      "basic": 95.57,
+      "basicMale": 95.02,
+      "basicFemale": 96.14,
+      "functional": 73.01,
+      "functionalMale": 70.4,
+      "functionalFemale": 75.72
+    },
+    {
+      "name": "Region IV-A (CALABARZON)",
+      "basic": 95.5,
+      "basicMale": 94.52,
+      "basicFemale": 96.49,
+      "functional": 77.29,
+      "functionalMale": 74.57,
+      "functionalFemale": 80.03
+    },
+    {
+      "name": "MIMAROPA Region",
+      "basic": 90.54,
+      "basicMale": 89.02,
+      "basicFemale": 92.14,
+      "functional": 70.69,
+      "functionalMale": 66.78,
+      "functionalFemale": 74.82
+    },
+    {
+      "name": "Region V (Bicol Region)",
+      "basic": 92.15,
+      "basicMale": 90.42,
+      "basicFemale": 94.0,
+      "functional": 67.01,
+      "functionalMale": 62.31,
+      "functionalFemale": 72.0
+    },
+    {
+      "name": "Region VI (Western Visayas)",
+      "basic": 92.81,
+      "basicMale": 91.29,
+      "basicFemale": 94.41,
+      "functional": 70.6,
+      "functionalMale": 66.6,
+      "functionalFemale": 74.81
+    },
+    {
+      "name": "Negros Island Region (NIR)",
+      "basic": 90.65,
+      "basicMale": 88.63,
+      "basicFemale": 92.79,
+      "functional": 65.71,
+      "functionalMale": 61.61,
+      "functionalFemale": 70.06
+    },
+    {
+      "name": "Region VII (Central Visayas)",
+      "basic": 95.66,
+      "basicMale": 94.96,
+      "basicFemale": 96.38,
+      "functional": 67.6,
+      "functionalMale": 65.11,
+      "functionalFemale": 70.2
+    },
+    {
+      "name": "Region VIII (Eastern Visayas)",
+      "basic": 89.6,
+      "basicMale": 87.16,
+      "basicFemale": 92.23,
+      "functional": 61.83,
+      "functionalMale": 57.03,
+      "functionalFemale": 67.0
+    },
+    {
+      "name": "Region IX (Zamboanga Peninsula)",
+      "basic": 89.37,
+      "basicMale": 87.56,
+      "basicFemale": 91.27,
+      "functional": 59.34,
+      "functionalMale": 55.46,
+      "functionalFemale": 63.39
+    },
+    {
+      "name": "Region X (Northern Mindanao)",
+      "basic": 93.87,
+      "basicMale": 92.73,
+      "basicFemale": 95.07,
+      "functional": 69.99,
+      "functionalMale": 66.86,
+      "functionalFemale": 73.3
+    },
+    {
+      "name": "Region XI (Davao Region)",
+      "basic": 93.11,
+      "basicMale": 92.06,
+      "basicFemale": 94.21,
+      "functional": 66.69,
+      "functionalMale": 63.21,
+      "functionalFemale": 70.35
+    },
+    {
+      "name": "Region XII (SOCCSKSARGEN)",
+      "basic": 90.31,
+      "basicMale": 88.85,
+      "basicFemale": 91.83,
+      "functional": 65.82,
+      "functionalMale": 62.25,
+      "functionalFemale": 69.57
+    },
+    {
+      "name": "Region XIII (Caraga)",
+      "basic": 91.41,
+      "basicMale": 89.7,
+      "basicFemale": 93.24,
+      "functional": 63.15,
+      "functionalMale": 59.53,
+      "functionalFemale": 67.03
+    },
+    {
+      "name": "BARMM",
+      "basic": 84.24,
+      "basicMale": 83.24,
+      "basicFemale": 85.22,
+      "functional": 64.71,
+      "functionalMale": 62.9,
+      "functionalFemale": 66.48
+    }
+  ],
+  "ages": [
+    {
+      "name": "10-14",
+      "basic": 89.93,
+      "basicMale": 88.97,
+      "basicFemale": 90.93,
+      "functional": 63.76,
+      "functionalMale": 61.64,
+      "functionalFemale": 66.0
+    },
+    {
+      "name": "15-19",
+      "basic": 95.89,
+      "basicMale": 95.0,
+      "basicFemale": 96.82,
+      "functional": 76.55,
+      "functionalMale": 73.39,
+      "functionalFemale": 79.85
+    },
+    {
+      "name": "20-24",
+      "basic": 96.14,
+      "basicMale": 95.27,
+      "basicFemale": 97.06,
+      "functional": 78.32,
+      "functionalMale": 74.93,
+      "functionalFemale": 81.93
+    },
+    {
+      "name": "25-29",
+      "basic": 95.55,
+      "basicMale": 94.59,
+      "basicFemale": 96.58,
+      "functional": 75.73,
+      "functionalMale": 72.21,
+      "functionalFemale": 79.47
+    },
+    {
+      "name": "30-39",
+      "basic": 94.65,
+      "basicMale": 93.25,
+      "basicFemale": 96.08,
+      "functional": 72.81,
+      "functionalMale": 68.85,
+      "functionalFemale": 76.89
+    },
+    {
+      "name": "40-49",
+      "basic": 92.89,
+      "basicMale": 91.82,
+      "basicFemale": 93.97,
+      "functional": 69.51,
+      "functionalMale": 66.23,
+      "functionalFemale": 72.83
+    },
+    {
+      "name": "50-59",
+      "basic": 89.44,
+      "basicMale": 87.72,
+      "basicFemale": 91.15,
+      "functional": 63.72,
+      "functionalMale": 60.35,
+      "functionalFemale": 67.06
+    },
+    {
+      "name": "60-64",
+      "basic": 84.64,
+      "basicMale": 82.37,
+      "basicFemale": 86.78,
+      "functional": 57.84,
+      "functionalMale": 55.24,
+      "functionalFemale": 60.3
+    }
+  ],
+  "internet": [
+    {
+      "name": "Philippines",
+      "workResearch": 52.75,
+      "socialMedia": 80.49,
+      "ecommerce": 45.25,
+      "governmentFinance": 37.02
+    },
+    {
+      "name": "National Capital Region (NCR)",
+      "workResearch": 67.44,
+      "socialMedia": 88.88,
+      "ecommerce": 60.91,
+      "governmentFinance": 54.52
+    },
+    {
+      "name": "Cordillera Administrative Region (CAR)",
+      "workResearch": 54.99,
+      "socialMedia": 83.62,
+      "ecommerce": 41.38,
+      "governmentFinance": 39.53
+    },
+    {
+      "name": "Region I (Ilocos Region)",
+      "workResearch": 48.08,
+      "socialMedia": 83.31,
+      "ecommerce": 44.62,
+      "governmentFinance": 35.02
+    },
+    {
+      "name": "Region II (Cagayan Valley)",
+      "workResearch": 45.68,
+      "socialMedia": 77.98,
+      "ecommerce": 36.28,
+      "governmentFinance": 29.42
+    },
+    {
+      "name": "Region III (Central Luzon)",
+      "workResearch": 48.28,
+      "socialMedia": 84.27,
+      "ecommerce": 48.67,
+      "governmentFinance": 34.93
+    },
+    {
+      "name": "Region IV-A (CALABARZON)",
+      "workResearch": 62.36,
+      "socialMedia": 85.99,
+      "ecommerce": 57.96,
+      "governmentFinance": 48.35
+    },
+    {
+      "name": "MIMAROPA Region",
+      "workResearch": 49.07,
+      "socialMedia": 75.0,
+      "ecommerce": 40.81,
+      "governmentFinance": 28.82
+    },
+    {
+      "name": "Region V (Bicol Region)",
+      "workResearch": 50.27,
+      "socialMedia": 78.47,
+      "ecommerce": 35.1,
+      "governmentFinance": 25.53
+    },
+    {
+      "name": "Region VI (Western Visayas)",
+      "workResearch": 47.97,
+      "socialMedia": 76.67,
+      "ecommerce": 37.42,
+      "governmentFinance": 29.52
+    },
+    {
+      "name": "Negros Island Region (NIR)",
+      "workResearch": 45.39,
+      "socialMedia": 72.58,
+      "ecommerce": 34.26,
+      "governmentFinance": 29.05
+    },
+    {
+      "name": "Region VII (Central Visayas)",
+      "workResearch": 54.49,
+      "socialMedia": 83.39,
+      "ecommerce": 43.22,
+      "governmentFinance": 37.61
+    },
+    {
+      "name": "Region VIII (Eastern Visayas)",
+      "workResearch": 46.3,
+      "socialMedia": 75.36,
+      "ecommerce": 35.61,
+      "governmentFinance": 26.6
+    },
+    {
+      "name": "Region IX (Zamboanga Peninsula)",
+      "workResearch": 43.95,
+      "socialMedia": 67.82,
+      "ecommerce": 29.99,
+      "governmentFinance": 26.34
+    },
+    {
+      "name": "Region X (Northern Mindanao)",
+      "workResearch": 40.37,
+      "socialMedia": 73.64,
+      "ecommerce": 37.09,
+      "governmentFinance": 29.73
+    },
+    {
+      "name": "Region XI (Davao Region)",
+      "workResearch": 51.29,
+      "socialMedia": 77.53,
+      "ecommerce": 39.37,
+      "governmentFinance": 33.82
+    },
+    {
+      "name": "Region XII (SOCCSKSARGEN)",
+      "workResearch": 46.61,
+      "socialMedia": 71.35,
+      "ecommerce": 34.63,
+      "governmentFinance": 29.05
+    },
+    {
+      "name": "Region XIII (Caraga)",
+      "workResearch": 42.48,
+      "socialMedia": 74.63,
+      "ecommerce": 33.9,
+      "governmentFinance": 24.49
+    },
+    {
+      "name": "BARMM",
+      "workResearch": 49.63,
+      "socialMedia": 72.16,
+      "ecommerce": 38.82,
+      "governmentFinance": 34.65
+    },
+    {
+      "name": "10-14",
+      "workResearch": 49.63,
+      "socialMedia": 75.43,
+      "ecommerce": 28.22,
+      "governmentFinance": 15.39
+    },
+    {
+      "name": "15-19",
+      "workResearch": 69.35,
+      "socialMedia": 89.86,
+      "ecommerce": 49.44,
+      "governmentFinance": 30.04
+    },
+    {
+      "name": "20-24",
+      "workResearch": 69.2,
+      "socialMedia": 90.69,
+      "ecommerce": 57.71,
+      "governmentFinance": 45.24
+    },
+    {
+      "name": "25-29",
+      "workResearch": 60.33,
+      "socialMedia": 87.78,
+      "ecommerce": 55.12,
+      "governmentFinance": 48.63
+    },
+    {
+      "name": "30-39",
+      "workResearch": 53.04,
+      "socialMedia": 83.86,
+      "ecommerce": 50.99,
+      "governmentFinance": 45.45
+    },
+    {
+      "name": "40-49",
+      "workResearch": 44.45,
+      "socialMedia": 77.23,
+      "ecommerce": 44.34,
+      "governmentFinance": 40.22
+    },
+    {
+      "name": "50-59",
+      "workResearch": 34.31,
+      "socialMedia": 66.24,
+      "ecommerce": 35.08,
+      "governmentFinance": 32.88
+    },
+    {
+      "name": "60-64",
+      "workResearch": 27.71,
+      "socialMedia": 56.65,
+      "ecommerce": 27.63,
+      "governmentFinance": 26.45
+    }
+  ],
+  "reading": [
+    {
+      "name": "Philippines",
+      "printNewspaper": 29.98,
+      "digitalNewspaper": 52.14,
+      "printMagazine": 50.21,
+      "printPosters": 49.22
+    },
+    {
+      "name": "National Capital Region (NCR)",
+      "printNewspaper": 39.52,
+      "digitalNewspaper": 63.83,
+      "printMagazine": 52.62,
+      "printPosters": 51.01
+    },
+    {
+      "name": "Cordillera Administrative Region (CAR)",
+      "printNewspaper": 33.72,
+      "digitalNewspaper": 58.71,
+      "printMagazine": 56.24,
+      "printPosters": 56.19
+    },
+    {
+      "name": "Region I (Ilocos Region)",
+      "printNewspaper": 27.57,
+      "digitalNewspaper": 53.03,
+      "printMagazine": 48.04,
+      "printPosters": 45.88
+    },
+    {
+      "name": "Region II (Cagayan Valley)",
+      "printNewspaper": 19.43,
+      "digitalNewspaper": 41.59,
+      "printMagazine": 49.17,
+      "printPosters": 48.78
+    },
+    {
+      "name": "Region III (Central Luzon)",
+      "printNewspaper": 27.38,
+      "digitalNewspaper": 54.08,
+      "printMagazine": 47.97,
+      "printPosters": 50.48
+    },
+    {
+      "name": "Region IV-A (CALABARZON)",
+      "printNewspaper": 28.78,
+      "digitalNewspaper": 55.71,
+      "printMagazine": 51.43,
+      "printPosters": 52.57
+    },
+    {
+      "name": "MIMAROPA Region",
+      "printNewspaper": 23.33,
+      "digitalNewspaper": 46.66,
+      "printMagazine": 45.82,
+      "printPosters": 42.6
+    },
+    {
+      "name": "Region V (Bicol Region)",
+      "printNewspaper": 16.24,
+      "digitalNewspaper": 44.68,
+      "printMagazine": 43.23,
+      "printPosters": 38.3
+    },
+    {
+      "name": "Region VI (Western Visayas)",
+      "printNewspaper": 26.26,
+      "digitalNewspaper": 51.41,
+      "printMagazine": 50.88,
+      "printPosters": 48.83
+    },
+    {
+      "name": "Negros Island Region (NIR)",
+      "printNewspaper": 26.88,
+      "digitalNewspaper": 40.58,
+      "printMagazine": 44.97,
+      "printPosters": 46.07
+    },
+    {
+      "name": "Region VII (Central Visayas)",
+      "printNewspaper": 49.04,
+      "digitalNewspaper": 64.56,
+      "printMagazine": 58.78,
+      "printPosters": 55.07
+    },
+    {
+      "name": "Region VIII (Eastern Visayas)",
+      "printNewspaper": 19.5,
+      "digitalNewspaper": 41.31,
+      "printMagazine": 46.8,
+      "printPosters": 45.85
+    },
+    {
+      "name": "Region IX (Zamboanga Peninsula)",
+      "printNewspaper": 28.5,
+      "digitalNewspaper": 39.16,
+      "printMagazine": 49.41,
+      "printPosters": 45.55
+    },
+    {
+      "name": "Region X (Northern Mindanao)",
+      "printNewspaper": 23.32,
+      "digitalNewspaper": 41.71,
+      "printMagazine": 51.25,
+      "printPosters": 50.05
+    },
+    {
+      "name": "Region XI (Davao Region)",
+      "printNewspaper": 33.4,
+      "digitalNewspaper": 52.9,
+      "printMagazine": 52.43,
+      "printPosters": 52.5
+    },
+    {
+      "name": "Region XII (SOCCSKSARGEN)",
+      "printNewspaper": 29.63,
+      "digitalNewspaper": 49.93,
+      "printMagazine": 48.94,
+      "printPosters": 47.0
+    },
+    {
+      "name": "Region XIII (Caraga)",
+      "printNewspaper": 21.05,
+      "digitalNewspaper": 44.05,
+      "printMagazine": 47.23,
+      "printPosters": 44.64
+    },
+    {
+      "name": "BARMM",
+      "printNewspaper": 46.62,
+      "digitalNewspaper": 48.29,
+      "printMagazine": 53.98,
+      "printPosters": 49.25
+    },
+    {
+      "name": "10-14",
+      "printNewspaper": 19.2,
+      "digitalNewspaper": 34.95,
+      "printMagazine": 59.42,
+      "printPosters": 40.92
+    },
+    {
+      "name": "15-19",
+      "printNewspaper": 26.97,
+      "digitalNewspaper": 54.31,
+      "printMagazine": 63.69,
+      "printPosters": 53.29
+    },
+    {
+      "name": "20-24",
+      "printNewspaper": 30.84,
+      "digitalNewspaper": 61.23,
+      "printMagazine": 58.33,
+      "printPosters": 55.71
+    },
+    {
+      "name": "25-29",
+      "printNewspaper": 30.84,
+      "digitalNewspaper": 58.85,
+      "printMagazine": 50.35,
+      "printPosters": 52.91
+    },
+    {
+      "name": "30-39",
+      "printNewspaper": 32.1,
+      "digitalNewspaper": 57.15,
+      "printMagazine": 47.03,
+      "printPosters": 51.3
+    },
+    {
+      "name": "40-49",
+      "printNewspaper": 33.36,
+      "digitalNewspaper": 53.31,
+      "printMagazine": 42.94,
+      "printPosters": 48.7
+    },
+    {
+      "name": "50-59",
+      "printNewspaper": 33.49,
+      "digitalNewspaper": 46.76,
+      "printMagazine": 38.43,
+      "printPosters": 44.51
+    },
+    {
+      "name": "60-64",
+      "printNewspaper": 33.36,
+      "digitalNewspaper": 41.31,
+      "printMagazine": 35.32,
+      "printPosters": 40.25
+    }
+  ],
+  "audioVisual": [
+    {
+      "name": "Philippines",
+      "television": 82.34,
+      "radio": 52.9,
+      "movies": 58.24,
+      "videoStreaming": 66.46,
+      "musicStreaming": 63.49
+    },
+    {
+      "name": "National Capital Region (NCR)",
+      "television": 88.04,
+      "radio": 52.6,
+      "movies": 62.85,
+      "videoStreaming": 75.87,
+      "musicStreaming": 73.52
+    },
+    {
+      "name": "Cordillera Administrative Region (CAR)",
+      "television": 82.28,
+      "radio": 55.28,
+      "movies": 58.3,
+      "videoStreaming": 67.36,
+      "musicStreaming": 65.89
+    },
+    {
+      "name": "Region I (Ilocos Region)",
+      "television": 81.66,
+      "radio": 59.55,
+      "movies": 55.13,
+      "videoStreaming": 67.75,
+      "musicStreaming": 65.28
+    },
+    {
+      "name": "Region II (Cagayan Valley)",
+      "television": 78.15,
+      "radio": 46.57,
+      "movies": 56.87,
+      "videoStreaming": 62.82,
+      "musicStreaming": 62.36
+    },
+    {
+      "name": "Region III (Central Luzon)",
+      "television": 86.23,
+      "radio": 49.36,
+      "movies": 53.23,
+      "videoStreaming": 68.01,
+      "musicStreaming": 62.78
+    },
+    {
+      "name": "Region IV-A (CALABARZON)",
+      "television": 85.23,
+      "radio": 46.22,
+      "movies": 56.75,
+      "videoStreaming": 76.04,
+      "musicStreaming": 73.43
+    },
+    {
+      "name": "MIMAROPA Region",
+      "television": 75.27,
+      "radio": 39.11,
+      "movies": 50.61,
+      "videoStreaming": 62.95,
+      "musicStreaming": 60.21
+    },
+    {
+      "name": "Region V (Bicol Region)",
+      "television": 77.22,
+      "radio": 45.25,
+      "movies": 52.87,
+      "videoStreaming": 58.24,
+      "musicStreaming": 54.79
+    },
+    {
+      "name": "Region VI (Western Visayas)",
+      "television": 75.91,
+      "radio": 53.84,
+      "movies": 59.01,
+      "videoStreaming": 62.64,
+      "musicStreaming": 58.02
+    },
+    {
+      "name": "Negros Island Region (NIR)",
+      "television": 78.74,
+      "radio": 54.58,
+      "movies": 54.21,
+      "videoStreaming": 59.54,
+      "musicStreaming": 57.74
+    },
+    {
+      "name": "Region VII (Central Visayas)",
+      "television": 83.7,
+      "radio": 63.73,
+      "movies": 60.0,
+      "videoStreaming": 63.14,
+      "musicStreaming": 61.29
+    },
+    {
+      "name": "Region VIII (Eastern Visayas)",
+      "television": 82.25,
+      "radio": 37.84,
+      "movies": 65.93,
+      "videoStreaming": 67.09,
+      "musicStreaming": 61.83
+    },
+    {
+      "name": "Region IX (Zamboanga Peninsula)",
+      "television": 75.99,
+      "radio": 57.48,
+      "movies": 55.51,
+      "videoStreaming": 57.41,
+      "musicStreaming": 55.34
+    },
+    {
+      "name": "Region X (Northern Mindanao)",
+      "television": 78.34,
+      "radio": 57.28,
+      "movies": 57.76,
+      "videoStreaming": 57.49,
+      "musicStreaming": 53.47
+    },
+    {
+      "name": "Region XI (Davao Region)",
+      "television": 81.9,
+      "radio": 63.87,
+      "movies": 64.93,
+      "videoStreaming": 64.58,
+      "musicStreaming": 62.3
+    },
+    {
+      "name": "Region XII (SOCCSKSARGEN)",
+      "television": 79.85,
+      "radio": 65.39,
+      "movies": 61.09,
+      "videoStreaming": 58.52,
+      "musicStreaming": 55.99
+    },
+    {
+      "name": "Region XIII (Caraga)",
+      "television": 76.04,
+      "radio": 52.29,
+      "movies": 63.34,
+      "videoStreaming": 61.18,
+      "musicStreaming": 56.83
+    },
+    {
+      "name": "BARMM",
+      "television": 82.33,
+      "radio": 68.58,
+      "movies": 62.52,
+      "videoStreaming": 53.83,
+      "musicStreaming": 53.34
+    },
+    {
+      "name": "10-14",
+      "television": 81.65,
+      "radio": 41.85,
+      "movies": 56.07,
+      "videoStreaming": 64.9,
+      "musicStreaming": 60.0
+    },
+    {
+      "name": "15-19",
+      "television": 82.14,
+      "radio": 48.12,
+      "movies": 66.6,
+      "videoStreaming": 77.64,
+      "musicStreaming": 75.67
+    },
+    {
+      "name": "20-24",
+      "television": 81.95,
+      "radio": 51.54,
+      "movies": 68.77,
+      "videoStreaming": 78.55,
+      "musicStreaming": 76.99
+    },
+    {
+      "name": "25-29",
+      "television": 81.43,
+      "radio": 52.33,
+      "movies": 63.97,
+      "videoStreaming": 74.07,
+      "musicStreaming": 71.85
+    },
+    {
+      "name": "30-39",
+      "television": 82.45,
+      "radio": 54.79,
+      "movies": 59.39,
+      "videoStreaming": 68.31,
+      "musicStreaming": 65.21
+    },
+    {
+      "name": "40-49",
+      "television": 83.13,
+      "radio": 57.36,
+      "movies": 53.38,
+      "videoStreaming": 60.48,
+      "musicStreaming": 56.9
+    },
+    {
+      "name": "50-59",
+      "television": 83.15,
+      "radio": 59.3,
+      "movies": 46.82,
+      "videoStreaming": 50.52,
+      "musicStreaming": 47.39
+    },
+    {
+      "name": "60-64",
+      "television": 82.85,
+      "radio": 60.79,
+      "movies": 40.92,
+      "videoStreaming": 42.95,
+      "musicStreaming": 40.31
+    }
+  ],
+  "trends": [
+    {
+      "name": "Newspaper (printed)",
+      "2019": 63.31,
+      "2024": 29.98
+    },
+    {
+      "name": "Newspaper (online/digital)",
+      "2019": null,
+      "2024": 52.14
+    },
+    {
+      "name": "Magazine (printed)",
+      "2019": 73.15,
+      "2024": 50.21
+    },
+    {
+      "name": "Posters (printed)",
+      "2019": 69.08,
+      "2024": 49.22
+    },
+    {
+      "name": "Television",
+      "2019": 96.04,
+      "2024": 82.34
+    },
+    {
+      "name": "Radio",
+      "2019": 75.2,
+      "2024": 52.9
+    },
+    {
+      "name": "Movies, Plays, and Similar Shows (cinema/dvd/vcd players)",
+      "2019": 65.88,
+      "2024": 58.24
+    },
+    {
+      "name": "Video Streaming",
+      "2019": null,
+      "2024": 66.46
+    },
+    {
+      "name": "Music Streaming",
+      "2019": null,
+      "2024": 63.49
+    },
+    {
+      "name": "Internet for Work/Research",
+      "2019": 63.63,
+      "2024": 52.75
+    },
+    {
+      "name": "Internet for Social Media",
+      "2019": 73.87,
+      "2024": 80.49
+    },
+    {
+      "name": "Internet for E-commerce Platform",
+      "2019": null,
+      "2024": 45.25
+    },
+    {
+      "name": "Internet for Government Services/ Financial Transactions/ Online Banking",
+      "2019": null,
+      "2024": 37.02
+    }
+  ]
+}
